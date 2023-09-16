@@ -5781,3 +5781,762 @@ UnknownFunction []
 [2023.09.16-23.26.10:842][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 3.91 sec)
 [2023.09.16-23.26.10:843][ 59]AssetCheck: New page: Asset Save: Boss_BP
 [2023.09.16-23.26.10:843][ 59]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP
+[2023.09.16-23.37.34:421][775]BlueprintLog: New page: Compile Boss_BP
+[2023.09.16-23.37.34:495][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.09.16-23.38.10:794][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.09.16-23.38.10:800][ 28]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.017
+[2023.09.16-23.38.10:800][ 28]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/EnemiesIA/Boss/Boss_BP] ([2] browsable assets)...
+[2023.09.16-23.38.10:877][ 28]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP]
+[2023.09.16-23.38.10:877][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnemiesIA/Boss/Boss_BP]
+[2023.09.16-23.38.10:902][ 28]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/EnemiesIA/Boss/Boss_BP_Auto3
+[2023.09.16-23.38.10:902][ 28]LogSavePackage: Moving '../../../../../../Users/Ayugu/Documents/GitHub/Anulax/Anulax/Saved/Boss_BP_Auto36CB18CF649009188C76C4B8B4636D104.tmp' to '../../../../../../Users/Ayugu/Documents/GitHub/Anulax/Anulax/Saved/Autosaves/Game/EnemiesIA/Boss/Boss_BP_Auto3.uasset'
+[2023.09.16-23.38.10:903][ 28]LogFileHelpers: Auto-saving content packages took 0.104
+[2023.09.16-23.38.29:646][223]BlueprintLog: New page: Compile Boss_BP
+[2023.09.16-23.38.29:717][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.09.16-23.38.31:014][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.16-23.38.31:118][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/Boss/Boss_BP" FILE="../../../../../../Users/Ayugu/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset" SILENT=true
+[2023.09.16-23.38.31:142][345]LogSavePackage: Moving output files for package: /Game/EnemiesIA/Boss/Boss_BP
+[2023.09.16-23.38.31:142][345]LogSavePackage: Moving '../../../../../../Users/Ayugu/Documents/GitHub/Anulax/Anulax/Saved/Boss_BPA6A4EC68401AABD6AC0BB18F9D3B4CE3.tmp' to '../../../../../../Users/Ayugu/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset'
+[2023.09.16-23.38.31:147][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 4.04 sec)
+[2023.09.16-23.38.31:148][345]AssetCheck: New page: Asset Save: Boss_BP
+[2023.09.16-23.38.31:148][345]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP
+[2023.09.16-23.41.28:306][ 17]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.09.16-23.41.28:311][ 17]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.16-23.41.28:311][ 17]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2023.09.16-23.41.28:312][ 17]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 18 ms)
+[2023.09.16-23.41.28:312][ 17]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.09.16-23.41.28:318][ 17]LogPlayLevel: [PlayLevel] Compiling Bullet_BP before play...
+[2023.09.16-23.41.28:393][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.09.16-23.41.28:398][ 17]LogPlayLevel: PlayLevel: Blueprint regeneration took 85 ms (1 blueprints)
+[2023.09.16-23.41.28:398][ 17]PIE: New page: PIE session: ThirdPersonMap (17 sept. 2023 3:41:28)
+[2023.09.16-23.41.28:398][ 17]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.16-23.41.28:406][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008437s)
+[2023.09.16-23.41.28:406][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.008465s)
+[2023.09.16-23.41.28:414][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.09.16-23.41.28:415][ 17]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.16-23.41.28:415][ 17]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.16-23.41.28:416][ 17]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.09.16-23.41.28:416][ 17]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.16-23.41.28:416][ 17]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.16-23.41.28:416][ 17]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.09.16-23.41.28:416][ 17]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.09.16-23.41.28:418][ 17]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.09.16-23.41.28:418][ 17]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 130 ms)
+[2023.09.16-23.41.28:418][ 17]LogPlayLevel: PIE: World Init took: (0.002968s)
+[2023.09.16-23.41.28:418][ 17]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.09.16-23.41.28:418][ 17]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.16-23.41.28:418][ 17]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.16-23.41.28:418][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.16-23.41.28:418][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.16-23.41.28:418][ 17]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.16-23.41.28:418][ 17]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.16-23.41.28:418][ 17]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.16-23.41.28:418][ 17]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.16-23.41.28:419][ 17]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.16-23.41.28:419][ 17]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.16-23.41.28:419][ 17]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.16-23.41.28:421][ 17]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.16-23.41.28:435][ 17]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.09.16-23.41.28:435][ 17]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.16-23.41.28:435][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.16-23.41.28:435][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.16-23.41.28:436][ 17]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.09.16-23.41.28:436][ 17]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.09.16-23.41.28:437][ 17]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.09.16-23.41.28:437][ 17]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.09.16-23.41.28:437][ 17]LogInit: FAudioDevice initialized with ID 23.
+[2023.09.16-23.41.28:437][ 17]LogAudio: Display: Audio Device (ID: 23) registered with world 'ThirdPersonMap'.
+[2023.09.16-23.41.28:437][ 17]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2023.09.16-23.41.28:469][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.16-23.41.28:469][ 17]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.16-23.41.28:473][ 17]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.09.17-01.41.28
+[2023.09.16-23.41.28:476][ 17]LogWorld: Bringing up level for play took: 0.006825
+[2023.09.16-23.41.28:478][ 17]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.09.16-23.41.28:486][ 17]PIE: Server logged in
+[2023.09.16-23.41.28:489][ 17]PIE: Play in editor total start time 0,178 seconds.
+[2023.09.16-23.41.28:528][ 17]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.09.16-23.41.34:615][587]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 19
+[2023.09.16-23.41.35:539][673]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 18
+[2023.09.16-23.41.36:808][792]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 17
+[2023.09.16-23.41.37:427][850]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 2
+[2023.09.16-23.41.39:102][  9]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 16
+[2023.09.16-23.41.40:247][116]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 15
+[2023.09.16-23.41.41:453][229]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 14
+[2023.09.16-23.41.42:279][306]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 13
+[2023.09.16-23.41.43:290][400]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 12
+[2023.09.16-23.41.44:619][525]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 11
+[2023.09.16-23.41.45:672][624]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 10
+[2023.09.16-23.41.46:843][733]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 9
+[2023.09.16-23.41.48:098][851]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 8
+[2023.09.16-23.41.49:739][  6]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 7
+[2023.09.16-23.41.51:551][177]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 6
+[2023.09.16-23.41.54:864][494]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 5
+[2023.09.16-23.41.56:178][618]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 4
+[2023.09.16-23.41.57:161][711]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 3
+[2023.09.16-23.41.58:017][792]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 2
+[2023.09.16-23.41.59:070][892]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 1
+[2023.09.16-23.42.03:865][354]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 0
+[2023.09.16-23.42.04:730][434]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -1
+[2023.09.16-23.42.05:726][527]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -2
+[2023.09.16-23.42.11:720][ 83]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1219830947] 1
+[2023.09.16-23.42.11:720][ 83]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1341309491] 1
+[2023.09.16-23.42.11:953][104]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 1
+[2023.09.16-23.42.12:212][128]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 0
+[2023.09.16-23.42.12:212][128]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.42.14:466][335]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1337793489] 1
+[2023.09.16-23.42.16:120][485]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1337793489] 0
+[2023.09.16-23.42.16:463][516]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -1
+[2023.09.16-23.42.16:463][516]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.42.17:332][595]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1341309491] 0
+[2023.09.16-23.42.17:333][595]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1364329948] 1
+[2023.09.16-23.42.19:337][779]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1219830947] 0
+[2023.09.16-23.42.21:352][965]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1364329948] 0
+[2023.09.16-23.42.22:627][ 82]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365770951] 1
+[2023.09.16-23.42.22:638][ 83]LogCharacterMovement: MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492 is stuck and failed to move! Velocity: X=-3.35 Y=-48.47 Z=0.00 Location: X=1026.58 Y=1545.81 Z=90.21 Normal: X=-0.16 Y=-0.99 Z=0.00 PenetrationDepth:1.689 Actor:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949 Component:Plane1 BoneName:None (0 other events since notify)
+[2023.09.16-23.42.23:692][179]LogCharacterMovement: MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492 is stuck and failed to move! Velocity: X=-134.19 Y=-584.80 Z=0.00 Location: X=1024.19 Y=1546.10 Z=90.21 Normal: X=-0.23 Y=-0.97 Z=0.00 PenetrationDepth:1.628 Actor:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949 Component:Plane1 BoneName:None (67 other events since notify)
+[2023.09.16-23.42.23:961][204]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365770951] 0
+[2023.09.16-23.42.24:696][271]LogCharacterMovement: MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492 is stuck and failed to move! Velocity: X=120.39 Y=-587.80 Z=0.00 Location: X=1024.40 Y=1546.05 Z=90.21 Normal: X=-0.23 Y=-0.97 Z=0.00 PenetrationDepth:1.662 Actor:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949 Component:Plane1 BoneName:None (86 other events since notify)
+[2023.09.16-23.42.25:699][364]LogCharacterMovement: MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492 is stuck and failed to move! Velocity: X=336.07 Y=-497.05 Z=0.00 Location: X=1024.40 Y=1546.05 Z=90.21 Normal: X=-0.23 Y=-0.97 Z=0.00 PenetrationDepth:1.676 Actor:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949 Component:Plane1 BoneName:None (92 other events since notify)
+[2023.09.16-23.42.26:708][458]LogCharacterMovement: MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492 is stuck and failed to move! Velocity: X=519.27 Y=-300.60 Z=0.00 Location: X=1024.40 Y=1546.05 Z=90.21 Normal: X=-0.23 Y=-0.97 Z=0.00 PenetrationDepth:1.697 Actor:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949 Component:Plane1 BoneName:None (93 other events since notify)
+[2023.09.16-23.42.27:718][552]LogCharacterMovement: MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492 is stuck and failed to move! Velocity: X=598.98 Y=35.02 Z=0.00 Location: X=1024.40 Y=1546.05 Z=90.21 Normal: X=-0.23 Y=-0.97 Z=0.00 PenetrationDepth:1.718 Actor:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949 Component:Plane1 BoneName:None (93 other events since notify)
+[2023.09.16-23.42.27:771][557]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1663532499] 0
+[2023.09.16-23.42.27:771][557]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1660226498] 0
+[2023.09.16-23.42.28:337][609]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -2
+[2023.09.16-23.42.28:337][609]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.42.28:730][645]LogCharacterMovement: MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492 is stuck and failed to move! Velocity: X=592.33 Y=-95.60 Z=0.00 Location: X=1024.40 Y=1546.05 Z=90.21 Normal: X=-0.23 Y=-0.97 Z=0.00 PenetrationDepth:1.718 Actor:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949 Component:Plane1 BoneName:None (89 other events since notify)
+[2023.09.16-23.42.29:736][740]LogCharacterMovement: MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492 is stuck and failed to move! Velocity: X=592.33 Y=-95.60 Z=0.00 Location: X=1024.40 Y=1546.05 Z=90.21 Normal: X=-0.23 Y=-0.97 Z=0.00 PenetrationDepth:1.718 Actor:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949 Component:Plane1 BoneName:None (94 other events since notify)
+[2023.09.16-23.42.30:738][834]LogCharacterMovement: MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492 is stuck and failed to move! Velocity: X=592.33 Y=-95.60 Z=0.00 Location: X=1024.40 Y=1546.05 Z=90.21 Normal: X=-0.23 Y=-0.97 Z=0.00 PenetrationDepth:1.718 Actor:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949 Component:Plane1 BoneName:None (93 other events since notify)
+[2023.09.16-23.42.30:945][854]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365965952] 1
+[2023.09.16-23.42.31:742][927]LogCharacterMovement: MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492 is stuck and failed to move! Velocity: X=558.80 Y=-218.51 Z=0.00 Location: X=1024.40 Y=1546.05 Z=90.21 Normal: X=-0.23 Y=-0.97 Z=0.00 PenetrationDepth:1.718 Actor:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949 Component:Plane1 BoneName:None (92 other events since notify)
+[2023.09.16-23.42.31:874][939]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365965952] 0
+[2023.09.16-23.42.32:741][ 19]LogCharacterMovement: MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492 is stuck and failed to move! Velocity: X=531.19 Y=-278.99 Z=0.00 Location: X=1024.40 Y=1546.05 Z=90.21 Normal: X=-0.23 Y=-0.97 Z=0.00 PenetrationDepth:1.718 Actor:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949 Component:Plane1 BoneName:None (91 other events since notify)
+[2023.09.16-23.42.33:378][ 79]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658818497] 0
+[2023.09.16-23.42.33:742][113]LogCharacterMovement: MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492 is stuck and failed to move! Velocity: X=592.33 Y=-95.60 Z=0.00 Location: X=1024.40 Y=1546.05 Z=90.21 Normal: X=-0.23 Y=-0.97 Z=0.00 PenetrationDepth:1.718 Actor:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949 Component:Plane1 BoneName:None (90 other events since notify)
+[2023.09.16-23.42.36:568][378]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1654804494] 0
+[2023.09.16-23.42.36:569][378]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1657974495] 0
+[2023.09.16-23.42.38:024][514]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1335841488] 1
+[2023.09.16-23.42.39:304][631]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492] 1
+[2023.09.16-23.42.39:421][642]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -3
+[2023.09.16-23.42.39:421][642]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.42.41:328][821]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1335841488] 0
+[2023.09.16-23.42.41:329][821]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658342496] 0
+[2023.09.16-23.42.42:724][953]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492] 0
+[2023.09.16-23.42.43:739][ 47]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949] 1
+[2023.09.16-23.42.45:187][181]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949] 0
+[2023.09.16-23.42.49:282][579]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -3
+[2023.09.16-23.42.50:648][713]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -4
+[2023.09.16-23.42.51:457][793]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -5
+[2023.09.16-23.42.52:302][876]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -6
+[2023.09.16-23.42.53:232][968]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -7
+[2023.09.16-23.43.05:592][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.16-23.43.05:592][176]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.16-23.43.05:592][176]LogSlate: Window 'Anulax Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.09.16-23.43.05:593][176]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.16-23.43.05:594][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.16-23.43.05:594][176]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.09.16-23.43.05:597][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.16-23.43.05:601][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.16-23.43.05:614][176]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2023.09.16-23.43.05:614][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.09.16-23.43.05:616][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.09.16-23.43.05:622][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.09.16-23.43.05:692][177]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.09.16-23.43.21:047][972]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.16-23.43.21:047][972]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2023.09.16-23.43.21:047][972]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 19 ms)
+[2023.09.16-23.43.21:048][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.16-23.43.21:048][972]PIE: New page: PIE session: ThirdPersonMap (17 sept. 2023 3:43:21)
+[2023.09.16-23.43.21:048][972]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.16-23.43.21:056][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008410s)
+[2023.09.16-23.43.21:056][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.008435s)
+[2023.09.16-23.43.21:067][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.09.16-23.43.21:073][972]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.16-23.43.21:073][972]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.16-23.43.21:073][972]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.09.16-23.43.21:074][972]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.16-23.43.21:074][972]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.16-23.43.21:074][972]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.09.16-23.43.21:074][972]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.09.16-23.43.21:076][972]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.09.16-23.43.21:076][972]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 132 ms)
+[2023.09.16-23.43.21:076][972]LogPlayLevel: PIE: World Init took: (0.003612s)
+[2023.09.16-23.43.21:077][972]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.09.16-23.43.21:077][972]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.16-23.43.21:077][972]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.16-23.43.21:077][972]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.16-23.43.21:077][972]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.16-23.43.21:077][972]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.16-23.43.21:077][972]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.16-23.43.21:077][972]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.16-23.43.21:077][972]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.16-23.43.21:077][972]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.16-23.43.21:077][972]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.16-23.43.21:077][972]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.16-23.43.21:079][972]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.16-23.43.21:091][972]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.09.16-23.43.21:091][972]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.16-23.43.21:091][972]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.16-23.43.21:091][972]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.16-23.43.21:092][972]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.09.16-23.43.21:092][972]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.09.16-23.43.21:093][972]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.09.16-23.43.21:093][972]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.09.16-23.43.21:094][972]LogInit: FAudioDevice initialized with ID 24.
+[2023.09.16-23.43.21:094][972]LogAudio: Display: Audio Device (ID: 24) registered with world 'ThirdPersonMap'.
+[2023.09.16-23.43.21:094][972]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2023.09.16-23.43.21:097][972]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.16-23.43.21:100][972]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.09.17-01.43.21
+[2023.09.16-23.43.21:104][972]LogWorld: Bringing up level for play took: 0.006537
+[2023.09.16-23.43.21:106][972]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2023.09.16-23.43.21:111][972]PIE: Server logged in
+[2023.09.16-23.43.21:111][972]PIE: Play in editor total start time 0,065 seconds.
+[2023.09.16-23.43.25:686][482]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 19
+[2023.09.16-23.43.26:711][605]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 18
+[2023.09.16-23.43.28:094][771]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 17
+[2023.09.16-23.43.29:186][902]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 16
+[2023.09.16-23.43.30:102][ 12]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 15
+[2023.09.16-23.43.30:936][112]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 14
+[2023.09.16-23.43.32:660][319]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 13
+[2023.09.16-23.43.33:469][416]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 12
+[2023.09.16-23.43.34:336][520]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 11
+[2023.09.16-23.43.35:444][653]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 10
+[2023.09.16-23.43.36:420][770]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 9
+[2023.09.16-23.43.37:744][929]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 8
+[2023.09.16-23.43.38:770][ 52]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 7
+[2023.09.16-23.43.39:647][157]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 6
+[2023.09.16-23.43.41:463][375]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 5
+[2023.09.16-23.43.42:322][478]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 4
+[2023.09.16-23.43.43:888][666]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 3
+[2023.09.16-23.43.44:697][763]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 2
+[2023.09.16-23.43.45:554][865]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 1
+[2023.09.16-23.43.46:487][977]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 0
+[2023.09.16-23.43.47:312][ 76]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -1
+[2023.09.16-23.43.48:988][277]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -2
+[2023.09.16-23.43.49:821][377]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -3
+[2023.09.16-23.43.52:670][719]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1663532499] 0
+[2023.09.16-23.43.53:570][827]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1660226498] 0
+[2023.09.16-23.43.54:654][957]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1219830947] 1
+[2023.09.16-23.43.56:113][132]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1219830947] 0
+[2023.09.16-23.43.57:504][299]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1337793489] 1
+[2023.09.16-23.43.58:463][414]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1337793489] 0
+[2023.09.16-23.44.01:274][751]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1364329948] 1
+[2023.09.16-23.44.02:716][924]LogCharacterMovement: RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1654804494 is stuck and failed to move! Velocity: X=18.51 Y=-65.71 Z=0.00 Location: X=1074.09 Y=1773.86 Z=90.21 Normal: X=0.10 Y=-0.99 Z=0.00 PenetrationDepth:3.118 Actor:RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658342496 Component:Plane1 BoneName:None (0 other events since notify)
+[2023.09.16-23.44.02:724][925]LogCharacterMovement: RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658342496 is stuck and failed to move! Velocity: X=19.35 Y=-72.00 Z=0.00 Location: X=1068.57 Y=1862.76 Z=90.21 Normal: X=0.54 Y=-0.84 Z=0.00 PenetrationDepth:3.676 Actor:MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492 Component:Plane1 BoneName:None (0 other events since notify)
+[2023.09.16-23.44.03:733][ 46]LogCharacterMovement: RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658342496 is stuck and failed to move! Velocity: X=72.32 Y=-135.51 Z=0.00 Location: X=1080.71 Y=1834.88 Z=90.21 Normal: X=0.55 Y=-0.84 Z=0.00 PenetrationDepth:3.857 Actor:MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492 Component:Plane1 BoneName:None (18 other events since notify)
+[2023.09.16-23.44.04:167][ 98]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1341309491] 1
+[2023.09.16-23.44.04:167][ 98]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658818497] 0
+[2023.09.16-23.44.04:583][148]LogCharacterMovement: MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492 is stuck and failed to move! Velocity: X=13.69 Y=-31.27 Z=0.00 Location: X=1061.92 Y=1918.13 Z=90.21 Normal: X=0.52 Y=-0.86 Z=0.00 PenetrationDepth:4.159 Actor:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365770951 Component:Plane1 BoneName:None (0 other events since notify)
+[2023.09.16-23.44.08:335][598]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365965952] 1
+[2023.09.16-23.44.09:127][693]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365965952] 0
+[2023.09.16-23.44.09:971][794]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365770951] 1
+[2023.09.16-23.44.10:887][904]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365770951] 0
+[2023.09.16-23.44.11:937][ 30]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949] 1
+[2023.09.16-23.44.11:937][ 30]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492] 1
+[2023.09.16-23.44.12:854][140]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949] 0
+[2023.09.16-23.44.14:487][336]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492] 0
+[2023.09.16-23.44.15:412][447]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1341309491] 0
+[2023.09.16-23.44.20:214][ 23]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1657974495] 0
+[2023.09.16-23.44.20:214][ 23]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658342496] 0
+[2023.09.16-23.44.20:246][ 27]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 2
+[2023.09.16-23.44.21:564][185]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1335841488] 1
+[2023.09.16-23.44.22:971][354]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1654804494] 0
+[2023.09.16-23.44.24:330][517]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1364329948] 0
+[2023.09.16-23.44.25:698][681]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1335841488] 0
+[2023.09.16-23.44.29:672][158]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -4
+[2023.09.16-23.44.30:480][255]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -5
+[2023.09.16-23.44.41:485][334]Cmd: DELETE
+[2023.09.16-23.44.41:485][334]Cmd: ACTOR DELETE
+[2023.09.16-23.44.41:489][334]LogEditorActor: Deleted Actor: MeleeAI_BP_C
+[2023.09.16-23.44.41:508][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.09.16-23.44.41:514][334]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2023.09.16-23.44.47:850][ 71]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -6
+[2023.09.16-23.44.55:264][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.16-23.44.55:264][956]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.16-23.44.55:264][956]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.16-23.44.55:264][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.16-23.44.55:264][956]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.09.16-23.44.55:278][956]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.16-23.44.55:282][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.16-23.44.55:291][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.16-23.44.55:291][956]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2023.09.16-23.44.55:291][956]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.09.16-23.44.55:293][956]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.09.16-23.44.55:298][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.09.16-23.44.55:347][958]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.09.16-23.45.02:015][757]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.16-23.45.02:020][757]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.16-23.45.02:020][757]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2023.09.16-23.45.02:021][757]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 20 ms)
+[2023.09.16-23.45.02:022][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.16-23.45.02:022][757]PIE: New page: PIE session: ThirdPersonMap (17 sept. 2023 3:45:02)
+[2023.09.16-23.45.02:054][757]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.16-23.45.02:062][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008116s)
+[2023.09.16-23.45.02:062][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.008143s)
+[2023.09.16-23.45.02:073][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.09.16-23.45.02:075][757]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.16-23.45.02:075][757]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.16-23.45.02:075][757]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.09.16-23.45.02:075][757]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.16-23.45.02:075][757]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.16-23.45.02:075][757]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.09.16-23.45.02:075][757]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.09.16-23.45.02:078][757]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.09.16-23.45.02:078][757]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 135 ms)
+[2023.09.16-23.45.02:078][757]LogPlayLevel: PIE: World Init took: (0.003306s)
+[2023.09.16-23.45.02:078][757]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.09.16-23.45.02:078][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.16-23.45.02:078][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.16-23.45.02:078][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.16-23.45.02:078][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.16-23.45.02:078][757]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.16-23.45.02:078][757]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.16-23.45.02:078][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.16-23.45.02:078][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.16-23.45.02:078][757]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.16-23.45.02:078][757]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.16-23.45.02:078][757]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.16-23.45.02:080][757]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.16-23.45.02:093][757]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.09.16-23.45.02:093][757]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.16-23.45.02:093][757]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.16-23.45.02:093][757]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.16-23.45.02:094][757]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2023.09.16-23.45.02:094][757]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2023.09.16-23.45.02:095][757]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2023.09.16-23.45.02:095][757]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2023.09.16-23.45.02:095][757]LogInit: FAudioDevice initialized with ID 25.
+[2023.09.16-23.45.02:095][757]LogAudio: Display: Audio Device (ID: 25) registered with world 'ThirdPersonMap'.
+[2023.09.16-23.45.02:095][757]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2023.09.16-23.45.02:098][757]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.16-23.45.02:101][757]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.09.17-01.45.02
+[2023.09.16-23.45.02:105][757]LogWorld: Bringing up level for play took: 0.006540
+[2023.09.16-23.45.02:107][757]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2023.09.16-23.45.02:112][757]PIE: Server logged in
+[2023.09.16-23.45.02:112][757]PIE: Play in editor total start time 0,092 seconds.
+[2023.09.16-23.45.05:579][151]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 2
+[2023.09.16-23.45.06:065][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.16-23.45.06:065][203]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.16-23.45.06:065][203]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.16-23.45.06:066][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.16-23.45.06:066][203]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.09.16-23.45.06:070][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.16-23.45.06:073][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.16-23.45.06:082][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.16-23.45.06:083][203]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2023.09.16-23.45.06:083][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.09.16-23.45.06:085][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.09.16-23.45.06:092][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.09.16-23.45.06:147][207]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.09.16-23.45.16:690][470]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.16-23.45.16:695][470]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.16-23.45.16:695][470]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2023.09.16-23.45.16:696][470]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 22 ms)
+[2023.09.16-23.45.16:696][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.16-23.45.16:696][470]PIE: New page: PIE session: ThirdPersonMap (17 sept. 2023 3:45:16)
+[2023.09.16-23.45.16:696][470]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.16-23.45.16:704][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008409s)
+[2023.09.16-23.45.16:704][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.008433s)
+[2023.09.16-23.45.16:715][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.09.16-23.45.16:717][470]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.16-23.45.16:717][470]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.16-23.45.16:717][470]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.09.16-23.45.16:717][470]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.16-23.45.16:717][470]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.16-23.45.16:717][470]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.09.16-23.45.16:717][470]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.09.16-23.45.16:720][470]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.09.16-23.45.16:720][470]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 137 ms)
+[2023.09.16-23.45.16:720][470]LogPlayLevel: PIE: World Init took: (0.003543s)
+[2023.09.16-23.45.16:720][470]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.09.16-23.45.16:720][470]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.16-23.45.16:720][470]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.16-23.45.16:720][470]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.16-23.45.16:720][470]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.16-23.45.16:720][470]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.16-23.45.16:720][470]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.16-23.45.16:720][470]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.16-23.45.16:720][470]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.16-23.45.16:721][470]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.16-23.45.16:721][470]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.16-23.45.16:721][470]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.16-23.45.16:723][470]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.16-23.45.16:735][470]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.09.16-23.45.16:735][470]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.16-23.45.16:735][470]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.16-23.45.16:735][470]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.16-23.45.16:736][470]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2023.09.16-23.45.16:736][470]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2023.09.16-23.45.16:737][470]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2023.09.16-23.45.16:737][470]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2023.09.16-23.45.16:737][470]LogInit: FAudioDevice initialized with ID 26.
+[2023.09.16-23.45.16:737][470]LogAudio: Display: Audio Device (ID: 26) registered with world 'ThirdPersonMap'.
+[2023.09.16-23.45.16:737][470]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2023.09.16-23.45.16:740][470]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.16-23.45.16:743][470]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.09.17-01.45.16
+[2023.09.16-23.45.16:747][470]LogWorld: Bringing up level for play took: 0.006669
+[2023.09.16-23.45.16:748][470]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.09.16-23.45.16:754][470]PIE: Server logged in
+[2023.09.16-23.45.16:755][470]PIE: Play in editor total start time 0,06 seconds.
+[2023.09.16-23.45.23:715][294]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 19
+[2023.09.16-23.45.26:581][638]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 18
+[2023.09.16-23.45.28:223][835]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 17
+[2023.09.16-23.45.30:157][ 67]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 16
+[2023.09.16-23.45.31:199][192]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 15
+[2023.09.16-23.45.32:249][318]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 14
+[2023.09.16-23.45.34:308][565]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 13
+[2023.09.16-23.45.35:915][758]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 12
+[2023.09.16-23.45.37:258][919]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 11
+[2023.09.16-23.45.38:691][ 91]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 10
+[2023.09.16-23.45.47:811][185]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 9
+[2023.09.16-23.45.48:653][286]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 8
+[2023.09.16-23.45.57:312][325]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 7
+[2023.09.16-23.45.58:821][506]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 6
+[2023.09.16-23.45.59:680][609]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 5
+[2023.09.16-23.46.00:575][716]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 4
+[2023.09.16-23.46.01:533][831]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 3
+[2023.09.16-23.46.02:433][939]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 2
+[2023.09.16-23.46.03:241][ 36]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 1
+[2023.09.16-23.46.04:209][152]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 0
+[2023.09.16-23.46.05:073][255]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -1
+[2023.09.16-23.46.05:930][358]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -2
+[2023.09.16-23.46.06:781][460]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -3
+[2023.09.16-23.46.07:640][563]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -4
+[2023.09.16-23.46.08:589][677]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -5
+[2023.09.16-23.46.09:422][777]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -6
+[2023.09.16-23.46.14:532][390]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -7
+[2023.09.16-23.46.18:096][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.16-23.46.18:096][815]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.16-23.46.18:096][815]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.16-23.46.18:097][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.16-23.46.18:097][815]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.09.16-23.46.18:101][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.16-23.46.18:105][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.16-23.46.18:116][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.16-23.46.18:117][815]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2023.09.16-23.46.18:117][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.09.16-23.46.18:118][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.09.16-23.46.18:130][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.09.16-23.46.18:175][817]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.09.16-23.47.04:978][297]BlueprintLog: New page: Compile Boss_BP
+[2023.09.16-23.47.05:014][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.09.16-23.47.27:786][933]BlueprintLog: New page: Compile Boss_BP
+[2023.09.16-23.47.27:824][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.09.16-23.47.38:354][161]LogEditorTransaction: Undo Move Node
+[2023.09.16-23.47.38:734][165]LogEditorTransaction: Undo Create Pin Link
+[2023.09.16-23.47.39:038][167]LogEditorTransaction: Undo Delete current selection
+[2023.09.16-23.47.39:336][183]LogEditorTransaction: Undo Delete current selection
+[2023.09.16-23.47.39:639][199]LogEditorTransaction: Undo Delete current selection
+[2023.09.16-23.47.42:570][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.16-23.47.42:676][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/Boss/Boss_BP" FILE="../../../../../../Users/Ayugu/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset" SILENT=true
+[2023.09.16-23.47.42:700][525]LogSavePackage: Moving output files for package: /Game/EnemiesIA/Boss/Boss_BP
+[2023.09.16-23.47.42:701][525]LogSavePackage: Moving '../../../../../../Users/Ayugu/Documents/GitHub/Anulax/Anulax/Saved/Boss_BPD5969EE5406CE75F0C4A25BC2F8DFDA0.tmp' to '../../../../../../Users/Ayugu/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset'
+[2023.09.16-23.47.42:707][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 4.18 sec)
+[2023.09.16-23.47.42:708][525]AssetCheck: New page: Asset Save: Boss_BP
+[2023.09.16-23.47.42:708][525]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP
+[2023.09.16-23.47.44:686][748]BlueprintLog: New page: Compile Boss_BP
+[2023.09.16-23.47.44:726][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.09.16-23.47.49:020][211]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.16-23.47.49:025][211]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.16-23.47.49:025][211]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2023.09.16-23.47.49:026][211]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 23 ms)
+[2023.09.16-23.47.49:028][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.16-23.47.49:028][211]PIE: New page: PIE session: ThirdPersonMap (17 sept. 2023 3:47:49)
+[2023.09.16-23.47.49:057][211]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.16-23.47.49:065][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007986s)
+[2023.09.16-23.47.49:065][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.008018s)
+[2023.09.16-23.47.49:074][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.09.16-23.47.49:084][211]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.16-23.47.49:084][211]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.16-23.47.49:085][211]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.09.16-23.47.49:085][211]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.16-23.47.49:085][211]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.16-23.47.49:085][211]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.09.16-23.47.49:085][211]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.09.16-23.47.49:087][211]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.09.16-23.47.49:087][211]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 140 ms)
+[2023.09.16-23.47.49:087][211]LogPlayLevel: PIE: World Init took: (0.003445s)
+[2023.09.16-23.47.49:087][211]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.09.16-23.47.49:087][211]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.16-23.47.49:087][211]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.16-23.47.49:087][211]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.16-23.47.49:087][211]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.16-23.47.49:087][211]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.16-23.47.49:087][211]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.16-23.47.49:087][211]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.16-23.47.49:087][211]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.16-23.47.49:088][211]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.16-23.47.49:088][211]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.16-23.47.49:088][211]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.16-23.47.49:089][211]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.16-23.47.49:102][211]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.09.16-23.47.49:102][211]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.16-23.47.49:102][211]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.16-23.47.49:102][211]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.16-23.47.49:103][211]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2023.09.16-23.47.49:103][211]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2023.09.16-23.47.49:105][211]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2023.09.16-23.47.49:105][211]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2023.09.16-23.47.49:105][211]LogInit: FAudioDevice initialized with ID 27.
+[2023.09.16-23.47.49:105][211]LogAudio: Display: Audio Device (ID: 27) registered with world 'ThirdPersonMap'.
+[2023.09.16-23.47.49:105][211]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2023.09.16-23.47.49:107][211]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.16-23.47.49:111][211]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.09.17-01.47.49
+[2023.09.16-23.47.49:114][211]LogWorld: Bringing up level for play took: 0.006412
+[2023.09.16-23.47.49:116][211]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2023.09.16-23.47.49:122][211]PIE: Server logged in
+[2023.09.16-23.47.49:123][211]PIE: Play in editor total start time 0,097 seconds.
+[2023.09.16-23.47.52:200][571]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 19
+[2023.09.16-23.47.53:067][675]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 18
+[2023.09.16-23.47.54:841][888]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 17
+[2023.09.16-23.47.56:316][ 65]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 16
+[2023.09.16-23.47.57:525][210]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 15
+[2023.09.16-23.47.58:418][317]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 14
+[2023.09.16-23.47.59:301][423]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 13
+[2023.09.16-23.48.00:231][534]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 12
+[2023.09.16-23.48.01:806][723]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 11
+[2023.09.16-23.48.02:623][821]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 10
+[2023.09.16-23.48.02:689][829]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 2
+[2023.09.16-23.48.04:765][ 78]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 9
+[2023.09.16-23.48.06:874][331]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 8
+[2023.09.16-23.48.08:073][475]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 7
+[2023.09.16-23.48.09:307][623]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 6
+[2023.09.16-23.48.10:107][719]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 5
+[2023.09.16-23.48.12:382][992]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 4
+[2023.09.16-23.48.13:532][130]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 3
+[2023.09.16-23.48.14:707][271]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 2
+[2023.09.16-23.48.15:833][406]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 1
+[2023.09.16-23.48.17:157][565]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 0
+[2023.09.16-23.48.18:074][675]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -1
+[2023.09.16-23.48.19:199][810]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -2
+[2023.09.16-23.48.20:241][935]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -3
+[2023.09.16-23.48.21:182][ 48]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -4
+[2023.09.16-23.48.25:408][555]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1660226498] 0
+[2023.09.16-23.48.26:283][660]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 1
+[2023.09.16-23.48.27:183][768]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1663532499] 0
+[2023.09.16-23.48.27:199][770]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 0
+[2023.09.16-23.48.27:200][770]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.48.28:458][921]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1219830947] 1
+[2023.09.16-23.48.28:458][921]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658818497] 0
+[2023.09.16-23.48.29:809][ 83]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -1
+[2023.09.16-23.48.29:809][ 83]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.48.30:410][155]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -2
+[2023.09.16-23.48.30:410][155]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.48.30:483][164]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1337793489] 1
+[2023.09.16-23.48.30:483][164]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1341309491] 1
+[2023.09.16-23.48.32:700][430]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -3
+[2023.09.16-23.48.32:700][430]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.48.33:335][506]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1654804494] 0
+[2023.09.16-23.48.36:745][915]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492] 1
+[2023.09.16-23.48.36:745][915]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1364329948] 1
+[2023.09.16-23.48.37:510][  5]LogCharacterMovement: MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1364329948 is stuck and failed to move! Velocity: X=-111.64 Y=-146.59 Z=0.00 Location: X=1227.19 Y=1327.45 Z=90.21 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.204 Actor:MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1337793489 Component:Plane1 BoneName:None (0 other events since notify)
+[2023.09.16-23.48.37:517][  6]LogCharacterMovement: MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1337793489 is stuck and failed to move! Velocity: X=-22.95 Y=-200.76 Z=0.00 Location: X=1191.10 Y=1385.22 Z=90.21 Normal: X=0.98 Y=-0.18 Z=0.00 PenetrationDepth:1.933 Actor:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1219830947 Component:Plane1 BoneName:None (0 other events since notify)
+[2023.09.16-23.48.37:543][  9]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492] 0
+[2023.09.16-23.48.37:544][  9]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1337793489] 0
+[2023.09.16-23.48.38:480][121]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1364329948] 0
+[2023.09.16-23.48.39:381][229]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1219830947] 0
+[2023.09.16-23.48.40:872][408]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658342496] 0
+[2023.09.16-23.48.40:897][411]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -4
+[2023.09.16-23.48.40:897][411]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.48.41:523][486]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -5
+[2023.09.16-23.48.41:523][486]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.48.42:489][602]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949] 1
+[2023.09.16-23.48.43:506][724]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949] 0
+[2023.09.16-23.48.44:455][838]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365770951] 1
+[2023.09.16-23.48.44:606][856]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -6
+[2023.09.16-23.48.44:606][856]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.48.45:655][982]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365770951] 0
+[2023.09.16-23.48.48:523][326]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1335841488] 1
+[2023.09.16-23.48.48:523][326]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1341309491] 0
+[2023.09.16-23.48.48:532][327]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -7
+[2023.09.16-23.48.48:532][327]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.48.49:489][442]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1335841488] 0
+[2023.09.16-23.48.49:990][502]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -8
+[2023.09.16-23.48.49:990][502]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.48.50:480][561]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365965952] 1
+[2023.09.16-23.48.51:281][657]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365965952] 0
+[2023.09.16-23.48.52:690][826]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1657974495] 0
+[2023.09.16-23.49.00:883][809]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -5
+[2023.09.16-23.49.01:734][911]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -6
+[2023.09.16-23.49.10:899][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.16-23.49.10:899][853]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.16-23.49.10:899][853]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.16-23.49.10:899][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.16-23.49.10:899][853]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.09.16-23.49.10:935][853]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.16-23.49.10:940][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.16-23.49.10:952][853]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.16-23.49.10:952][853]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2023.09.16-23.49.10:952][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.09.16-23.49.10:954][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.09.16-23.49.10:957][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.16-23.49.10:960][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.09.16-23.49.10:994][854]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.09.16-23.49.16:738][480]Cmd: DELETE
+[2023.09.16-23.49.16:738][480]Cmd: ACTOR DELETE
+[2023.09.16-23.49.16:740][480]LogEditorActor: Deleted Actor: MeleeAI_BP_C
+[2023.09.16-23.49.16:752][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.09.16-23.49.16:757][480]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.09.16-23.49.20:140][857]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.16-23.49.20:145][857]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.16-23.49.20:145][857]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2023.09.16-23.49.20:158][857]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 12 ms (total: 36 ms)
+[2023.09.16-23.49.20:158][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.16-23.49.20:158][857]PIE: New page: PIE session: ThirdPersonMap (17 sept. 2023 3:49:20)
+[2023.09.16-23.49.20:158][857]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.16-23.49.20:166][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008267s)
+[2023.09.16-23.49.20:166][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.008293s)
+[2023.09.16-23.49.20:177][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.09.16-23.49.20:178][857]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.16-23.49.20:178][857]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.16-23.49.20:178][857]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.09.16-23.49.20:179][857]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.16-23.49.20:179][857]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.16-23.49.20:179][857]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.09.16-23.49.20:179][857]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.09.16-23.49.20:181][857]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.09.16-23.49.20:181][857]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 142 ms)
+[2023.09.16-23.49.20:181][857]LogPlayLevel: PIE: World Init took: (0.002865s)
+[2023.09.16-23.49.20:181][857]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.09.16-23.49.20:181][857]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.16-23.49.20:181][857]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.16-23.49.20:181][857]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.16-23.49.20:181][857]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.16-23.49.20:181][857]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.16-23.49.20:181][857]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.16-23.49.20:181][857]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.16-23.49.20:181][857]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.16-23.49.20:181][857]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.16-23.49.20:181][857]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.16-23.49.20:181][857]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.16-23.49.20:183][857]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.16-23.49.20:196][857]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.09.16-23.49.20:196][857]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.16-23.49.20:196][857]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.16-23.49.20:196][857]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.16-23.49.20:196][857]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2023.09.16-23.49.20:196][857]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2023.09.16-23.49.20:198][857]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2023.09.16-23.49.20:198][857]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2023.09.16-23.49.20:198][857]LogInit: FAudioDevice initialized with ID 28.
+[2023.09.16-23.49.20:198][857]LogAudio: Display: Audio Device (ID: 28) registered with world 'ThirdPersonMap'.
+[2023.09.16-23.49.20:198][857]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2023.09.16-23.49.20:200][857]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.16-23.49.20:204][857]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.09.17-01.49.20
+[2023.09.16-23.49.20:206][857]LogWorld: Bringing up level for play took: 0.006138
+[2023.09.16-23.49.20:209][857]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2023.09.16-23.49.20:214][857]PIE: Server logged in
+[2023.09.16-23.49.20:215][857]PIE: Play in editor total start time 0,07 seconds.
+[2023.09.16-23.49.24:775][379]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 19
+[2023.09.16-23.49.26:000][526]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 18
+[2023.09.16-23.49.26:200][550]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 2
+[2023.09.16-23.49.26:891][633]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 17
+[2023.09.16-23.49.28:433][818]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 16
+[2023.09.16-23.49.29:458][941]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 1
+[2023.09.16-23.49.32:025][249]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 15
+[2023.09.16-23.49.32:951][360]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 14
+[2023.09.16-23.49.33:866][470]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 13
+[2023.09.16-23.49.34:851][588]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 12
+[2023.09.16-23.49.35:934][718]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 11
+[2023.09.16-23.49.36:834][826]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 10
+[2023.09.16-23.49.37:642][923]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 9
+[2023.09.16-23.49.38:584][ 36]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 8
+[2023.09.16-23.49.40:676][287]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 7
+[2023.09.16-23.49.41:834][426]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 6
+[2023.09.16-23.49.42:951][560]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 5
+[2023.09.16-23.49.43:925][677]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 4
+[2023.09.16-23.49.45:001][806]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 3
+[2023.09.16-23.49.45:892][913]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 2
+[2023.09.16-23.49.47:052][ 52]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 1
+[2023.09.16-23.49.47:917][155]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] 0
+[2023.09.16-23.49.48:816][263]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -1
+[2023.09.16-23.49.49:725][372]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -2
+[2023.09.16-23.49.50:642][482]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -3
+[2023.09.16-23.49.51:834][625]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -4
+[2023.09.16-23.49.53:041][770]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 0
+[2023.09.16-23.49.53:042][770]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.49.53:717][851]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1663532499] 0
+[2023.09.16-23.49.54:775][978]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658818497] 0
+[2023.09.16-23.49.57:417][295]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1219830947] 1
+[2023.09.16-23.49.57:417][295]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1660226498] 0
+[2023.09.16-23.49.57:518][307]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -1
+[2023.09.16-23.49.57:518][307]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.49.58:543][430]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1219830947] 0
+[2023.09.16-23.50.00:280][638]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1341309491] 1
+[2023.09.16-23.50.01:929][836]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1341309491] 0
+[2023.09.16-23.50.02:531][908]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -2
+[2023.09.16-23.50.02:531][908]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.50.03:101][976]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1364329948] 1
+[2023.09.16-23.50.03:477][ 21]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -3
+[2023.09.16-23.50.03:477][ 21]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.50.04:987][202]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -4
+[2023.09.16-23.50.04:988][202]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.50.05:337][244]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -5
+[2023.09.16-23.50.05:338][244]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.50.05:728][291]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1335841488] 1
+[2023.09.16-23.50.06:170][344]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-650.00 Y=0.00 Z=0.00 Location: X=1860.19 Y=876.16 Z=92.01 Normal: X=-0.85 Y=-0.53 Z=0.00 PenetrationDepth:2.582 Actor:MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1337793489 Component:Right BoneName:None (0 other events since notify)
+[2023.09.16-23.50.06:179][345]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -6
+[2023.09.16-23.50.06:179][345]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.50.06:471][380]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -7
+[2023.09.16-23.50.06:471][380]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.50.06:496][383]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -8
+[2023.09.16-23.50.06:496][383]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.50.06:553][390]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1335841488] 0
+[2023.09.16-23.50.06:554][390]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1337793489] 1
+[2023.09.16-23.50.07:386][490]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1337793489] 0
+[2023.09.16-23.50.07:795][539]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -9
+[2023.09.16-23.50.07:795][539]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.50.08:003][564]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -10
+[2023.09.16-23.50.08:003][564]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.50.08:020][566]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -11
+[2023.09.16-23.50.08:020][566]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.50.08:595][635]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492] 1
+[2023.09.16-23.50.08:595][635]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1364329948] 0
+[2023.09.16-23.50.08:870][668]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -12
+[2023.09.16-23.50.08:870][668]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.50.08:920][674]LogCharacterMovement: MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949 is stuck and failed to move! Velocity: X=20.44 Y=-46.94 Z=0.00 Location: X=1105.17 Y=1820.12 Z=90.21 Normal: X=0.92 Y=-0.40 Z=0.00 PenetrationDepth:3.505 Actor:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365965952 Component:Plane1 BoneName:None (0 other events since notify)
+[2023.09.16-23.50.09:188][706]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -13
+[2023.09.16-23.50.09:188][706]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.50.09:495][743]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492] 0
+[2023.09.16-23.50.09:920][794]LogCharacterMovement: MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949 is stuck and failed to move! Velocity: X=262.13 Y=-539.71 Z=0.00 Location: X=1101.80 Y=1809.88 Z=90.21 Normal: X=0.78 Y=-0.62 Z=0.00 PenetrationDepth:5.010 Actor:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365965952 Component:Plane1 BoneName:None (108 other events since notify)
+[2023.09.16-23.50.10:921][914]LogCharacterMovement: MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949 is stuck and failed to move! Velocity: X=262.13 Y=-539.71 Z=0.00 Location: X=1101.80 Y=1809.88 Z=90.21 Normal: X=0.78 Y=-0.62 Z=0.00 PenetrationDepth:5.010 Actor:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365965952 Component:Plane1 BoneName:None (119 other events since notify)
+[2023.09.16-23.50.11:546][989]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1657974495] 0
+[2023.09.16-23.50.11:613][997]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -14
+[2023.09.16-23.50.11:613][997]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.50.12:512][105]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658342496] 0
+[2023.09.16-23.50.12:929][155]LogCharacterMovement: MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949 is stuck and failed to move! Velocity: X=19.96 Y=-47.15 Z=0.00 Location: X=1106.28 Y=1822.25 Z=90.21 Normal: X=0.96 Y=-0.27 Z=0.00 PenetrationDepth:2.648 Actor:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365965952 Component:Plane1 BoneName:None (105 other events since notify)
+[2023.09.16-23.50.14:412][333]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949] 1
+[2023.09.16-23.50.14:413][333]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365965952] 1
+[2023.09.16-23.50.14:413][333]LogBlueprintUserMessages: [RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1654804494] 0
+[2023.09.16-23.50.14:505][344]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -15
+[2023.09.16-23.50.14:505][344]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.50.14:645][361]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -16
+[2023.09.16-23.50.14:645][361]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.50.15:204][428]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949] 0
+[2023.09.16-23.50.15:771][496]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -17
+[2023.09.16-23.50.15:771][496]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.16-23.50.16:004][524]LogBlueprintUserMessages: [MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365965952] 0
+[2023.09.16-23.50.23:171][384]LogBlueprintUserMessages: [Boss_C_UAID_A036BCBD0C59ADA901_1184490075] -5
+[2023.09.16-23.50.39:281][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.16-23.50.39:281][159]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.16-23.50.39:281][159]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.16-23.50.39:281][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.16-23.50.39:282][159]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.09.16-23.50.39:285][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.16-23.50.39:289][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.16-23.50.39:299][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.16-23.50.39:300][159]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2023.09.16-23.50.39:300][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.09.16-23.50.39:301][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.09.16-23.50.39:313][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.09.16-23.50.39:354][162]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.09.16-23.50.52:552][642]Cmd: DELETE
+[2023.09.16-23.50.52:552][642]Cmd: ACTOR DELETE
+[2023.09.16-23.50.52:554][642]LogEditorActor: Deleted Actor: MeleeAI_BP_C
+[2023.09.16-23.50.52:567][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.09.16-23.50.52:573][642]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2023.09.16-23.50.58:111][284]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.16-23.50.58:155][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.09.16-23.50.58:165][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.09.16-23.50.58:174][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.09.16-23.50.58:181][284]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 4.25 sec)
+[2023.09.16-23.51.08:054][433]LogViewport: Scene viewport resized to 599x284, mode Windowed.
