@@ -1,0 +1,298 @@
+[+] Containers:
+ |- [+] Container: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:038274394C6C2006AA5263B634560A4C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A036BCBD0C59C6A901_1219405487 Label:Plane SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1395.433 Y=799.387 Z=-96.970), Max=(X=-45.433 Y=2149.387 Z=-96.970) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:0DB603144BC75300B47702838831C9C2 BaseClass:/Game/EnemiesIA/Boss/RangerTeleporter.RangerTeleporter_C NativeClass:/Script/Engine.Actor Name:RangerTeleporter_C_UAID_A036BCBD0C59CCA901_1236710560 Label:RangerTeleporter5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2700.721 Y=511.476 Z=-0.000), Max=(X=2700.721 Y=511.476 Z=-0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:125CE6AF426CD4CB581E87A381E46A2A BaseClass:/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C NativeClass:/Script/Engine.Character Name:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365965952 Label:MeleeAI_BP6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-961.417 Y=1216.974 Z=-22.000), Max=(X=-522.285 Y=1654.808 Z=198.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1CEAEF054947E3B1A47A58A23C02786B BaseClass:/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C NativeClass:/Script/Engine.Character Name:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949 Label:MeleeAI_BP3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1188.675 Y=1216.974 Z=-22.000), Max=(X=-749.542 Y=1654.808 Z=198.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:22E0775B4C92043C614D3EB97AA98E67 BaseClass:/Game/EnemiesIA/Boss/RangerTeleporter.RangerTeleporter_C NativeClass:/Script/Engine.Actor Name:RangerTeleporter_C_UAID_A036BCBD0C59CCA901_1246042561 Label:RangerTeleporter6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=403.968 Y=496.370 Z=0.000), Max=(X=403.968 Y=496.370 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:22FDA9CD470BA727DA03FE88B9438CF8 BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_A036BCBD0C599AA901_2030670728 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-806.073 Y=-366.245 Z=-120.500), Max=(X=3693.927 Y=3883.755 Z=279.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2B4827C941BA5DD76436C684132870F8 BaseClass:/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C NativeClass:/Script/Engine.Character Name:RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1657974495 Label:RangerAI_BP2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2382.404 Y=1935.276 Z=-968.970), Max=(X=-462.404 Y=3855.276 Z=951.030) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2FB58999456391D349DC0F86DAC136ED BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:316CF2A6494ACA4C0E4180A87D36AB8F BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=890.000 Y=1500.000 Z=0.013), Max=(X=970.000 Y=1580.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:415D5B90434886B54533378F26374224 BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_A036BCBD0C599AA901-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4226C48A4A5564CC4AB475A211143CD1 BaseClass:/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C NativeClass:/Script/Engine.Character Name:MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492 Label:MeleeAI_BP10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1188.675 Y=961.723 Z=-22.000), Max=(X=-749.542 Y=1399.557 Z=198.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:43815E84492231AFC407F59E3C28176B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_4 Label:SM_Cube6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2900.000 Y=100.000 Z=0.000), Max=(X=3000.000 Y=3400.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:44FBAD82461A726E352B6897814BAFE0 BaseClass:/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C NativeClass:/Script/Engine.Character Name:RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658342496 Label:RangerAI_BP3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1901.950 Y=2052.502 Z=-968.970), Max=(X=18.050 Y=3972.503 Z=951.030) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:492C6BE84A4773D82D6CC4A14E6A4D0D BaseClass:/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C NativeClass:/Script/Engine.Character Name:MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1337793489 Label:MeleeAI_BP8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1188.675 Y=1426.384 Z=-22.000), Max=(X=-749.542 Y=1864.218 Z=198.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4D3BE93F4146AAAC8BBE79999D96D57F BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:4D90518E43EF5B98B4952789E4B450D8 BaseClass:/Game/EnemiesIA/Boss/RangerTeleporter.RangerTeleporter_C NativeClass:/Script/Engine.Actor Name:RangerTeleporter_C_UAID_A036BCBD0C59CCA901_1142472556 Label:RangerTeleporter SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=323.988 Y=2830.424 Z=99.605), Max=(X=323.988 Y=2830.424 Z=99.605) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5B97F4A64FB21F77EFC44386BF705B4C BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_1 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.100 Y=1100.000 Z=65.013), Max=(X=-0.100 Y=2392.308 Z=215.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6214E6844207E859ABE09096B9BBAE47 BaseClass:/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C NativeClass:/Script/Engine.Character Name:RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1663532499 Label:RangerAI_BP6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2113.750 Y=2151.509 Z=-968.970), Max=(X=-193.750 Y=4071.509 Z=951.030) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:6F8A3AE8446E88F8F1C1E5B08DB6212B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A036BCBD0C59B7A901_2072447839 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1053.569 Y=2212.500 Z=30.000), Max=(X=2003.569 Y=2387.500 Z=130.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7052F09C4F534A7BCC7DC08966469A8C BaseClass:/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C NativeClass:/Script/Engine.Character Name:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365521950 Label:MeleeAI_BP4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-943.934 Y=976.738 Z=-22.000), Max=(X=-504.802 Y=1414.573 Z=198.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:91055EE24CBFA1AB9637A1B9FE7AB44B BaseClass:/Game/EnemiesIA/Boss/RangerTeleporter.RangerTeleporter_C NativeClass:/Script/Engine.Actor Name:RangerTeleporter_C_UAID_A036BCBD0C59CCA901_1178944557 Label:RangerTeleporter2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2691.775 Y=2800.525 Z=0.000), Max=(X=2691.775 Y=2800.525 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A56216954B2165CF0F35A886B537D536 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_0 Label:SM_Cube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.000 Y=100.000 Z=0.000), Max=(X=100.000 Y=3400.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:AE1D38F246F4AE155A97329A5F52F26A BaseClass:/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C NativeClass:/Script/Engine.Character Name:RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1660226498 Label:RangerAI_BP5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2382.404 Y=2381.461 Z=-968.970), Max=(X=-462.404 Y=4301.461 Z=951.030) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B50722734ACD64BB97AE4A9D18B825D8 BaseClass:/Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C NativeClass:/Script/Engine.Character Name:Boss_C_UAID_A036BCBD0C59ADA901_1184490075 Label:Boss SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1292.000 Y=2689.770 Z=70.146), Max=(X=1708.000 Y=3108.000 Z=486.146) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B6F50FD544D848F17ED8C79F8BF410AE BaseClass:/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C NativeClass:/Script/Engine.Character Name:RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1654804494 Label:RangerAI_BP SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2382.404 Y=2151.509 Z=-968.970), Max=(X=-462.404 Y=4071.509 Z=951.030) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B785ED2844B84CFB91E7F39FE661CD99 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1048576.000 Y=-1048576.000 Z=-1048576.000), Max=(X=1048576.000 Y=1048576.000 Z=1048576.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:BC08B79C4EA3C961CFF75EBBE83B367D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_5 Label:SM_Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=3000.000 Y=100.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:C831B4C24475D2B1C8A89D94129499AE BaseClass:/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C NativeClass:/Script/Engine.Character Name:MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1341309491 Label:MeleeAI_BP9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-799.050 Y=1216.974 Z=-22.000), Max=(X=-359.917 Y=1654.808 Z=198.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C96A08D44BCAD54C27CBAE88B1798F62 BaseClass:/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C NativeClass:/Script/Engine.Character Name:RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658818497 Label:RangerAI_BP4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2765.204 Y=2151.509 Z=-968.970), Max=(X=-845.204 Y=4071.509 Z=951.030) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CBAF14004E5E76267AC717B192C11672 BaseClass:/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C NativeClass:/Script/Engine.Character Name:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365770951 Label:MeleeAI_BP5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1188.675 Y=777.179 Z=-22.000), Max=(X=-749.542 Y=1215.013 Z=198.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CCA792A04E6EF103B409EABFD093023A BaseClass:/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C NativeClass:/Script/Engine.Character Name:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1364329948 Label:MeleeAI_BP2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1448.240 Y=1216.974 Z=-22.000), Max=(X=-1009.107 Y=1654.808 Z=198.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CCFF262C46EEFFDF319E7F9539CE697E BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:D45D54154AC49CEAE9EB41AF114BFFCA BaseClass:/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C NativeClass:/Script/Engine.Character Name:MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1335841488 Label:MeleeAI_BP7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-911.704 Y=1475.690 Z=-22.000), Max=(X=-472.572 Y=1913.525 Z=198.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D4C2A64B4BF976A8722030AD723AB3BE BaseClass:/Game/EnemiesIA/Boss/RangerTeleporter.RangerTeleporter_C NativeClass:/Script/Engine.Actor Name:RangerTeleporter_C_UAID_A036BCBD0C59CCA901_1202623558 Label:RangerTeleporter3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2688.423 Y=1491.040 Z=0.000), Max=(X=2688.423 Y=1491.040 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:DACEB4C14ECFBD05E47362A4018046BD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A036BCBD0C59C6A901_1641337493 Label:Plane2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2177.231 Y=2481.867 Z=-96.970), Max=(X=-827.231 Y=3831.867 Z=-96.970) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E90EBDBA49D22F1065ECAFBE0E651C80 BaseClass:/Game/EnemiesIA/Boss/RangerTeleporter.RangerTeleporter_C NativeClass:/Script/Engine.Actor Name:RangerTeleporter_C_UAID_A036BCBD0C59CCA901_1220876559 Label:RangerTeleporter4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=373.633 Y=1515.546 Z=-0.000), Max=(X=373.633 Y=1515.546 Z=-0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EC4E0C944CE6AC6E784BC6BB2916EA13 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:F1924B8D48954B30891B2DB6A694F9CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-50.000), Max=(X=3000.000 Y=3500.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:F5E3FEB3450C49844FD93DA8E083C8AD BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:FD9E8DEB49CE20166A869789E7976EFD BaseClass:/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C NativeClass:/Script/Engine.Character Name:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1219830947 Label:MeleeAI_BP SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1188.675 Y=1590.480 Z=-22.000), Max=(X=-749.542 Y=2028.314 Z=198.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FF698C67459ADB4982D7759C0905EE9F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_6 Label:SM_Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=3400.000 Z=0.000), Max=(X=3000.000 Y=3500.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:FF6D159A47650B7A5F56E29F3449AFD8 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_A036BCBD0C59CFA901_1908116091 Label:TargetPoint SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2208.132 Y=3115.252 Z=-0.000), Max=(X=2208.132 Y=3115.252 Z=-0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:038274394C6C2006AA5263B634560A4C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A036BCBD0C59C6A901_1219405487 Label:Plane SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1395.433 Y=799.387 Z=-96.970), Max=(X=-45.433 Y=2149.387 Z=-96.970) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:0DB603144BC75300B47702838831C9C2 BaseClass:/Game/EnemiesIA/Boss/RangerTeleporter.RangerTeleporter_C NativeClass:/Script/Engine.Actor Name:RangerTeleporter_C_UAID_A036BCBD0C59CCA901_1236710560 Label:RangerTeleporter5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2700.721 Y=511.476 Z=-0.000), Max=(X=2700.721 Y=511.476 Z=-0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:AE1D38F246F4AE155A97329A5F52F26A BaseClass:/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C NativeClass:/Script/Engine.Character Name:RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1660226498 Label:RangerAI_BP5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2382.404 Y=2381.461 Z=-968.970), Max=(X=-462.404 Y=4301.461 Z=951.030) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:125CE6AF426CD4CB581E87A381E46A2A BaseClass:/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C NativeClass:/Script/Engine.Character Name:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365965952 Label:MeleeAI_BP6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-961.417 Y=1216.974 Z=-22.000), Max=(X=-522.285 Y=1654.808 Z=198.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:1CEAEF054947E3B1A47A58A23C02786B BaseClass:/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C NativeClass:/Script/Engine.Character Name:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949 Label:MeleeAI_BP3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1188.675 Y=1216.974 Z=-22.000), Max=(X=-749.542 Y=1654.808 Z=198.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:22E0775B4C92043C614D3EB97AA98E67 BaseClass:/Game/EnemiesIA/Boss/RangerTeleporter.RangerTeleporter_C NativeClass:/Script/Engine.Actor Name:RangerTeleporter_C_UAID_A036BCBD0C59CCA901_1246042561 Label:RangerTeleporter6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=403.968 Y=496.370 Z=0.000), Max=(X=403.968 Y=496.370 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:44FBAD82461A726E352B6897814BAFE0 BaseClass:/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C NativeClass:/Script/Engine.Character Name:RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658342496 Label:RangerAI_BP3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1901.950 Y=2052.502 Z=-968.970), Max=(X=18.050 Y=3972.503 Z=951.030) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:22FDA9CD470BA727DA03FE88B9438CF8 BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_A036BCBD0C599AA901_2030670728 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-806.073 Y=-366.245 Z=-120.500), Max=(X=3693.927 Y=3883.755 Z=279.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:2B4827C941BA5DD76436C684132870F8 BaseClass:/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C NativeClass:/Script/Engine.Character Name:RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1657974495 Label:RangerAI_BP2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2382.404 Y=1935.276 Z=-968.970), Max=(X=-462.404 Y=3855.276 Z=951.030) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:4D90518E43EF5B98B4952789E4B450D8 BaseClass:/Game/EnemiesIA/Boss/RangerTeleporter.RangerTeleporter_C NativeClass:/Script/Engine.Actor Name:RangerTeleporter_C_UAID_A036BCBD0C59CCA901_1142472556 Label:RangerTeleporter SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=323.988 Y=2830.424 Z=99.605), Max=(X=323.988 Y=2830.424 Z=99.605) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:2FB58999456391D349DC0F86DAC136ED BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:316CF2A6494ACA4C0E4180A87D36AB8F BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=890.000 Y=1500.000 Z=0.013), Max=(X=970.000 Y=1580.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:415D5B90434886B54533378F26374224 BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_A036BCBD0C599AA901-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:4226C48A4A5564CC4AB475A211143CD1 BaseClass:/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C NativeClass:/Script/Engine.Character Name:MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492 Label:MeleeAI_BP10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1188.675 Y=961.723 Z=-22.000), Max=(X=-749.542 Y=1399.557 Z=198.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:43815E84492231AFC407F59E3C28176B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_4 Label:SM_Cube6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2900.000 Y=100.000 Z=0.000), Max=(X=3000.000 Y=3400.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:492C6BE84A4773D82D6CC4A14E6A4D0D BaseClass:/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C NativeClass:/Script/Engine.Character Name:MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1337793489 Label:MeleeAI_BP8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1188.675 Y=1426.384 Z=-22.000), Max=(X=-749.542 Y=1864.218 Z=198.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:4D3BE93F4146AAAC8BBE79999D96D57F BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:5B97F4A64FB21F77EFC44386BF705B4C BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_1 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.100 Y=1100.000 Z=65.013), Max=(X=-0.100 Y=2392.308 Z=215.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:6214E6844207E859ABE09096B9BBAE47 BaseClass:/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C NativeClass:/Script/Engine.Character Name:RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1663532499 Label:RangerAI_BP6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2113.750 Y=2151.509 Z=-968.970), Max=(X=-193.750 Y=4071.509 Z=951.030) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:D4C2A64B4BF976A8722030AD723AB3BE BaseClass:/Game/EnemiesIA/Boss/RangerTeleporter.RangerTeleporter_C NativeClass:/Script/Engine.Actor Name:RangerTeleporter_C_UAID_A036BCBD0C59CCA901_1202623558 Label:RangerTeleporter3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2688.423 Y=1491.040 Z=0.000), Max=(X=2688.423 Y=1491.040 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:6F8A3AE8446E88F8F1C1E5B08DB6212B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A036BCBD0C59B7A901_2072447839 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1053.569 Y=2212.500 Z=30.000), Max=(X=2003.569 Y=2387.500 Z=130.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:B50722734ACD64BB97AE4A9D18B825D8 BaseClass:/Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C NativeClass:/Script/Engine.Character Name:Boss_C_UAID_A036BCBD0C59ADA901_1184490075 Label:Boss SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1292.000 Y=2689.770 Z=70.146), Max=(X=1708.000 Y=3108.000 Z=486.146) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:FF6D159A47650B7A5F56E29F3449AFD8 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_A036BCBD0C59CFA901_1908116091 Label:TargetPoint SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2208.132 Y=3115.252 Z=-0.000), Max=(X=2208.132 Y=3115.252 Z=-0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:7052F09C4F534A7BCC7DC08966469A8C BaseClass:/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C NativeClass:/Script/Engine.Character Name:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365521950 Label:MeleeAI_BP4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-943.934 Y=976.738 Z=-22.000), Max=(X=-504.802 Y=1414.573 Z=198.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:91055EE24CBFA1AB9637A1B9FE7AB44B BaseClass:/Game/EnemiesIA/Boss/RangerTeleporter.RangerTeleporter_C NativeClass:/Script/Engine.Actor Name:RangerTeleporter_C_UAID_A036BCBD0C59CCA901_1178944557 Label:RangerTeleporter2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2691.775 Y=2800.525 Z=0.000), Max=(X=2691.775 Y=2800.525 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:C96A08D44BCAD54C27CBAE88B1798F62 BaseClass:/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C NativeClass:/Script/Engine.Character Name:RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658818497 Label:RangerAI_BP4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2765.204 Y=2151.509 Z=-968.970), Max=(X=-845.204 Y=4071.509 Z=951.030) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:A56216954B2165CF0F35A886B537D536 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_0 Label:SM_Cube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.000 Y=100.000 Z=0.000), Max=(X=100.000 Y=3400.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:B6F50FD544D848F17ED8C79F8BF410AE BaseClass:/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C NativeClass:/Script/Engine.Character Name:RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1654804494 Label:RangerAI_BP SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2382.404 Y=2151.509 Z=-968.970), Max=(X=-462.404 Y=4071.509 Z=951.030) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:E90EBDBA49D22F1065ECAFBE0E651C80 BaseClass:/Game/EnemiesIA/Boss/RangerTeleporter.RangerTeleporter_C NativeClass:/Script/Engine.Actor Name:RangerTeleporter_C_UAID_A036BCBD0C59CCA901_1220876559 Label:RangerTeleporter4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=373.633 Y=1515.546 Z=-0.000), Max=(X=373.633 Y=1515.546 Z=-0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:B785ED2844B84CFB91E7F39FE661CD99 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1048576.000 Y=-1048576.000 Z=-1048576.000), Max=(X=1048576.000 Y=1048576.000 Z=1048576.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:BC08B79C4EA3C961CFF75EBBE83B367D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_5 Label:SM_Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=3000.000 Y=100.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:C831B4C24475D2B1C8A89D94129499AE BaseClass:/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C NativeClass:/Script/Engine.Character Name:MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1341309491 Label:MeleeAI_BP9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-799.050 Y=1216.974 Z=-22.000), Max=(X=-359.917 Y=1654.808 Z=198.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:CBAF14004E5E76267AC717B192C11672 BaseClass:/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C NativeClass:/Script/Engine.Character Name:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365770951 Label:MeleeAI_BP5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1188.675 Y=777.179 Z=-22.000), Max=(X=-749.542 Y=1215.013 Z=198.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:CCA792A04E6EF103B409EABFD093023A BaseClass:/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C NativeClass:/Script/Engine.Character Name:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1364329948 Label:MeleeAI_BP2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1448.240 Y=1216.974 Z=-22.000), Max=(X=-1009.107 Y=1654.808 Z=198.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:CCFF262C46EEFFDF319E7F9539CE697E BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:D45D54154AC49CEAE9EB41AF114BFFCA BaseClass:/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C NativeClass:/Script/Engine.Character Name:MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1335841488 Label:MeleeAI_BP7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-911.704 Y=1475.690 Z=-22.000), Max=(X=-472.572 Y=1913.525 Z=198.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:DACEB4C14ECFBD05E47362A4018046BD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A036BCBD0C59C6A901_1641337493 Label:Plane2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2177.231 Y=2481.867 Z=-96.970), Max=(X=-827.231 Y=3831.867 Z=-96.970) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:EC4E0C944CE6AC6E784BC6BB2916EA13 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:F1924B8D48954B30891B2DB6A694F9CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-50.000), Max=(X=3000.000 Y=3500.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:F5E3FEB3450C49844FD93DA8E083C8AD BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:FD9E8DEB49CE20166A869789E7976EFD BaseClass:/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C NativeClass:/Script/Engine.Character Name:MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1219830947 Label:MeleeAI_BP SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1188.675 Y=1590.480 Z=-22.000), Max=(X=-749.542 Y=2028.314 Z=198.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:FF698C67459ADB4982D7759C0905EE9F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_6 Label:SM_Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=3400.000 Z=0.000), Max=(X=3000.000 Y=3500.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/ThirdPerson/Maps/ThirdPersonMap
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of ThirdPersonMap Persistent Level
+ |- Always loaded Actor Count: 5 
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Brush_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonExampleMap_C_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    1 | Cell Size   12800 | Actor Count   43 (100.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell ThirdPersonMap_MainGrid_L0_X0_Y0 (1N17E9NU1SER3N1YKPVN9Q1W3)
+ |   |- Actor Count: 43
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BCBD0C59C6A901_1219405487
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/BB/ZLH6VAM624QO5DNCLU8A7H
+ |   |- Actor Instance Guid: 038274394C6C2006AA5263B634560A4C
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RangerTeleporter_C_UAID_A036BCBD0C59CCA901_1236710560
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/ZJ/BW0DL9ED6MD7J96DKKTP7G
+ |   |- Actor Instance Guid: 0DB603144BC75300B47702838831C9C2
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365965952
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YL/ZNKCWR3CNQJ7O0JJ127GU5
+ |   |- Actor Instance Guid: 125CE6AF426CD4CB581E87A381E46A2A
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/JW/1DDLG9WBQGJA8FVBZZANX3
+ |   |- Actor Instance Guid: 1CEAEF054947E3B1A47A58A23C02786B
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RangerTeleporter_C_UAID_A036BCBD0C59CCA901_1246042561
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/PT/X29X7JBMOQC6DDUIE5Q97O
+ |   |- Actor Instance Guid: 22E0775B4C92043C614D3EB97AA98E67
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_A036BCBD0C599AA901_2030670728
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/MQ/IJU5IY75MNT0TS0D7B9173
+ |   |- Actor Instance Guid: 22FDA9CD470BA727DA03FE88B9438CF8
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1657974495
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/27/XLKHOGM0MXVU0L42CC30AV
+ |   |- Actor Instance Guid: 2B4827C941BA5DD76436C684132870F8
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkyLight_1
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY
+ |   |- Actor Instance Guid: 2FB58999456391D349DC0F86DAC136ED
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ExponentialHeightFog_0
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV
+ |   |- Actor Instance Guid: 316CF2A6494ACA4C0E4180A87D36AB8F
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PlayerStart_0
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3
+ |   |- Actor Instance Guid: 3A00AA1C422CE54C0BDB60BAF471BFBB
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_A036BCBD0C599AA901-Default
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/RF/V66OEZD4K65H4Z4P7K7663
+ |   |- Actor Instance Guid: 415D5B90434886B54533378F26374224
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/YQ/P9L5KGQYKT74MAPUAYPTY3
+ |   |- Actor Instance Guid: 4226C48A4A5564CC4AB475A211143CD1
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_4
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY
+ |   |- Actor Instance Guid: 43815E84492231AFC407F59E3C28176B
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658342496
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/0L/XE3H2G1JNMBUU5Y76JLC4L
+ |   |- Actor Instance Guid: 44FBAD82461A726E352B6897814BAFE0
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1337793489
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/FU/TDPZH4RAWFRMUD9U8RIC1H
+ |   |- Actor Instance Guid: 492C6BE84A4773D82D6CC4A14E6A4D0D
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.VolumetricCloud_0
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R
+ |   |- Actor Instance Guid: 4D3BE93F4146AAAC8BBE79999D96D57F
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RangerTeleporter_C_UAID_A036BCBD0C59CCA901_1142472556
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/G6/ELIOSC9700X8XJOMA3SQ7G
+ |   |- Actor Instance Guid: 4D90518E43EF5B98B4952789E4B450D8
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_1
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO
+ |   |- Actor Instance Guid: 5B97F4A64FB21F77EFC44386BF705B4C
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1663532499
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/NU/ZGTGRWC7CCL3DG7N549YX1
+ |   |- Actor Instance Guid: 6214E6844207E859ABE09096B9BBAE47
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BCBD0C59B7A901_2072447839
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/QO/KUY56M7Y59U12O1P1BS4C8
+ |   |- Actor Instance Guid: 6F8A3AE8446E88F8F1C1E5B08DB6212B
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365521950
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/QH/A588R79COMCXT6Y6MX76CY
+ |   |- Actor Instance Guid: 7052F09C4F534A7BCC7DC08966469A8C
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RangerTeleporter_C_UAID_A036BCBD0C59CCA901_1178944557
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/B9/EU9IPGIPEQ63K9G53YY2HW
+ |   |- Actor Instance Guid: 91055EE24CBFA1AB9637A1B9FE7AB44B
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6
+ |   |- Actor Instance Guid: A56216954B2165CF0F35A886B537D536
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1660226498
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/4B/KG9L5RNBOVRLVQBBNYF3CX
+ |   |- Actor Instance Guid: AE1D38F246F4AE155A97329A5F52F26A
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Boss_C_UAID_A036BCBD0C59ADA901_1184490075
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/V1/FAE6COXP80TX96DRJQG85U
+ |   |- Actor Instance Guid: B50722734ACD64BB97AE4A9D18B825D8
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1654804494
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/7J/7CE2HJ7UDPCM4O84CDP2IP
+ |   |- Actor Instance Guid: B6F50FD544D848F17ED8C79F8BF410AE
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DirectionalLight_0
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416
+ |   |- Actor Instance Guid: B785ED2844B84CFB91E7F39FE661CD99
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_5
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR
+ |   |- Actor Instance Guid: BC08B79C4EA3C961CFF75EBBE83B367D
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1341309491
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/GB/8RWWUE81SB7IQ6A0KUNQFN
+ |   |- Actor Instance Guid: C831B4C24475D2B1C8A89D94129499AE
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658818497
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/G1/ANBGNHBBM0ISM7WQ0D4TB2
+ |   |- Actor Instance Guid: C96A08D44BCAD54C27CBAE88B1798F62
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365770951
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/F1/FKAG1D5TJW9GLC5UPK9GPA
+ |   |- Actor Instance Guid: CBAF14004E5E76267AC717B192C11672
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1364329948
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/I1/F18TUDXDYKQRODZ5ZZW8M4
+ |   |- Actor Instance Guid: CCA792A04E6EF103B409EABFD093023A
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkyAtmosphere_0
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG
+ |   |- Actor Instance Guid: CCFF262C46EEFFDF319E7F9539CE697E
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1335841488
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ZH/W6FAHX4DUVKUUPIY6O1A4F
+ |   |- Actor Instance Guid: D45D54154AC49CEAE9EB41AF114BFFCA
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RangerTeleporter_C_UAID_A036BCBD0C59CCA901_1202623558
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/GW/Z3U5GRPWGS4CKXLHLO7VAJ
+ |   |- Actor Instance Guid: D4C2A64B4BF976A8722030AD723AB3BE
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A036BCBD0C59C6A901_1641337493
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/ZW/59F6MAPZMID5L9LKBLR5TV
+ |   |- Actor Instance Guid: DACEB4C14ECFBD05E47362A4018046BD
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RangerTeleporter_C_UAID_A036BCBD0C59CCA901_1220876559
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/0N/WI0ZZJDMPRHA5EA1CSXEHF
+ |   |- Actor Instance Guid: E90EBDBA49D22F1065ECAFBE0E651C80
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW
+ |   |- Actor Instance Guid: EC4E0C944CE6AC6E784BC6BB2916EA13
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6
+ |   |- Actor Instance Guid: F1924B8D48954B30891B2DB6A694F9CC
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PostProcessVolume_0
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER
+ |   |- Actor Instance Guid: F5E3FEB3450C49844FD93DA8E083C8AD
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1219830947
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/3A/PY6S23U34C2T7PNE5CGBRR
+ |   |- Actor Instance Guid: FD9E8DEB49CE20166A869789E7976EFD
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_6
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q
+ |   |- Actor Instance Guid: FF698C67459ADB4982D7759C0905EE9F
+ |   |-          Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TargetPoint_UAID_A036BCBD0C59CFA901_1908116091
+ |   |-       Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/I0/D9O5HS3TKV2X1TK4Q6UZMU
+ |   |- Actor Instance Guid: FF6D159A47650B7A5F56E29F3449AFD8
+
