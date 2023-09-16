@@ -4120,3 +4120,203 @@ Make sure 'MeleeAI_BP_C' has been compiled for  Get Attack_NS
 [2023.09.16-16.14.16:147][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 9.86 sec)
 [2023.09.16-16.14.16:149][791]AssetCheck: New page: Asset Save: NS_Trail
 [2023.09.16-16.14.16:149][791]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/NS_Trail.NS_Trail
+[2023.09.16-16.15.06:264][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.16-16.15.06:311][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMap" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/testMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.16-16.15.06:349][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.09.16-16.15.06:362][111]LogSavePackage: Moving output files for package: /Game/Maps/testMap
+[2023.09.16-16.15.06:362][111]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/testMapD7195C3947F6C3CD0A2C64A1931C1D47.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/testMap.umap'
+[2023.09.16-16.15.06:368][111]LogFileHelpers: Saving map 'testMap' took 0.058
+[2023.09.16-16.15.06:375][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 9.97 sec)
+[2023.09.16-16.15.06:376][111]AssetCheck: New page: Asset Save: testMap
+[2023.09.16-16.15.06:376][111]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/testMap.testMap
+[2023.09.16-16.15.55:360][912]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/EnemiesIA/RangerAI_BP.RangerAI_BP
+[2023.09.16-16.15.55:360][912]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.16-16.15.55:360][912]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.16-16.16.39:981][314]LogViewport: Scene viewport resized to 1139x655, mode Windowed.
+[2023.09.16-16.16.55:074][178]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.16-16.16.55:124][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/RangerAI_BP" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/RangerAI_BP.uasset" SILENT=true
+[2023.09.16-16.16.55:141][178]LogSavePackage: Moving output files for package: /Game/EnemiesIA/RangerAI_BP
+[2023.09.16-16.16.55:142][178]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/RangerAI_BP04EA0110433B13BFCD9F17B7E0FAF66F.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/RangerAI_BP.uasset'
+[2023.09.16-16.16.55:150][178]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 10.0 sec)
+[2023.09.16-16.16.55:152][178]AssetCheck: New page: Asset Save: RangerAI_BP
+[2023.09.16-16.16.55:152][178]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/RangerAI_BP.RangerAI_BP
+[2023.09.16-16.17.12:178][143]BlueprintLog: New page: Compile RangerAI_BP
+[2023.09.16-16.17.12:184][143]LogBlueprint: Warning: [AssetLog] C:\Users\aleja\Documents\GitHub\Anulax\Anulax\Content\EnemiesIA\RangerAI_BP.uasset: [Compiler] Could not find a variable named "Body" in 'RangerAI_BP_C'.
+Make sure 'RangerAI_BP_C' has been compiled for  Get Body
+[2023.09.16-16.17.12:186][143]LogBlueprint: Error: [AssetLog] C:\Users\aleja\Documents\GitHub\Anulax\Anulax\Content\EnemiesIA\RangerAI_BP.uasset: [Compiler] The property associated with  Body  could not be found in '/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C'
+[2023.09.16-16.17.12:221][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.09.16-16.17.20:991][634]LogViewport: Scene viewport resized to 1139x647, mode Windowed.
+[2023.09.16-16.17.49:197][247]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.16-16.17.49:255][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/RangerAI_BP" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/RangerAI_BP.uasset" SILENT=true
+[2023.09.16-16.17.49:272][247]LogSavePackage: Moving output files for package: /Game/EnemiesIA/RangerAI_BP
+[2023.09.16-16.17.49:272][247]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/RangerAI_BP2AC4A1684B1598411469BD9F9CDCAB8B.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/RangerAI_BP.uasset'
+[2023.09.16-16.17.49:280][247]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 10.1 sec)
+[2023.09.16-16.17.49:281][247]AssetCheck: New page: Asset Save: RangerAI_BP
+[2023.09.16-16.17.49:281][247]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/RangerAI_BP.RangerAI_BP
+[2023.09.16-16.17.50:039][291]BlueprintLog: New page: Compile RangerAI_BP
+[2023.09.16-16.17.50:045][291]LogBlueprint: Error: [AssetLog] C:\Users\aleja\Documents\GitHub\Anulax\Anulax\Content\EnemiesIA\RangerAI_BP.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2023.09.16-16.17.50:045][291]LogBlueprint: Error: [AssetLog] C:\Users\aleja\Documents\GitHub\Anulax\Anulax\Content\EnemiesIA\RangerAI_BP.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2023.09.16-16.17.50:046][291]LogBlueprint: Error: [AssetLog] C:\Users\aleja\Documents\GitHub\Anulax\Anulax\Content\EnemiesIA\RangerAI_BP.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2023.09.16-16.17.50:046][291]LogBlueprint: Error: [AssetLog] C:\Users\aleja\Documents\GitHub\Anulax\Anulax\Content\EnemiesIA\RangerAI_BP.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2023.09.16-16.17.50:082][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.09.16-16.17.52:815][449]BlueprintLog: New page: Compile RangerAI_BP
+[2023.09.16-16.17.52:822][449]LogBlueprint: Error: [AssetLog] C:\Users\aleja\Documents\GitHub\Anulax\Anulax\Content\EnemiesIA\RangerAI_BP.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2023.09.16-16.17.52:822][449]LogBlueprint: Error: [AssetLog] C:\Users\aleja\Documents\GitHub\Anulax\Anulax\Content\EnemiesIA\RangerAI_BP.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2023.09.16-16.17.52:822][449]LogBlueprint: Error: [AssetLog] C:\Users\aleja\Documents\GitHub\Anulax\Anulax\Content\EnemiesIA\RangerAI_BP.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2023.09.16-16.17.52:822][449]LogBlueprint: Error: [AssetLog] C:\Users\aleja\Documents\GitHub\Anulax\Anulax\Content\EnemiesIA\RangerAI_BP.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2023.09.16-16.17.52:856][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.09.16-16.18.02:180][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.16-16.18.02:230][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/RangerAI_BP" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/RangerAI_BP.uasset" SILENT=true
+[2023.09.16-16.18.02:246][  1]LogSavePackage: Moving output files for package: /Game/EnemiesIA/RangerAI_BP
+[2023.09.16-16.18.02:247][  1]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/RangerAI_BP073A7A03464A0307E9AFB9829F748AC3.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/RangerAI_BP.uasset'
+[2023.09.16-16.18.02:253][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 10.2 sec)
+[2023.09.16-16.18.02:255][  1]AssetCheck: New page: Asset Save: RangerAI_BP
+[2023.09.16-16.18.02:255][  1]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/RangerAI_BP.RangerAI_BP
+[2023.09.16-16.18.03:706][ 88]BlueprintLog: New page: Compile RangerAI_BP
+[2023.09.16-16.18.03:749][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.09.16-16.18.33:956][757]BlueprintLog: New page: Compile RangerAI_BP
+[2023.09.16-16.18.34:000][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.09.16-16.18.35:827][851]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.16-16.18.36:182][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/RangerAI_BP" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/RangerAI_BP.uasset" SILENT=true
+[2023.09.16-16.18.36:203][851]LogSavePackage: Moving output files for package: /Game/EnemiesIA/RangerAI_BP
+[2023.09.16-16.18.36:204][851]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/RangerAI_BPE28773EF44241424DD3E318465812863.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/RangerAI_BP.uasset'
+[2023.09.16-16.18.36:211][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 383 ms (total: 10.5 sec)
+[2023.09.16-16.18.36:213][851]AssetCheck: New page: Asset Save: RangerAI_BP
+[2023.09.16-16.18.36:213][851]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/RangerAI_BP.RangerAI_BP
+[2023.09.16-16.18.42:048][140]Cmd: DELETE
+[2023.09.16-16.18.42:048][140]Cmd: ACTOR DELETE
+[2023.09.16-16.18.42:050][140]LogEditorActor: Deleted Actor: MeleeAI_BP_C
+[2023.09.16-16.18.42:068][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.09.16-16.18.42:073][140]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2023.09.16-16.18.43:578][205]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C
+[2023.09.16-16.18.43:578][205]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C
+[2023.09.16-16.18.43:582][205]LogActorFactory: Actor Factory spawned Blueprint /Game/EnemiesIA/RangerAI_BP.RangerAI_BP as actor: RangerAI_BP_C /Game/Maps/testMap.testMap:PersistentLevel.RangerAI_BP_C_0
+[2023.09.16-16.18.43:586][205]LogActorFactory: Actor Factory spawned Blueprint /Game/EnemiesIA/RangerAI_BP.RangerAI_BP as actor: RangerAI_BP_C /Game/Maps/testMap.testMap:PersistentLevel.RangerAI_BP_C_0
+[2023.09.16-16.18.43:603][205]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C
+[2023.09.16-16.18.43:603][205]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C
+[2023.09.16-16.18.43:609][205]LogActorFactory: Actor Factory spawned Blueprint /Game/EnemiesIA/RangerAI_BP.RangerAI_BP as actor: RangerAI_BP_C /Game/Maps/testMap.testMap:PersistentLevel.RangerAI_BP_C_1
+[2023.09.16-16.18.43:613][205]LogActorFactory: Actor Factory spawned Blueprint /Game/EnemiesIA/RangerAI_BP.RangerAI_BP as actor: RangerAI_BP_C /Game/Maps/testMap.testMap:PersistentLevel.RangerAI_BP_C_1
+[2023.09.16-16.18.44:804][269]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.16-16.18.44:849][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMap" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/testMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.16-16.18.44:890][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.09.16-16.18.44:904][269]LogSavePackage: Moving output files for package: /Game/Maps/testMap
+[2023.09.16-16.18.44:905][269]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/testMap4B5E3FF24F984F0CD12BAA946CABA463.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/testMap.umap'
+[2023.09.16-16.18.44:912][269]LogFileHelpers: Saving map 'testMap' took 0.063
+[2023.09.16-16.18.44:918][269]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 10.7 sec)
+[2023.09.16-16.18.44:919][269]AssetCheck: New page: Asset Save: testMap
+[2023.09.16-16.18.44:920][269]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/testMap.testMap
+[2023.09.16-16.18.46:901][384]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.16-16.18.46:924][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.16-16.18.46:924][384]PIE: New page: PIE session: testMap (16 sept. 2023 20:18:46)
+[2023.09.16-16.18.46:924][384]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_testMap
+[2023.09.16-16.18.46:928][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003951s)
+[2023.09.16-16.18.46:928][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMap.testMap to /Game/Maps/UEDPIE_0_testMap.testMap (0.003980s)
+[2023.09.16-16.18.46:943][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.09.16-16.18.46:948][384]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.16-16.18.46:948][384]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.16-16.18.46:948][384]LogAIModule: Creating AISystem for world testMap
+[2023.09.16-16.18.46:949][384]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2023.09.16-16.18.46:949][384]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.09.16-16.18.46:949][384]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.16-16.18.46:949][384]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.16-16.18.46:949][384]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.16-16.18.46:949][384]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.16-16.18.46:949][384]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.16-16.18.46:949][384]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.16-16.18.46:949][384]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.16-16.18.46:949][384]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.16-16.18.46:949][384]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.16-16.18.46:949][384]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.16-16.18.46:949][384]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.16-16.18.46:951][384]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.16-16.18.46:992][384]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.09.16-16.18.46:992][384]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.16-16.18.46:992][384]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.16-16.18.46:992][384]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.16-16.18.46:994][384]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.09.16-16.18.46:994][384]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.09.16-16.18.46:995][384]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.09.16-16.18.46:995][384]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.09.16-16.18.46:995][384]LogInit: FAudioDevice initialized with ID 16.
+[2023.09.16-16.18.46:995][384]LogAudio: Display: Audio Device (ID: 16) registered with world 'testMap'.
+[2023.09.16-16.18.46:995][384]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.09.16-16.18.46:998][384]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.16-16.18.47:000][384]LogWorld: Bringing World /Game/Maps/UEDPIE_0_testMap.testMap up for play (max tick rate 60) at 2023.09.16-18.18.47
+[2023.09.16-16.18.47:000][384]LogWorld: Bringing up level for play took: 0.001540
+[2023.09.16-16.18.47:002][384]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.09.16-16.18.47:005][384]PIE: Server logged in
+[2023.09.16-16.18.47:006][384]PIE: Play in editor total start time 0,098 seconds.
+[2023.09.16-16.19.23:502][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.16-16.19.23:502][548]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_testMap
+[2023.09.16-16.19.23:502][548]LogWorld: UWorld::CleanupWorld for testMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.16-16.19.23:503][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.16-16.19.23:511][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.16-16.19.23:515][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.16-16.19.23:530][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.16-16.19.23:530][548]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.09.16-16.19.23:531][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.09.16-16.19.23:532][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.09.16-16.19.23:542][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.09.16-16.19.23:660][549]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.09.16-16.19.24:762][612]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.16-16.19.24:770][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.16-16.19.24:770][612]PIE: New page: PIE session: testMap (16 sept. 2023 20:19:24)
+[2023.09.16-16.19.24:770][612]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_testMap
+[2023.09.16-16.19.24:774][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003755s)
+[2023.09.16-16.19.24:774][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMap.testMap to /Game/Maps/UEDPIE_0_testMap.testMap (0.003787s)
+[2023.09.16-16.19.24:789][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.09.16-16.19.24:793][612]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.16-16.19.24:793][612]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.16-16.19.24:794][612]LogAIModule: Creating AISystem for world testMap
+[2023.09.16-16.19.24:794][612]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2023.09.16-16.19.24:794][612]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.09.16-16.19.24:794][612]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.16-16.19.24:794][612]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.16-16.19.24:794][612]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.16-16.19.24:794][612]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.16-16.19.24:794][612]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.16-16.19.24:794][612]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.16-16.19.24:794][612]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.16-16.19.24:794][612]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.16-16.19.24:795][612]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.16-16.19.24:795][612]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.16-16.19.24:795][612]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.16-16.19.24:797][612]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.16-16.19.24:836][612]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.09.16-16.19.24:837][612]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.16-16.19.24:837][612]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.16-16.19.24:837][612]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.16-16.19.24:838][612]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.09.16-16.19.24:838][612]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.09.16-16.19.24:840][612]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.09.16-16.19.24:840][612]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.09.16-16.19.24:840][612]LogInit: FAudioDevice initialized with ID 17.
+[2023.09.16-16.19.24:840][612]LogAudio: Display: Audio Device (ID: 17) registered with world 'testMap'.
+[2023.09.16-16.19.24:840][612]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2023.09.16-16.19.24:842][612]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.16-16.19.24:843][612]LogWorld: Bringing World /Game/Maps/UEDPIE_0_testMap.testMap up for play (max tick rate 60) at 2023.09.16-18.19.24
+[2023.09.16-16.19.24:844][612]LogWorld: Bringing up level for play took: 0.001586
+[2023.09.16-16.19.24:846][612]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.09.16-16.19.24:849][612]PIE: Server logged in
+[2023.09.16-16.19.24:850][612]PIE: Play in editor total start time 0,081 seconds.
+[2023.09.16-16.19.26:732][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.16-16.19.26:732][704]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_testMap
+[2023.09.16-16.19.26:732][704]LogWorld: UWorld::CleanupWorld for testMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.16-16.19.26:733][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.16-16.19.26:737][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.16-16.19.26:741][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.16-16.19.26:756][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.16-16.19.26:756][704]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2023.09.16-16.19.26:756][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.09.16-16.19.26:758][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.09.16-16.19.26:766][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.09.16-16.19.26:875][705]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.09.16-16.19.28:018][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.16-16.19.28:066][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMap" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/testMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.16-16.19.28:107][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.09.16-16.19.28:122][771]LogSavePackage: Moving output files for package: /Game/Maps/testMap
+[2023.09.16-16.19.28:123][771]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/testMapFED67BEA456485F48734A8B2E68F3F02.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/testMap.umap'
+[2023.09.16-16.19.28:128][771]LogFileHelpers: Saving map 'testMap' took 0.063
+[2023.09.16-16.19.28:135][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 10.8 sec)
+[2023.09.16-16.19.28:136][771]AssetCheck: New page: Asset Save: testMap
+[2023.09.16-16.19.28:136][771]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/testMap.testMap
