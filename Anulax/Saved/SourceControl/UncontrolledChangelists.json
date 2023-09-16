@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Ayugu/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/EnemyIa.uasset",
+				"C:/Users/Ayugu/Documents/GitHub/Anulax/Anulax/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UB/5SZ5LI6RVAGYR9PTD0865Q.uasset",
+				"C:/Users/Ayugu/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/MeeleAI.uasset",
+				"C:/Users/Ayugu/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/meleeAI.uasset",
+				"C:/Users/Ayugu/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/MeleeAI_BP.uasset",
+				"C:/Users/Ayugu/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/MeleeAI_BT.uasset",
+				"C:/Users/Ayugu/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/MeleeAI_BB.uasset",
+				"C:/Users/Ayugu/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/IAController.uasset",
+				"C:/Users/Ayugu/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/BTTask_Attack.uasset",
+				"C:/Users/Ayugu/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/IAController_BP.uasset",
+				"C:/Users/Ayugu/Documents/GitHub/Anulax/Anulax/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/MQ/IJU5IY75MNT0TS0D7B9173.uasset",
+				"C:/Users/Ayugu/Documents/GitHub/Anulax/Anulax/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/RF/V66OEZD4K65H4Z4P7K7663.uasset",
+				"C:/Users/Ayugu/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/EnemyAI_BB.uasset",
+				"C:/Users/Ayugu/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/EnemyAI_BT.uasset",
+				"C:/Users/Ayugu/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/RangerAI_BP.uasset",
+				"C:/Users/Ayugu/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Bullet_BP.uasset"
+			]
+		}
+	]
+}
