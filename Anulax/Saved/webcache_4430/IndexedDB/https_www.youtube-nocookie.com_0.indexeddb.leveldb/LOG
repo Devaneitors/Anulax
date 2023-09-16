@@ -1,0 +1,6 @@
+2023/09/16-13:19:35.299 1f38 Creating DB C:/Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/09/16-13:19:35.314 1f38 Reusing MANIFEST C:/Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/16-14:56:50.152 19e8 Level-0 table #5: started
+2023/09/16-14:56:50.162 19e8 Level-0 table #5: 1213 bytes OK
+2023/09/16-14:56:50.165 19e8 Delete type=0 #3
+2023/09/16-14:56:50.166 19e8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
