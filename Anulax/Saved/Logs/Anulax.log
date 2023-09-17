@@ -2583,3 +2583,1284 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.17-00.13.38:741][843]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 7.07 sec)
 [2023.09.17-00.13.38:741][843]AssetCheck: New page: Asset Save: testMap
 [2023.09.17-00.13.38:742][843]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/testMap.testMap
+[2023.09.17-00.14.51:143][841]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-00.14.51:183][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-00.14.52:280][893]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP
+[2023.09.17-00.14.52:280][893]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-00.14.52:280][893]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-00.19.45:245][604]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.09.17-00.19.45:245][604]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.09.17-00.20.21:625][299]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.09.17-00.22.19:351][779]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.22.19:646][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/MeleeAI_BP" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/MeleeAI_BP.uasset" SILENT=true
+[2023.09.17-00.22.19:672][779]LogSavePackage: Moving output files for package: /Game/EnemiesIA/MeleeAI_BP
+[2023.09.17-00.22.19:672][779]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/MeleeAI_BP3A4CE58A4D2F039DD41419BA4F0AA475.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/MeleeAI_BP.uasset'
+[2023.09.17-00.22.19:684][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 332 ms (total: 7.40 sec)
+[2023.09.17-00.22.19:686][779]AssetCheck: New page: Asset Save: MeleeAI_BP
+[2023.09.17-00.22.19:686][779]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP
+[2023.09.17-00.23.14:743][372]LogViewport: Scene viewport resized to 1139x655, mode Windowed.
+[2023.09.17-00.23.33:730][424]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.23.33:778][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/Boss/Boss_BP" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset" SILENT=true
+[2023.09.17-00.23.33:815][424]LogSavePackage: Moving output files for package: /Game/EnemiesIA/Boss/Boss_BP
+[2023.09.17-00.23.33:815][424]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Boss_BPCCD10BA947DA6E67D74498956F429FB4.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset'
+[2023.09.17-00.23.33:823][424]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 7.50 sec)
+[2023.09.17-00.23.33:825][424]AssetCheck: New page: Asset Save: Boss_BP
+[2023.09.17-00.23.33:825][424]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP
+[2023.09.17-00.24.01:776][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.24.01:820][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMap" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/testMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.17-00.24.01:862][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.09.17-00.24.01:889][956]LogSavePackage: Moving output files for package: /Game/Maps/testMap
+[2023.09.17-00.24.01:890][956]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/testMapFA2BFDC7418678286CC68EB3D0433E07.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/testMap.umap'
+[2023.09.17-00.24.01:896][956]LogFileHelpers: Saving map 'testMap' took 0.076
+[2023.09.17-00.24.01:904][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 7.62 sec)
+[2023.09.17-00.24.01:905][956]AssetCheck: New page: Asset Save: testMap
+[2023.09.17-00.24.01:905][956]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/testMap.testMap
+[2023.09.17-00.24.12:003][258]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.09.17-00.24.12:021][258]LogContentBrowser: Creating deferred item: NewFolder
+[2023.09.17-00.24.12:046][259]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.09.17-00.24.13:965][362]LogContentBrowser: Attempting asset rename: NewFolder -> Boss
+[2023.09.17-00.24.13:966][362]LogContentBrowser: End creating deferred item NewFolder
+[2023.09.17-00.24.34:789][703]LogInterchangeEngine: [Pending] Importing
+[2023.09.17-00.24.34:789][703]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/aleja/Desktop/Anulax_/CBDC99E7-EFE2-4229-917E-D9850FCBEEA5.png]
+[2023.09.17-00.24.34:789][703]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.09.17-00.24.34:789][703]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/aleja/Desktop/Anulax_/092BB9A0-42D8-4BE5-9E09-8A0155F9FB1E.png]
+[2023.09.17-00.24.34:790][703]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.09.17-00.24.34:790][703]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/aleja/Desktop/Anulax_/373A81A3-267A-419D-8A0F-D922985BC4FD.png]
+[2023.09.17-00.24.34:790][703]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.09.17-00.24.34:790][703]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/aleja/Desktop/Anulax_/BAA0F13E-D86A-4BF2-B440-20A757DA120F.png]
+[2023.09.17-00.24.34:800][703]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\aleja\Desktop\Anulax_\boss.fbx)
+[2023.09.17-00.24.34:810][703]LogFbx: Loading FBX Scene from C:\Users\aleja\Desktop\Anulax_\boss.fbx
+[2023.09.17-00.24.34:818][703]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.17-00.24.34:923][703]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2023.09.17-00.24.34:923][703]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2023.09.17-00.24.34:926][703]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2023.09.17-00.24.34:930][703]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2023.09.17-00.24.34:946][703]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.09.17-00.24.34:946][703]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.09.17-00.24.34:946][703]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.09.17-00.24.34:946][703]LogInterchangeEngine: [Success] Import Done
+[2023.09.17-00.24.34:954][703]LogTexture: Display: Building textures: /Game/Assets/Boss/BAA0F13E-D86A-4BF2-B440-20A757DA120F.BAA0F13E-D86A-4BF2-B440-20A757DA120F (BGRA8, 3212x3347 x1x1x1) (Required Memory Estimate: 314.473621 MB), EncodeSpeed: Fast
+[2023.09.17-00.24.34:987][703]LogTexture: Display: Building textures: /Game/Assets/Boss/CBDC99E7-EFE2-4229-917E-D9850FCBEEA5.CBDC99E7-EFE2-4229-917E-D9850FCBEEA5 (BGRA8, 3212x3347 x1x1x1) (Required Memory Estimate: 314.473621 MB), EncodeSpeed: Fast
+[2023.09.17-00.24.34:994][703]LogTexture: Display: Building textures: /Game/Assets/Boss/373A81A3-267A-419D-8A0F-D922985BC4FD.373A81A3-267A-419D-8A0F-D922985BC4FD (BGRA8, 3212x3347 x1x1x1) (Required Memory Estimate: 314.473621 MB), EncodeSpeed: Fast
+[2023.09.17-00.24.35:017][703]LogTexture: Display: Building textures: /Game/Assets/Boss/092BB9A0-42D8-4BE5-9E09-8A0155F9FB1E.092BB9A0-42D8-4BE5-9E09-8A0155F9FB1E (BGRA8, 3212x3347 x1x1x1) (Required Memory Estimate: 314.473621 MB), EncodeSpeed: Fast
+[2023.09.17-00.24.36:088][703]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.09.17-00.24.36:252][703]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2023.09.17-00.24.36:253][703]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.17-00.24.36:272][703]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2023.09.17-00.24.36:272][703]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.17-00.24.36:288][703]LogTexture: Display: Building textures: /Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo.brown-corrugated-cardboard-texture-background-photo (BGRA8, 1307x980 x1x1x1) (Required Memory Estimate: 37.522541 MB), EncodeSpeed: Fast
+[2023.09.17-00.24.36:301][703]LogTexture: Display: Building textures: /Game/Assets/Boss/cardboard-texture_1194-6784.cardboard-texture_1194-6784 (BGRA8, 2000x1359 x1x1x1) (Required Memory Estimate: 79.553162 MB), EncodeSpeed: Fast
+[2023.09.17-00.24.36:320][703]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2023.09.17-00.24.36:321][703]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.17-00.24.36:342][703]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2023.09.17-00.24.36:342][703]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.17-00.24.36:344][703]LogFbx: Display: Triangulating static mesh BossAtaque
+[2023.09.17-00.24.36:357][703]LogTexture: Display: Building textures: /Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo_ncl1_1.brown-corrugated-cardboard-texture-background-photo_ncl1_1 (BGRA8, 1307x980 x1x1x1) (Required Memory Estimate: 37.522541 MB), EncodeSpeed: Fast
+[2023.09.17-00.24.36:375][703]LogTexture: Display: Building textures: /Game/Assets/Boss/cardboard-texture_1194-6784_ncl1_1.cardboard-texture_1194-6784_ncl1_1 (BGRA8, 2000x1359 x1x1x1) (Required Memory Estimate: 79.553162 MB), EncodeSpeed: Fast
+[2023.09.17-00.24.36:466][703]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2023.09.17-00.24.36:468][703]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.17-00.24.36:488][703]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2023.09.17-00.24.36:488][703]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.17-00.24.36:504][703]LogTexture: Display: Building textures: /Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo_ncl1_1.brown-corrugated-cardboard-texture-background-photo_ncl1_1 (BGRA8, 1307x980 x1x1x1) (Required Memory Estimate: 37.522541 MB), EncodeSpeed: Fast
+[2023.09.17-00.24.36:513][703]LogTexture: Display: Building textures: /Game/Assets/Boss/cardboard-texture_1194-6784_ncl1_1.cardboard-texture_1194-6784_ncl1_1 (BGRA8, 2000x1359 x1x1x1) (Required Memory Estimate: 79.553162 MB), EncodeSpeed: Fast
+[2023.09.17-00.24.36:536][703]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2023.09.17-00.24.36:537][703]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.17-00.24.36:556][703]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2023.09.17-00.24.36:557][703]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.17-00.24.36:559][703]LogFbx: Display: Triangulating static mesh BossLanza
+[2023.09.17-00.24.36:578][703]LogTexture: Display: Building textures: /Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo_ncl1_2.brown-corrugated-cardboard-texture-background-photo_ncl1_2 (BGRA8, 1307x980 x1x1x1) (Required Memory Estimate: 37.522541 MB), EncodeSpeed: Fast
+[2023.09.17-00.24.36:585][703]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'cardboard-texture_1194-6784' was renamed 'cardboard-texture_1194-6784_ncl1_1' 
+[2023.09.17-00.24.36:585][703]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'brown-corrugated-cardboard-texture-background-photo' was renamed 'brown-corrugated-cardboard-texture-background-photo_ncl1_1' 
+[2023.09.17-00.24.36:585][703]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'cardboard-texture_1194-6784' was renamed 'cardboard-texture_1194-6784_ncl1_2' 
+[2023.09.17-00.24.36:585][703]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'brown-corrugated-cardboard-texture-background-photo' was renamed 'brown-corrugated-cardboard-texture-background-photo_ncl1_2' 
+[2023.09.17-00.24.36:585][703]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.09.17-00.24.36:592][703]LogTexture: Display: Building textures: /Game/Assets/Boss/cardboard-texture_1194-6784_ncl1_2.cardboard-texture_1194-6784_ncl1_2 (BGRA8, 2000x1359 x1x1x1) (Required Memory Estimate: 79.553162 MB), EncodeSpeed: Fast
+[2023.09.17-00.24.36:647][703]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\aleja\Desktop\Anulax_\bossLloron.fbx)
+[2023.09.17-00.24.36:655][703]LogFbx: Loading FBX Scene from C:\Users\aleja\Desktop\Anulax_\bossLloron.fbx
+[2023.09.17-00.24.36:661][703]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.17-00.24.36:769][703]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2023.09.17-00.24.36:771][703]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.17-00.24.36:792][703]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2023.09.17-00.24.36:793][703]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.17-00.24.36:795][703]LogFbx: Display: Triangulating static mesh Plane.002
+[2023.09.17-00.24.36:811][703]LogTexture: Display: Building textures: /Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo.brown-corrugated-cardboard-texture-background-photo (BGRA8, 1307x980 x1x1x1) (Required Memory Estimate: 37.522541 MB), EncodeSpeed: Fast
+[2023.09.17-00.24.36:822][703]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.09.17-00.24.36:825][703]LogTexture: Display: Building textures: /Game/Assets/Boss/cardboard-texture_1194-6784.cardboard-texture_1194-6784 (BGRA8, 2000x1359 x1x1x1) (Required Memory Estimate: 79.553162 MB), EncodeSpeed: Fast
+[2023.09.17-00.24.36:991][704]LogInterchangeEngine: [Success] Import Done
+[2023.09.17-00.24.38:803][776]LogSlate: Window 'Message Log' being destroyed
+[2023.09.17-00.24.38:809][776]LogSlate: Window 'Message Log' being destroyed
+[2023.09.17-00.24.40:375][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.24.40:416][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMap" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/testMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.17-00.24.40:457][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.09.17-00.24.40:480][847]LogSavePackage: Moving output files for package: /Game/Maps/testMap
+[2023.09.17-00.24.40:481][847]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/testMapF42CB731488CDE96EF84478AE45BB49C.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/testMap.umap'
+[2023.09.17-00.24.40:487][847]LogFileHelpers: Saving map 'testMap' took 0.072
+[2023.09.17-00.24.40:495][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 7.74 sec)
+[2023.09.17-00.24.40:496][847]AssetCheck: New page: Asset Save: testMap
+[2023.09.17-00.24.40:496][847]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/testMap.testMap
+[2023.09.17-00.32.03:101][826]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\aleja\Desktop\Anulax_\bossRange.fbx)
+[2023.09.17-00.32.03:108][826]LogFbx: Loading FBX Scene from C:\Users\aleja\Desktop\Anulax_\bossRange.fbx
+[2023.09.17-00.32.03:115][826]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.17-00.32.04:510][826]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.09.17-00.32.04:646][826]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2023.09.17-00.32.04:647][826]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.17-00.32.04:667][826]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2023.09.17-00.32.04:668][826]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.17-00.32.04:687][826]LogTexture: Display: Building textures: /Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo.brown-corrugated-cardboard-texture-background-photo (BGRA8, 1307x980 x1x1x1) (Required Memory Estimate: 37.522541 MB), EncodeSpeed: Fast
+[2023.09.17-00.32.04:701][826]LogTexture: Display: Building textures: /Game/Assets/Boss/cardboard-texture_1194-6784.cardboard-texture_1194-6784 (BGRA8, 2000x1359 x1x1x1) (Required Memory Estimate: 79.553162 MB), EncodeSpeed: Fast
+[2023.09.17-00.32.04:756][826]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2023.09.17-00.32.04:757][826]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.17-00.32.04:780][826]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2023.09.17-00.32.04:781][826]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.17-00.32.04:783][826]LogFbx: Display: Triangulating static mesh Plane.003
+[2023.09.17-00.32.04:790][826]LogStaticMesh: Display: Building static mesh bossRange...
+[2023.09.17-00.32.04:798][826]LogTexture: Display: Building textures: /Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo_ncl1_1.brown-corrugated-cardboard-texture-background-photo_ncl1_1 (BGRA8, 1307x980 x1x1x1) (Required Memory Estimate: 37.522541 MB), EncodeSpeed: Fast
+[2023.09.17-00.32.04:803][826]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Boss/bossRange.bossRange
+[2023.09.17-00.32.04:808][826]LogTexture: Display: Building textures: /Game/Assets/Boss/cardboard-texture_1194-6784_ncl1_1.cardboard-texture_1194-6784_ncl1_1 (BGRA8, 2000x1359 x1x1x1) (Required Memory Estimate: 79.553162 MB), EncodeSpeed: Fast
+[2023.09.17-00.32.04:837][826]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'cardboard-texture_1194-6784' was renamed 'cardboard-texture_1194-6784_ncl1_1' 
+[2023.09.17-00.32.04:837][826]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'brown-corrugated-cardboard-texture-background-photo' was renamed 'brown-corrugated-cardboard-texture-background-photo_ncl1_1' 
+[2023.09.17-00.32.04:838][826]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.09.17-00.32.07:640][955]LogSlate: Window 'Message Log' being destroyed
+[2023.09.17-00.32.07:646][955]LogSlate: Window 'Message Log' being destroyed
+[2023.09.17-00.34.40:500][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.09.17-00.34.40:503][ 68]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/testMap' took 0.019
+[2023.09.17-00.34.40:504][ 68]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Boss/bossLloron_Plane_002] ([1] browsable assets)...
+[2023.09.17-00.34.40:515][ 68]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Boss/bossLloron_Plane_002.bossLloron_Plane_002]
+[2023.09.17-00.34.40:515][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Boss/bossLloron_Plane_002]
+[2023.09.17-00.34.40:518][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Boss/bossLloron_Plane_002_Auto1
+[2023.09.17-00.34.40:518][ 68]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/bossLloron_Plane_002_Auto1571C7420494E4A5621FEDF95B0785A48.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Autosaves/Game/Assets/Boss/bossLloron_Plane_002_Auto1.uasset'
+[2023.09.17-00.34.40:519][ 68]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Boss/CBDC99E7-EFE2-4229-917E-D9850FCBEEA5] ([1] browsable assets)...
+[2023.09.17-00.34.40:521][ 68]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Boss/CBDC99E7-EFE2-4229-917E-D9850FCBEEA5.CBDC99E7-EFE2-4229-917E-D9850FCBEEA5]
+[2023.09.17-00.34.40:521][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Boss/CBDC99E7-EFE2-4229-917E-D9850FCBEEA5]
+[2023.09.17-00.34.40:565][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Boss/CBDC99E7-EFE2-4229-917E-D9850FCBEEA5_Auto1
+[2023.09.17-00.34.40:566][ 68]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/CBDC99E7-EFE2-4229-917E-D9850FCB891F580F444E265F64B2009E0C36AFCD.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Autosaves/Game/Assets/Boss/CBDC99E7-EFE2-4229-917E-D9850FCBEEA5_Auto1.uasset'
+[2023.09.17-00.34.40:566][ 68]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Boss/092BB9A0-42D8-4BE5-9E09-8A0155F9FB1E] ([1] browsable assets)...
+[2023.09.17-00.34.40:569][ 68]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Boss/092BB9A0-42D8-4BE5-9E09-8A0155F9FB1E.092BB9A0-42D8-4BE5-9E09-8A0155F9FB1E]
+[2023.09.17-00.34.40:569][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Boss/092BB9A0-42D8-4BE5-9E09-8A0155F9FB1E]
+[2023.09.17-00.34.40:611][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Boss/092BB9A0-42D8-4BE5-9E09-8A0155F9FB1E_Auto1
+[2023.09.17-00.34.40:611][ 68]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/092BB9A0-42D8-4BE5-9E09-8A0155F9934BF283498C9F90D2F300B1DC929CC2.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Autosaves/Game/Assets/Boss/092BB9A0-42D8-4BE5-9E09-8A0155F9FB1E_Auto1.uasset'
+[2023.09.17-00.34.40:612][ 68]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Boss/373A81A3-267A-419D-8A0F-D922985BC4FD] ([1] browsable assets)...
+[2023.09.17-00.34.40:615][ 68]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Boss/373A81A3-267A-419D-8A0F-D922985BC4FD.373A81A3-267A-419D-8A0F-D922985BC4FD]
+[2023.09.17-00.34.40:615][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Boss/373A81A3-267A-419D-8A0F-D922985BC4FD]
+[2023.09.17-00.34.40:658][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Boss/373A81A3-267A-419D-8A0F-D922985BC4FD_Auto1
+[2023.09.17-00.34.40:658][ 68]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/373A81A3-267A-419D-8A0F-D922985B0AA2C0D34F7CFF01573B9EBC76479B4C.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Autosaves/Game/Assets/Boss/373A81A3-267A-419D-8A0F-D922985BC4FD_Auto1.uasset'
+[2023.09.17-00.34.40:659][ 68]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Boss/BAA0F13E-D86A-4BF2-B440-20A757DA120F] ([1] browsable assets)...
+[2023.09.17-00.34.40:661][ 68]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Boss/BAA0F13E-D86A-4BF2-B440-20A757DA120F.BAA0F13E-D86A-4BF2-B440-20A757DA120F]
+[2023.09.17-00.34.40:661][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Boss/BAA0F13E-D86A-4BF2-B440-20A757DA120F]
+[2023.09.17-00.34.40:705][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Boss/BAA0F13E-D86A-4BF2-B440-20A757DA120F_Auto1
+[2023.09.17-00.34.40:705][ 68]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/BAA0F13E-D86A-4BF2-B440-20A757DA0AF723C84090559E82FD898E4AC8E8F9.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Autosaves/Game/Assets/Boss/BAA0F13E-D86A-4BF2-B440-20A757DA120F_Auto1.uasset'
+[2023.09.17-00.34.40:706][ 68]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Boss/boss_BossAtaque] ([1] browsable assets)...
+[2023.09.17-00.34.40:715][ 68]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Boss/boss_BossAtaque.boss_BossAtaque]
+[2023.09.17-00.34.40:715][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Boss/boss_BossAtaque]
+[2023.09.17-00.34.40:719][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Boss/boss_BossAtaque_Auto1
+[2023.09.17-00.34.40:719][ 68]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/boss_BossAtaque_Auto1F172864240A90A33B9D628BA4981014D.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Autosaves/Game/Assets/Boss/boss_BossAtaque_Auto1.uasset'
+[2023.09.17-00.34.40:719][ 68]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Boss/cardboard-texture_1194-6784] ([1] browsable assets)...
+[2023.09.17-00.34.40:722][ 68]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Boss/cardboard-texture_1194-6784.cardboard-texture_1194-6784]
+[2023.09.17-00.34.40:722][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Boss/cardboard-texture_1194-6784]
+[2023.09.17-00.34.40:724][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Boss/cardboard-texture_1194-6784_Auto1
+[2023.09.17-00.34.40:724][ 68]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/cardboard-texture_1194-6784_AutoD20110FC42A4997330C0B08EDE70113B.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Autosaves/Game/Assets/Boss/cardboard-texture_1194-6784_Auto1.uasset'
+[2023.09.17-00.34.40:724][ 68]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo] ([1] browsable assets)...
+[2023.09.17-00.34.40:727][ 68]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo.brown-corrugated-cardboard-texture-background-photo]
+[2023.09.17-00.34.40:727][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo]
+[2023.09.17-00.34.40:729][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo_Auto1
+[2023.09.17-00.34.40:729][ 68]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/brown-corrugated-cardboard-textu8D75BEAA4DCEE1B24CD162B05A384632.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Autosaves/Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo_Auto1.uasset'
+[2023.09.17-00.34.40:730][ 68]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Boss/cardboard-texture_1194-6784_ncl1_1] ([1] browsable assets)...
+[2023.09.17-00.34.40:732][ 68]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Boss/cardboard-texture_1194-6784_ncl1_1.cardboard-texture_1194-6784_ncl1_1]
+[2023.09.17-00.34.40:732][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Boss/cardboard-texture_1194-6784_ncl1_1]
+[2023.09.17-00.34.40:733][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Boss/cardboard-texture_1194-6784_ncl1_1_Auto1
+[2023.09.17-00.34.40:734][ 68]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/cardboard-texture_1194-6784_ncl17400935E40692F18C011519B5B45CAE9.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Autosaves/Game/Assets/Boss/cardboard-texture_1194-6784_ncl1_1_Auto1.uasset'
+[2023.09.17-00.34.40:734][ 68]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo_ncl1_1] ([1] browsable assets)...
+[2023.09.17-00.34.40:736][ 68]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo_ncl1_1.brown-corrugated-cardboard-texture-background-photo_ncl1_1]
+[2023.09.17-00.34.40:736][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo_ncl1_1]
+[2023.09.17-00.34.40:738][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo_ncl1_1_Auto1
+[2023.09.17-00.34.40:738][ 68]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/brown-corrugated-cardboard-textuD9DCD16F469B250AFAD5BFBA22A84BEC.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Autosaves/Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo_ncl1_1_Auto1.uasset'
+[2023.09.17-00.34.40:739][ 68]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Boss/boss_BossLanza] ([1] browsable assets)...
+[2023.09.17-00.34.40:748][ 68]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Boss/boss_BossLanza.boss_BossLanza]
+[2023.09.17-00.34.40:748][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Boss/boss_BossLanza]
+[2023.09.17-00.34.40:751][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Boss/boss_BossLanza_Auto1
+[2023.09.17-00.34.40:751][ 68]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/boss_BossLanza_Auto19FB4FBDC4193E5F0D6D9CCBC8F898F83.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Autosaves/Game/Assets/Boss/boss_BossLanza_Auto1.uasset'
+[2023.09.17-00.34.40:751][ 68]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Boss/cardboard-texture_1194-6784_ncl1_2] ([1] browsable assets)...
+[2023.09.17-00.34.40:753][ 68]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Boss/cardboard-texture_1194-6784_ncl1_2.cardboard-texture_1194-6784_ncl1_2]
+[2023.09.17-00.34.40:753][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Boss/cardboard-texture_1194-6784_ncl1_2]
+[2023.09.17-00.34.40:756][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Boss/cardboard-texture_1194-6784_ncl1_2_Auto1
+[2023.09.17-00.34.40:756][ 68]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/cardboard-texture_1194-6784_ncl18D6BBDD0466ADF272FE3C79F0956BC22.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Autosaves/Game/Assets/Boss/cardboard-texture_1194-6784_ncl1_2_Auto1.uasset'
+[2023.09.17-00.34.40:757][ 68]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo_ncl1_2] ([1] browsable assets)...
+[2023.09.17-00.34.40:759][ 68]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo_ncl1_2.brown-corrugated-cardboard-texture-background-photo_ncl1_2]
+[2023.09.17-00.34.40:759][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo_ncl1_2]
+[2023.09.17-00.34.40:760][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo_ncl1_2_Auto1
+[2023.09.17-00.34.40:760][ 68]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/brown-corrugated-cardboard-textu8C90CC0B4A83AFE003F7E48C5AB355C2.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Autosaves/Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo_ncl1_2_Auto1.uasset'
+[2023.09.17-00.34.40:761][ 68]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Boss/bossRange] ([1] browsable assets)...
+[2023.09.17-00.34.40:770][ 68]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Boss/bossRange.bossRange]
+[2023.09.17-00.34.40:770][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Boss/bossRange]
+[2023.09.17-00.34.40:773][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Boss/bossRange_Auto1
+[2023.09.17-00.34.40:773][ 68]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/bossRange_Auto1BC88B30348216E92EA555BA3028A22C2.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Autosaves/Game/Assets/Boss/bossRange_Auto1.uasset'
+[2023.09.17-00.34.40:774][ 68]LogFileHelpers: Auto-saving content packages took 0.270
+[2023.09.17-00.36.13:938][555]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.36.13:991][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/Boss/Boss_BP" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset" SILENT=true
+[2023.09.17-00.36.14:027][555]LogSavePackage: Moving output files for package: /Game/EnemiesIA/Boss/Boss_BP
+[2023.09.17-00.36.14:028][555]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Boss_BPD29BE2CC4361AEECE080B8AA7BBEBF96.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset'
+[2023.09.17-00.36.14:035][555]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 7.84 sec)
+[2023.09.17-00.36.14:037][555]AssetCheck: New page: Asset Save: Boss_BP
+[2023.09.17-00.36.14:037][555]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP
+[2023.09.17-00.36.52:636][705]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.09.17-00.36.55:606][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.09.17-00.36.55:607][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.09.17-00.36.55:609][862]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/testMap.testMap:PersistentLevel.StaticMeshActor_0
+[2023.09.17-00.36.55:610][862]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/testMap.testMap:PersistentLevel.StaticMeshActor_0
+[2023.09.17-00.36.58:223][994]LogViewport: Scene viewport resized to 1168x538, mode Windowed.
+[2023.09.17-00.36.58:249][995]LogViewport: Scene viewport resized to 1168x525, mode Windowed.
+[2023.09.17-00.36.58:308][996]LogViewport: Scene viewport resized to 1168x469, mode Windowed.
+[2023.09.17-00.36.58:343][997]LogViewport: Scene viewport resized to 1168x429, mode Windowed.
+[2023.09.17-00.36.58:382][998]LogViewport: Scene viewport resized to 1168x387, mode Windowed.
+[2023.09.17-00.36.58:423][999]LogViewport: Scene viewport resized to 1168x363, mode Windowed.
+[2023.09.17-00.36.58:463][  0]LogViewport: Scene viewport resized to 1168x347, mode Windowed.
+[2023.09.17-00.36.58:499][  1]LogViewport: Scene viewport resized to 1168x331, mode Windowed.
+[2023.09.17-00.36.58:535][  2]LogViewport: Scene viewport resized to 1168x326, mode Windowed.
+[2023.09.17-00.36.58:569][  3]LogViewport: Scene viewport resized to 1168x323, mode Windowed.
+[2023.09.17-00.36.58:605][  4]LogViewport: Scene viewport resized to 1168x322, mode Windowed.
+[2023.09.17-00.36.59:458][ 38]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.09.17-00.37.00:321][ 77]LogShaderCompilers: Display: ================================================
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display: Total job queries 426, among them cache hits 257 (60.33%)
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display: Tracking 169 distinct input hashes that result in 104 distinct outputs (61.54%)
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display: RAM used: 3,77 MiB of 819,20 MiB budget. Usage: 0.46%
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display: Shaders Compiled: 124
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display: Jobs assigned 124, completed 124 (100%)
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display: Average time worker was idle: 6.50 s
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.59 s
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display: Job execution time: average 0.36 s, max 0.58 s
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display: Job life time (pending + execution): average 0.45 s, max 0.91
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display: Shader code size: average 38,52 KiB, min 29,984 KiB, max 61,496 KiB
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.10 s
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display: Jobs were issued in 124 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display: Average processing rate: 11.17 jobs/sec
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display: Total thread time: 32,805 s
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display: Total thread preprocess time: 3,3 s
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display: Percentage time preprocessing: 10.06%
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display: Effective parallelization: 2.96 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   24 times, average 0.31 sec, max 0.38 sec, min 0.23 sec)
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 0.31 sec, max 0.32 sec, min 0.30 sec)
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   24 times, average 0.31 sec, max 0.42 sec, min 0.21 sec)
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    4 times, average 0.30 sec, max 0.33 sec, min 0.29 sec)
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    4 times, average 0.30 sec, max 0.32 sec, min 0.28 sec)
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.86% of total time (compiled   24 times, average 0.31 sec, max 0.38 sec, min 0.23 sec)
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.53% of total time (compiled   24 times, average 0.31 sec, max 0.42 sec, min 0.21 sec)
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.52% of total time (compiled   14 times, average 0.29 sec, max 0.38 sec, min 0.22 sec)
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.95% of total time (compiled   14 times, average 0.12 sec, max 0.16 sec, min 0.08 sec)
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 3.81% of total time (compiled    4 times, average 0.31 sec, max 0.32 sec, min 0.30 sec)
+[2023.09.17-00.37.00:322][ 77]LogShaderCompilers: Display: ================================================
+[2023.09.17-00.38.02:055][629]Cmd: DELETE
+[2023.09.17-00.38.02:055][629]Cmd: ACTOR DELETE
+[2023.09.17-00.38.02:071][629]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.17-00.38.02:089][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.09.17-00.38.02:096][629]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2023.09.17-00.38.03:329][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.38.03:370][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMap" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/testMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.17-00.38.03:410][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.09.17-00.38.03:432][694]LogSavePackage: Moving output files for package: /Game/Maps/testMap
+[2023.09.17-00.38.03:433][694]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/testMap6B07C1B54C79F9A92590E4B2E3F8851B.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/testMap.umap'
+[2023.09.17-00.38.03:439][694]LogFileHelpers: Saving map 'testMap' took 0.069
+[2023.09.17-00.38.03:444][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 7.95 sec)
+[2023.09.17-00.38.03:446][694]AssetCheck: New page: Asset Save: testMap
+[2023.09.17-00.38.03:446][694]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/testMap.testMap
+[2023.09.17-00.38.40:049][542]LogInterchangeEngine: [Pending] Importing
+[2023.09.17-00.38.40:049][542]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/aleja/Desktop/Anulax_/E64696BC-47EC-4028-9739-73497B02F5DE.png]
+[2023.09.17-00.38.40:076][543]LogInterchangeEngine: [Pending] Importing
+[2023.09.17-00.38.40:113][543]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2023.09.17-00.38.40:417][543]LogInterchangeEngine: [Success] Import Done
+[2023.09.17-00.38.40:420][543]LogTexture: Display: Building textures: /Game/Assets/Boss/E64696BC-47EC-4028-9739-73497B02F5DE.E64696BC-47EC-4028-9739-73497B02F5DE (BGRA8, 3212x3347 x1x1x1) (Required Memory Estimate: 314.473621 MB), EncodeSpeed: Fast
+[2023.09.17-00.38.40:470][544]LogInterchangeEngine: [Success] Import Done
+[2023.09.17-00.38.45:097][682]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.09.17-00.38.45:097][682]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.09.17-00.38.45:098][682]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/testMap.testMap:PersistentLevel.StaticMeshActor_2
+[2023.09.17-00.38.45:099][682]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/testMap.testMap:PersistentLevel.StaticMeshActor_2
+[2023.09.17-00.38.48:558][834]Cmd: DELETE
+[2023.09.17-00.38.48:558][834]Cmd: ACTOR DELETE
+[2023.09.17-00.38.48:563][834]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.17-00.38.48:580][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.09.17-00.38.48:587][834]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2023.09.17-00.39.42:262][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.39.42:312][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/Boss/Boss_BP" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset" SILENT=true
+[2023.09.17-00.39.42:350][930]LogSavePackage: Moving output files for package: /Game/EnemiesIA/Boss/Boss_BP
+[2023.09.17-00.39.42:351][930]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Boss_BP1C6B2B0B4D2F05996AE1A9AEEEB3876E.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset'
+[2023.09.17-00.39.42:357][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 8.05 sec)
+[2023.09.17-00.39.42:360][930]AssetCheck: New page: Asset Save: Boss_BP
+[2023.09.17-00.39.42:360][930]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP
+[2023.09.17-00.40.32:553][768]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.40.32:607][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/Boss/Boss_BP" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset" SILENT=true
+[2023.09.17-00.40.32:643][768]LogSavePackage: Moving output files for package: /Game/EnemiesIA/Boss/Boss_BP
+[2023.09.17-00.40.32:644][768]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Boss_BPE83727B142C2D70FE70A17A6409AB7A7.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset'
+[2023.09.17-00.40.32:651][768]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 8.15 sec)
+[2023.09.17-00.40.32:653][768]AssetCheck: New page: Asset Save: Boss_BP
+[2023.09.17-00.40.32:653][768]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP
+[2023.09.17-00.42.09:779][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.42.09:833][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/Boss/Boss_BP" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset" SILENT=true
+[2023.09.17-00.42.09:871][457]LogSavePackage: Moving output files for package: /Game/EnemiesIA/Boss/Boss_BP
+[2023.09.17-00.42.09:871][457]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Boss_BP8E37205A4686416D3BE05CA010702721.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset'
+[2023.09.17-00.42.09:878][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 8.25 sec)
+[2023.09.17-00.42.09:879][457]AssetCheck: New page: Asset Save: Boss_BP
+[2023.09.17-00.42.09:879][457]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP
+[2023.09.17-00.42.12:848][630]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.42.12:890][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/Boss/Boss_BP" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset" SILENT=true
+[2023.09.17-00.42.12:927][630]LogSavePackage: Moving output files for package: /Game/EnemiesIA/Boss/Boss_BP
+[2023.09.17-00.42.12:927][630]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Boss_BP9B3ACDF649DD74FD0F0036A189EED7BA.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset'
+[2023.09.17-00.42.12:934][630]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 8.33 sec)
+[2023.09.17-00.42.12:936][630]AssetCheck: New page: Asset Save: Boss_BP
+[2023.09.17-00.42.12:936][630]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP
+[2023.09.17-00.42.20:157][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.42.20:201][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/Boss/Boss_BP" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset" SILENT=true
+[2023.09.17-00.42.20:238][ 61]LogSavePackage: Moving output files for package: /Game/EnemiesIA/Boss/Boss_BP
+[2023.09.17-00.42.20:238][ 61]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Boss_BP4B76FC324BA804F8A47A35A50CE036AF.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset'
+[2023.09.17-00.42.20:245][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 8.42 sec)
+[2023.09.17-00.42.20:247][ 61]AssetCheck: New page: Asset Save: Boss_BP
+[2023.09.17-00.42.20:247][ 61]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP
+[2023.09.17-00.42.45:515][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.42.45:567][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/Boss/Boss_BP" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset" SILENT=true
+[2023.09.17-00.42.45:605][447]LogSavePackage: Moving output files for package: /Game/EnemiesIA/Boss/Boss_BP
+[2023.09.17-00.42.45:606][447]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Boss_BP52AAE3D44DD9DF24FFF3D9858A2C446F.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset'
+[2023.09.17-00.42.45:612][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 8.52 sec)
+[2023.09.17-00.42.45:615][447]AssetCheck: New page: Asset Save: Boss_BP
+[2023.09.17-00.42.45:615][447]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP
+[2023.09.17-00.43.06:762][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.43.06:806][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/Boss/Boss_BP" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset" SILENT=true
+[2023.09.17-00.43.06:844][591]LogSavePackage: Moving output files for package: /Game/EnemiesIA/Boss/Boss_BP
+[2023.09.17-00.43.06:845][591]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Boss_BP6FC58DE1425F491FF1C6798365970151.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset'
+[2023.09.17-00.43.06:852][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 8.61 sec)
+[2023.09.17-00.43.06:855][591]AssetCheck: New page: Asset Save: Boss_BP
+[2023.09.17-00.43.06:855][591]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP
+[2023.09.17-00.43.45:884][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.43.45:930][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/Boss/Boss_BP" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset" SILENT=true
+[2023.09.17-00.43.45:967][808]LogSavePackage: Moving output files for package: /Game/EnemiesIA/Boss/Boss_BP
+[2023.09.17-00.43.45:968][808]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Boss_BPDED8730E40EC49C1639FCCB057FD2731.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset'
+[2023.09.17-00.43.45:976][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 8.70 sec)
+[2023.09.17-00.43.45:978][808]AssetCheck: New page: Asset Save: Boss_BP
+[2023.09.17-00.43.45:978][808]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP
+[2023.09.17-00.44.15:977][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.44.16:032][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/Boss/Boss_BP" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset" SILENT=true
+[2023.09.17-00.44.16:069][496]LogSavePackage: Moving output files for package: /Game/EnemiesIA/Boss/Boss_BP
+[2023.09.17-00.44.16:070][496]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Boss_BPA5BFEE4B4D17C8780082CCA706BFA22D.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset'
+[2023.09.17-00.44.16:079][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 8.80 sec)
+[2023.09.17-00.44.16:081][496]AssetCheck: New page: Asset Save: Boss_BP
+[2023.09.17-00.44.16:081][496]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP
+[2023.09.17-00.44.26:440][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.44.26:483][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/Boss/Boss_BP" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset" SILENT=true
+[2023.09.17-00.44.26:520][116]LogSavePackage: Moving output files for package: /Game/EnemiesIA/Boss/Boss_BP
+[2023.09.17-00.44.26:521][116]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Boss_BP13C2F88E419BF2FCD97963AAE0DDCE1C.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset'
+[2023.09.17-00.44.26:527][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 8.89 sec)
+[2023.09.17-00.44.26:529][116]AssetCheck: New page: Asset Save: Boss_BP
+[2023.09.17-00.44.26:529][116]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP
+[2023.09.17-00.44.38:301][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.44.38:353][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/Boss/Boss_BP" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset" SILENT=true
+[2023.09.17-00.44.38:390][753]LogSavePackage: Moving output files for package: /Game/EnemiesIA/Boss/Boss_BP
+[2023.09.17-00.44.38:390][753]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Boss_BP3A160E5145E7708AC5791FAD4AA69E41.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset'
+[2023.09.17-00.44.38:397][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 8.98 sec)
+[2023.09.17-00.44.38:400][753]AssetCheck: New page: Asset Save: Boss_BP
+[2023.09.17-00.44.38:400][753]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP
+[2023.09.17-00.44.39:139][797]BlueprintLog: New page: Compile Boss_BP
+[2023.09.17-00.44.39:230][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.09.17-00.44.42:712][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.44.42:752][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMap" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/testMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.17-00.44.42:794][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.09.17-00.44.42:819][960]LogSavePackage: Moving output files for package: /Game/Maps/testMap
+[2023.09.17-00.44.42:820][960]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/testMapC601951C4FE8525B45DA219859BAC44D.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/testMap.umap'
+[2023.09.17-00.44.42:827][960]LogFileHelpers: Saving map 'testMap' took 0.075
+[2023.09.17-00.44.42:835][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 9.11 sec)
+[2023.09.17-00.44.42:837][960]AssetCheck: New page: Asset Save: testMap
+[2023.09.17-00.44.42:837][960]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/testMap.testMap
+[2023.09.17-00.44.45:823][105]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C
+[2023.09.17-00.44.45:823][105]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C
+[2023.09.17-00.44.45:827][105]LogActorFactory: Actor Factory spawned Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP as actor: Boss_BP_C /Game/Maps/testMap.testMap:PersistentLevel.Boss_BP_C_0
+[2023.09.17-00.44.45:831][105]LogActorFactory: Actor Factory spawned Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP as actor: Boss_BP_C /Game/Maps/testMap.testMap:PersistentLevel.Boss_BP_C_0
+[2023.09.17-00.44.46:585][138]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C
+[2023.09.17-00.44.46:585][138]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C
+[2023.09.17-00.44.46:591][138]LogActorFactory: Actor Factory spawned Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP as actor: Boss_BP_C /Game/Maps/testMap.testMap:PersistentLevel.Boss_BP_C_1
+[2023.09.17-00.44.46:594][138]LogActorFactory: Actor Factory spawned Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP as actor: Boss_BP_C /Game/Maps/testMap.testMap:PersistentLevel.Boss_BP_C_1
+[2023.09.17-00.44.50:723][366]LogViewport: Scene viewport resized to 1168x324, mode Windowed.
+[2023.09.17-00.44.50:748][367]LogViewport: Scene viewport resized to 1168x337, mode Windowed.
+[2023.09.17-00.44.50:807][368]LogViewport: Scene viewport resized to 1168x402, mode Windowed.
+[2023.09.17-00.44.50:849][369]LogViewport: Scene viewport resized to 1168x462, mode Windowed.
+[2023.09.17-00.44.50:883][370]LogViewport: Scene viewport resized to 1168x507, mode Windowed.
+[2023.09.17-00.44.50:921][371]LogViewport: Scene viewport resized to 1168x540, mode Windowed.
+[2023.09.17-00.44.50:963][372]LogViewport: Scene viewport resized to 1168x560, mode Windowed.
+[2023.09.17-00.44.51:005][373]LogViewport: Scene viewport resized to 1168x572, mode Windowed.
+[2023.09.17-00.44.51:041][374]LogViewport: Scene viewport resized to 1168x583, mode Windowed.
+[2023.09.17-00.44.51:076][375]LogViewport: Scene viewport resized to 1168x589, mode Windowed.
+[2023.09.17-00.44.51:113][376]LogViewport: Scene viewport resized to 1168x590, mode Windowed.
+[2023.09.17-00.44.55:575][619]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.44.55:618][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMap" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/testMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.17-00.44.55:664][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.09.17-00.44.55:690][619]LogSavePackage: Moving output files for package: /Game/Maps/testMap
+[2023.09.17-00.44.55:691][619]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/testMapDB13CB084C9AF11DFF84CE9468FA1FE4.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/testMap.umap'
+[2023.09.17-00.44.55:698][619]LogFileHelpers: Saving map 'testMap' took 0.080
+[2023.09.17-00.44.55:705][619]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 9.24 sec)
+[2023.09.17-00.44.55:707][619]AssetCheck: New page: Asset Save: testMap
+[2023.09.17-00.44.55:707][619]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/testMap.testMap
+[2023.09.17-00.44.58:293][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.44.58:347][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMap" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/testMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.17-00.44.58:389][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.09.17-00.44.58:415][744]LogSavePackage: Moving output files for package: /Game/Maps/testMap
+[2023.09.17-00.44.58:415][744]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/testMapF3F499764DA0AF71B6A66884DCECCAB4.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/testMap.umap'
+[2023.09.17-00.44.58:421][744]LogFileHelpers: Saving map 'testMap' took 0.075
+[2023.09.17-00.44.58:432][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 9.38 sec)
+[2023.09.17-00.44.58:433][744]AssetCheck: New page: Asset Save: testMap
+[2023.09.17-00.44.58:433][744]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/testMap.testMap
+[2023.09.17-00.45.12:446][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.45.12:502][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/Boss/Boss_BP" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset" SILENT=true
+[2023.09.17-00.45.12:538][519]LogSavePackage: Moving output files for package: /Game/EnemiesIA/Boss/Boss_BP
+[2023.09.17-00.45.12:539][519]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Boss_BP28E07FFB4B09B4EE15F4429C82CE8B6A.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset'
+[2023.09.17-00.45.12:552][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 9.48 sec)
+[2023.09.17-00.45.12:554][519]AssetCheck: New page: Asset Save: Boss_BP
+[2023.09.17-00.45.12:554][519]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP
+[2023.09.17-00.45.13:327][565]BlueprintLog: New page: Compile Boss_BP
+[2023.09.17-00.45.13:457][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.09.17-00.45.13:961][582]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.45.14:170][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/Boss/Boss_BP" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset" SILENT=true
+[2023.09.17-00.45.14:208][582]LogSavePackage: Moving output files for package: /Game/EnemiesIA/Boss/Boss_BP
+[2023.09.17-00.45.14:209][582]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Boss_BP6A9678604C7E0B5CEEB89EAF176D42EC.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/Boss/Boss_BP.uasset'
+[2023.09.17-00.45.14:216][582]LogFileHelpers: InternalPromptForCheckoutAndSave took 255 ms (total: 9.74 sec)
+[2023.09.17-00.45.14:218][582]AssetCheck: New page: Asset Save: Boss_BP
+[2023.09.17-00.45.14:218][582]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP
+[2023.09.17-00.45.15:603][650]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.09.17-00.45.15:614][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.17-00.45.15:614][650]PIE: New page: PIE session: testMap (17 sept. 2023 4:45:15)
+[2023.09.17-00.45.15:615][650]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_testMap
+[2023.09.17-00.45.15:622][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007058s)
+[2023.09.17-00.45.15:622][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMap.testMap to /Game/Maps/UEDPIE_0_testMap.testMap (0.007088s)
+[2023.09.17-00.45.15:639][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.09.17-00.45.15:644][650]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-00.45.15:644][650]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-00.45.15:644][650]LogAIModule: Creating AISystem for world testMap
+[2023.09.17-00.45.15:644][650]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2023.09.17-00.45.15:645][650]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.09.17-00.45.15:645][650]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.17-00.45.15:645][650]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.17-00.45.15:645][650]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.17-00.45.15:645][650]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.17-00.45.15:645][650]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.17-00.45.15:645][650]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.17-00.45.15:645][650]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.17-00.45.15:645][650]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.17-00.45.15:645][650]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.17-00.45.15:645][650]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.17-00.45.15:645][650]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.17-00.45.15:647][650]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.17-00.45.15:687][650]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.09.17-00.45.15:688][650]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.17-00.45.15:688][650]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.17-00.45.15:688][650]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.17-00.45.15:689][650]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.09.17-00.45.15:689][650]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.09.17-00.45.15:690][650]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.09.17-00.45.15:690][650]LogInit: FAudioDevice initialized with ID 11.
+[2023.09.17-00.45.15:690][650]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.09.17-00.45.15:690][650]LogAudio: Display: Audio Device (ID: 11) registered with world 'testMap'.
+[2023.09.17-00.45.15:690][650]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.09.17-00.45.15:729][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.17-00.45.15:730][650]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.17-00.45.15:734][650]LogWorld: Bringing World /Game/Maps/UEDPIE_0_testMap.testMap up for play (max tick rate 60) at 2023.09.17-02.45.15
+[2023.09.17-00.45.15:737][650]LogWorld: Bringing up level for play took: 0.007189
+[2023.09.17-00.45.15:739][650]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.09.17-00.45.15:749][650]PIE: Server logged in
+[2023.09.17-00.45.15:753][650]PIE: Play in editor total start time 0,142 seconds.
+[2023.09.17-00.45.15:788][650]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.09.17-00.45.15:970][651]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 2
+[2023.09.17-00.45.15:970][651]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 1
+[2023.09.17-00.45.16:648][667]LogCharacterMovement: MeleeAI_BP_C_2 is stuck and failed to move! Velocity: X=52.74 Y=8.21 Z=0.00 Location: X=-427.32 Y=442.72 Z=-120.53 Normal: X=0.11 Y=-0.99 Z=-0.00 PenetrationDepth:2.061 Actor:MeleeAI_BP_C_0 Component:Plane3 BoneName:None (0 other events since notify)
+[2023.09.17-00.45.20:327][829]LogCharacterMovement: MeleeAI_BP_C_2 is stuck and failed to move! Velocity: X=12.33 Y=-46.58 Z=0.00 Location: X=-209.27 Y=-903.87 Z=-120.53 Normal: X=-0.47 Y=0.88 Z=0.00 PenetrationDepth:6.865 Actor:MeleeAI_BP_C_3 Component:Left BoneName:None (31 other events since notify)
+[2023.09.17-00.45.20:474][835]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 0
+[2023.09.17-00.45.20:474][835]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.17-00.45.20:544][838]LogCharacterMovement: MeleeAI_BP_C_0 is stuck and failed to move! Velocity: X=72.24 Y=-437.71 Z=0.00 Location: X=-173.57 Y=-838.96 Z=-120.53 Normal: X=0.92 Y=-0.40 Z=0.00 PenetrationDepth:3.214 Actor:MeleeAI_BP_C_5 Component:Plane1 BoneName:None (0 other events since notify)
+[2023.09.17-00.45.20:683][844]LogCharacterMovement: MeleeAI_BP_C_5 is stuck and failed to move! Velocity: X=241.04 Y=-549.46 Z=0.00 Location: X=-205.85 Y=-761.05 Z=-120.53 Normal: X=0.31 Y=-0.95 Z=-0.00 PenetrationDepth:3.621 Actor:MeleeAI_BP_C_1 Component:Plane3 BoneName:None (0 other events since notify)
+[2023.09.17-00.45.21:341][873]LogCharacterMovement: MeleeAI_BP_C_2 is stuck and failed to move! Velocity: X=303.52 Y=517.57 Z=0.00 Location: X=-208.77 Y=-910.84 Z=-120.53 Normal: X=0.75 Y=-0.66 Z=-0.00 PenetrationDepth:4.274 Actor:MeleeAI_BP_C_4 Component:Plane3 BoneName:None (12 other events since notify)
+[2023.09.17-00.45.22:067][905]LogCharacterMovement: MeleeAI_BP_C_0 is stuck and failed to move! Velocity: X=37.30 Y=87.03 Z=0.00 Location: X=-155.71 Y=-818.08 Z=-120.53 Normal: X=0.99 Y=0.15 Z=0.00 PenetrationDepth:0.100 Actor:MeleeAI_BP_C_2 Component:Plane3 BoneName:None (16 other events since notify)
+[2023.09.17-00.45.22:091][906]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -1
+[2023.09.17-00.45.22:091][906]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.17-00.45.22:266][914]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -2
+[2023.09.17-00.45.22:266][914]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.17-00.45.23:637][974]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -3
+[2023.09.17-00.45.23:637][974]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.17-00.45.25:317][ 46]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -4
+[2023.09.17-00.45.25:317][ 46]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.17-00.45.25:489][ 53]LogBlueprintUserMessages: [Boss_BP_C_1] 19
+[2023.09.17-00.45.26:335][ 90]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -5
+[2023.09.17-00.45.26:336][ 90]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.17-00.45.26:403][ 93]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -6
+[2023.09.17-00.45.26:403][ 93]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.17-00.45.26:795][110]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-459.62 Y=459.62 Z=0.00 Location: X=-79.54 Y=-823.02 Z=-118.65 Normal: X=0.34 Y=-0.94 Z=-0.00 PenetrationDepth:3.599 Actor:MeleeAI_BP_C_1 Component:Plane2 BoneName:None (0 other events since notify)
+[2023.09.17-00.45.27:114][124]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -7
+[2023.09.17-00.45.27:114][124]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.17-00.45.27:773][153]LogCharacterMovement: MeleeAI_BP_C_2 is stuck and failed to move! Velocity: X=50.89 Y=6.29 Z=0.00 Location: X=-186.00 Y=-905.32 Z=-120.53 Normal: X=0.35 Y=-0.94 Z=0.00 PenetrationDepth:6.148 Actor:MeleeAI_BP_C_4 Component:Plane1 BoneName:None (23 other events since notify)
+[2023.09.17-00.45.29:473][227]LogCharacterMovement: MeleeAI_BP_C_0 is stuck and failed to move! Velocity: X=-47.42 Y=347.50 Z=0.00 Location: X=-153.67 Y=-804.80 Z=-120.53 Normal: X=0.93 Y=0.37 Z=0.00 PenetrationDepth:0.567 Actor:MeleeAI_BP_C_2 Component:Plane3 BoneName:None (0 other events since notify)
+[2023.09.17-00.45.30:987][292]LogBlueprintUserMessages: [Boss_BP_C_1] 18
+[2023.09.17-00.45.31:316][306]LogCharacterMovement: MeleeAI_BP_C_2 is stuck and failed to move! Velocity: X=-3.31 Y=62.57 Z=0.00 Location: X=-347.28 Y=-259.23 Z=-120.53 Normal: X=-1.00 Y=-0.04 Z=0.00 PenetrationDepth:0.006 Actor:MeleeAI_BP_C_0 Component:Plane2 BoneName:None (2 other events since notify)
+[2023.09.17-00.45.31:385][309]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -8
+[2023.09.17-00.45.31:385][309]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.17-00.45.31:642][320]LogCharacterMovement: MeleeAI_BP_C_5 is stuck and failed to move! Velocity: X=-18.19 Y=94.80 Z=0.00 Location: X=-340.89 Y=-104.45 Z=-120.53 Normal: X=1.00 Y=0.01 Z=0.00 PenetrationDepth:0.007 Actor:MeleeAI_BP_C_4 Component:Plane3 BoneName:None (28 other events since notify)
+[2023.09.17-00.45.32:095][339]LogBlueprintUserMessages: [Boss_BP_C_1] 17
+[2023.09.17-00.45.32:334][349]LogCharacterMovement: MeleeAI_BP_C_2 is stuck and failed to move! Velocity: X=-31.38 Y=599.18 Z=0.00 Location: X=-347.45 Y=-258.75 Z=-120.53 Normal: X=-1.00 Y=-0.05 Z=0.00 PenetrationDepth:0.004 Actor:MeleeAI_BP_C_0 Component:Plane2 BoneName:None (33 other events since notify)
+[2023.09.17-00.45.32:636][362]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -9
+[2023.09.17-00.45.32:636][362]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.17-00.45.32:661][363]LogCharacterMovement: MeleeAI_BP_C_5 is stuck and failed to move! Velocity: X=-114.74 Y=588.93 Z=0.00 Location: X=-340.90 Y=-103.16 Z=-120.53 Normal: X=1.00 Y=0.03 Z=0.00 PenetrationDepth:0.057 Actor:MeleeAI_BP_C_4 Component:Plane3 BoneName:None (41 other events since notify)
+[2023.09.17-00.45.33:356][393]LogCharacterMovement: MeleeAI_BP_C_2 is stuck and failed to move! Velocity: X=-31.38 Y=599.18 Z=0.00 Location: X=-347.45 Y=-258.75 Z=-120.53 Normal: X=-1.00 Y=-0.05 Z=0.00 PenetrationDepth:0.004 Actor:MeleeAI_BP_C_0 Component:Plane2 BoneName:None (43 other events since notify)
+[2023.09.17-00.45.33:685][406]LogCharacterMovement: MeleeAI_BP_C_5 is stuck and failed to move! Velocity: X=-114.74 Y=588.93 Z=0.00 Location: X=-340.90 Y=-103.16 Z=-120.53 Normal: X=1.00 Y=0.03 Z=0.00 PenetrationDepth:0.057 Actor:MeleeAI_BP_C_4 Component:Plane3 BoneName:None (42 other events since notify)
+[2023.09.17-00.45.34:707][446]LogCharacterMovement: MeleeAI_BP_C_5 is stuck and failed to move! Velocity: X=-1.17 Y=600.00 Z=0.00 Location: X=-340.91 Y=-102.83 Z=-120.53 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.162 Actor:MeleeAI_BP_C_1 Component:Plane BoneName:None (28 other events since notify)
+[2023.09.17-00.45.35:212][467]LogBlueprintUserMessages: [Boss_BP_C_1] 16
+[2023.09.17-00.45.35:821][493]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -10
+[2023.09.17-00.45.35:822][493]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.17-00.45.37:220][552]LogBlueprintUserMessages: [MeleeAI_BP_C_1] 1
+[2023.09.17-00.45.37:220][552]LogBlueprintUserMessages: [MeleeAI_BP_C_5] 1
+[2023.09.17-00.45.37:220][552]LogBlueprintUserMessages: [Boss_BP_C_1] 15
+[2023.09.17-00.45.37:506][564]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -11
+[2023.09.17-00.45.37:506][564]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.17-00.45.37:580][567]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -12
+[2023.09.17-00.45.37:580][567]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.17-00.45.37:953][583]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -13
+[2023.09.17-00.45.37:953][583]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.17-00.45.38:792][619]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -14
+[2023.09.17-00.45.38:793][619]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.17-00.45.39:132][634]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -15
+[2023.09.17-00.45.39:132][634]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.17-00.45.39:225][638]LogBlueprintUserMessages: [MeleeAI_BP_C_1] 0
+[2023.09.17-00.45.39:226][638]LogBlueprintUserMessages: [Boss_BP_C_1] 14
+[2023.09.17-00.45.39:226][638]LogBlueprintUserMessages: [MeleeAI_BP_C_0] 1
+[2023.09.17-00.45.39:226][638]LogBlueprintUserMessages: [MeleeAI_BP_C_4] 1
+[2023.09.17-00.45.39:563][652]LogCharacterMovement: MeleeAI_BP_C_4 is stuck and failed to move! Velocity: X=136.26 Y=-4.06 Z=0.00 Location: X=283.90 Y=299.35 Z=-120.53 Normal: X=-0.86 Y=0.51 Z=-0.00 PenetrationDepth:24.551 Actor:MeleeAI_BP_C_5 Component:Plane2 BoneName:None (0 other events since notify)
+[2023.09.17-00.45.40:831][707]LogBlueprintUserMessages: [Boss_BP_C_1] 13
+[2023.09.17-00.45.42:321][772]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -16
+[2023.09.17-00.45.42:321][772]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] has muerto
+[2023.09.17-00.45.42:546][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.17-00.45.42:546][781]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_testMap
+[2023.09.17-00.45.42:547][781]LogSlate: Window 'Anulax Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.09.17-00.45.42:562][781]LogWorld: UWorld::CleanupWorld for testMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-00.45.42:563][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-00.45.42:575][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.17-00.45.42:581][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-00.45.42:603][781]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.17-00.45.42:603][781]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.09.17-00.45.42:604][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.09.17-00.45.42:606][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.09.17-00.45.42:618][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.09.17-00.45.42:737][782]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.09.17-00.45.44:372][866]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.45.44:424][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMap" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/testMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.17-00.45.44:464][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.09.17-00.45.44:491][866]LogSavePackage: Moving output files for package: /Game/Maps/testMap
+[2023.09.17-00.45.44:491][866]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/testMap7F4BDCE64B7BEBCD6125608DCEF3DEB6.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/testMap.umap'
+[2023.09.17-00.45.44:499][866]LogFileHelpers: Saving map 'testMap' took 0.075
+[2023.09.17-00.45.44:507][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 9.88 sec)
+[2023.09.17-00.45.44:509][866]AssetCheck: New page: Asset Save: testMap
+[2023.09.17-00.45.44:509][866]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/testMap.testMap
+[2023.09.17-00.45.45:643][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.09.17-00.45.46:691][933]LogSlate: Window 'Save Content' being destroyed
+[2023.09.17-00.45.46:709][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-00.45.46:908][933]LogSavePackage: Moving output files for package: /Game/Assets/Boss/092BB9A0-42D8-4BE5-9E09-8A0155F9FB1E
+[2023.09.17-00.45.46:908][933]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/092BB9A0-42D8-4BE5-9E09-8A0155F9347CC6314B863704046D008EB894E1CE.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/092BB9A0-42D8-4BE5-9E09-8A0155F9FB1E.uasset'
+[2023.09.17-00.45.47:136][933]LogSavePackage: Moving output files for package: /Game/Assets/Boss/092BB9A0-42D8-4BE5-9E09-8A0155F9FB1E_Mat
+[2023.09.17-00.45.47:136][933]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/092BB9A0-42D8-4BE5-9E09-8A0155F9ACD9A43B4A583145C1549FB7112DC6F7.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/092BB9A0-42D8-4BE5-9E09-8A0155F9FB1E_Mat.uasset'
+[2023.09.17-00.45.47:283][933]LogSavePackage: Moving output files for package: /Game/Assets/Boss/373A81A3-267A-419D-8A0F-D922985BC4FD
+[2023.09.17-00.45.47:283][933]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/373A81A3-267A-419D-8A0F-D922985BCE8C41474015FCE870AC0AAA5C181F70.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/373A81A3-267A-419D-8A0F-D922985BC4FD.uasset'
+[2023.09.17-00.45.47:319][933]LogSavePackage: Moving output files for package: /Game/Assets/Boss/373A81A3-267A-419D-8A0F-D922985BC4FD_Mat
+[2023.09.17-00.45.47:319][933]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/373A81A3-267A-419D-8A0F-D922985B42FDC2FD407D7177F297F68ED1D929DE.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/373A81A3-267A-419D-8A0F-D922985BC4FD_Mat.uasset'
+[2023.09.17-00.45.47:461][933]LogSavePackage: Moving output files for package: /Game/Assets/Boss/BAA0F13E-D86A-4BF2-B440-20A757DA120F
+[2023.09.17-00.45.47:461][933]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/BAA0F13E-D86A-4BF2-B440-20A757DA0E63D0C24CF9A36F9E2F9FA1FFC9C512.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/BAA0F13E-D86A-4BF2-B440-20A757DA120F.uasset'
+[2023.09.17-00.45.47:474][933]LogSavePackage: Moving output files for package: /Game/Assets/Boss/BAA0F13E-D86A-4BF2-B440-20A757DA120F_Mat
+[2023.09.17-00.45.47:474][933]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/BAA0F13E-D86A-4BF2-B440-20A757DA6AF47C67483984F8244CFA8666C7C0E8.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/BAA0F13E-D86A-4BF2-B440-20A757DA120F_Mat.uasset'
+[2023.09.17-00.45.47:475][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Boss/boss_BossAtaque" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/boss_BossAtaque.uasset" SILENT=true
+[2023.09.17-00.45.47:479][933]LogSavePackage: Moving output files for package: /Game/Assets/Boss/boss_BossAtaque
+[2023.09.17-00.45.47:479][933]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/boss_BossAtaqueA94EF57F4851B584803E3F88CB34C0BF.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/boss_BossAtaque.uasset'
+[2023.09.17-00.45.47:480][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Boss/boss_BossLanza" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/boss_BossLanza.uasset" SILENT=true
+[2023.09.17-00.45.47:483][933]LogSavePackage: Moving output files for package: /Game/Assets/Boss/boss_BossLanza
+[2023.09.17-00.45.47:483][933]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/boss_BossLanza6AC00734452E442E978C21ADF77FD572.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/boss_BossLanza.uasset'
+[2023.09.17-00.45.47:484][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Boss/bossLloron_Plane_002" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/bossLloron_Plane_002.uasset" SILENT=true
+[2023.09.17-00.45.47:487][933]LogSavePackage: Moving output files for package: /Game/Assets/Boss/bossLloron_Plane_002
+[2023.09.17-00.45.47:487][933]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/bossLloron_Plane_002B5CE99404948709F576D0A93B9D9325F.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/bossLloron_Plane_002.uasset'
+[2023.09.17-00.45.47:488][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Boss/bossRange" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/bossRange.uasset" SILENT=true
+[2023.09.17-00.45.47:491][933]LogSavePackage: Moving output files for package: /Game/Assets/Boss/bossRange
+[2023.09.17-00.45.47:491][933]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/bossRangeDC8DC9A044595664C9896EAC67A2213C.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/bossRange.uasset'
+[2023.09.17-00.45.47:493][933]LogSavePackage: Moving output files for package: /Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo
+[2023.09.17-00.45.47:493][933]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/brown-corrugated-cardboard-textuDE08C75F45C0C5249CE9EFAA4AB2295E.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/brown-corrugated-cardboard-texture-background-photo.uasset'
+[2023.09.17-00.45.47:496][933]LogSavePackage: Moving output files for package: /Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo_ncl1_1
+[2023.09.17-00.45.47:496][933]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/brown-corrugated-cardboard-textu387C5ACF4BEECDC2865C63A48B7E2F4C.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/brown-corrugated-cardboard-texture-background-photo_ncl1_1.uasset'
+[2023.09.17-00.45.47:498][933]LogSavePackage: Moving output files for package: /Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo_ncl1_2
+[2023.09.17-00.45.47:498][933]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/brown-corrugated-cardboard-textu851E23234441ACF95B5A0FB8038868C9.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/brown-corrugated-cardboard-texture-background-photo_ncl1_2.uasset'
+[2023.09.17-00.45.47:501][933]LogSavePackage: Moving output files for package: /Game/Assets/Boss/cardboard-texture_1194-6784
+[2023.09.17-00.45.47:501][933]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/cardboard-texture_1194-678483C155CF457E5F8C76C82F82F7EF688D.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/cardboard-texture_1194-6784.uasset'
+[2023.09.17-00.45.47:504][933]LogSavePackage: Moving output files for package: /Game/Assets/Boss/cardboard-texture_1194-6784_ncl1_1
+[2023.09.17-00.45.47:504][933]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/cardboard-texture_1194-6784_ncl12C07257E4BEE87C6DA32C793F2E551AA.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/cardboard-texture_1194-6784_ncl1_1.uasset'
+[2023.09.17-00.45.47:507][933]LogSavePackage: Moving output files for package: /Game/Assets/Boss/cardboard-texture_1194-6784_ncl1_2
+[2023.09.17-00.45.47:507][933]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/cardboard-texture_1194-6784_ncl16AA6C44F477AA4BD2BC2E2BF2E0EA590.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/cardboard-texture_1194-6784_ncl1_2.uasset'
+[2023.09.17-00.45.47:643][933]LogSavePackage: Moving output files for package: /Game/Assets/Boss/CBDC99E7-EFE2-4229-917E-D9850FCBEEA5
+[2023.09.17-00.45.47:644][933]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/CBDC99E7-EFE2-4229-917E-D9850FCBB1E3394C4464D7C47F0421991CE8DE83.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/CBDC99E7-EFE2-4229-917E-D9850FCBEEA5.uasset'
+[2023.09.17-00.45.47:655][933]LogSavePackage: Moving output files for package: /Game/Assets/Boss/CBDC99E7-EFE2-4229-917E-D9850FCBEEA5_Mat
+[2023.09.17-00.45.47:655][933]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/CBDC99E7-EFE2-4229-917E-D9850FCBE80FAAC9457AE81E090A73B53060E3FA.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/CBDC99E7-EFE2-4229-917E-D9850FCBEEA5_Mat.uasset'
+[2023.09.17-00.45.47:810][933]LogSavePackage: Moving output files for package: /Game/Assets/Boss/E64696BC-47EC-4028-9739-73497B02F5DE
+[2023.09.17-00.45.47:810][933]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/E64696BC-47EC-4028-9739-73497B022E74F15F4133574B7F3020845DF89026.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/E64696BC-47EC-4028-9739-73497B02F5DE.uasset'
+[2023.09.17-00.45.47:821][933]LogSavePackage: Moving output files for package: /Game/Assets/Boss/E64696BC-47EC-4028-9739-73497B02F5DE_Mat
+[2023.09.17-00.45.47:821][933]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/E64696BC-47EC-4028-9739-73497B027D74BB5A4AF5B952A59B17ABA716C6E9.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Assets/Boss/E64696BC-47EC-4028-9739-73497B02F5DE_Mat.uasset'
+[2023.09.17-00.45.47:830][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.12 sec (total: 11.0 sec)
+[2023.09.17-00.45.47:833][933]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.17-00.45.47:833][933]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Boss/092BB9A0-42D8-4BE5-9E09-8A0155F9FB1E.092BB9A0-42D8-4BE5-9E09-8A0155F9FB1E
+[2023.09.17-00.45.47:833][933]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Boss/092BB9A0-42D8-4BE5-9E09-8A0155F9FB1E_Mat.092BB9A0-42D8-4BE5-9E09-8A0155F9FB1E_Mat
+[2023.09.17-00.45.47:833][933]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Boss/373A81A3-267A-419D-8A0F-D922985BC4FD.373A81A3-267A-419D-8A0F-D922985BC4FD
+[2023.09.17-00.45.47:833][933]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Boss/373A81A3-267A-419D-8A0F-D922985BC4FD_Mat.373A81A3-267A-419D-8A0F-D922985BC4FD_Mat
+[2023.09.17-00.45.47:833][933]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Boss/BAA0F13E-D86A-4BF2-B440-20A757DA120F.BAA0F13E-D86A-4BF2-B440-20A757DA120F
+[2023.09.17-00.45.47:833][933]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Boss/BAA0F13E-D86A-4BF2-B440-20A757DA120F_Mat.BAA0F13E-D86A-4BF2-B440-20A757DA120F_Mat
+[2023.09.17-00.45.47:833][933]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Boss/boss_BossAtaque.boss_BossAtaque
+[2023.09.17-00.45.47:833][933]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Boss/boss_BossLanza.boss_BossLanza
+[2023.09.17-00.45.47:834][933]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Boss/bossLloron_Plane_002.bossLloron_Plane_002
+[2023.09.17-00.45.47:834][933]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Boss/bossRange.bossRange
+[2023.09.17-00.45.47:834][933]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo.brown-corrugated-cardboard-texture-background-photo
+[2023.09.17-00.45.47:834][933]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo_ncl1_1.brown-corrugated-cardboard-texture-background-photo_ncl1_1
+[2023.09.17-00.45.47:834][933]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Boss/brown-corrugated-cardboard-texture-background-photo_ncl1_2.brown-corrugated-cardboard-texture-background-photo_ncl1_2
+[2023.09.17-00.45.47:834][933]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Boss/cardboard-texture_1194-6784.cardboard-texture_1194-6784
+[2023.09.17-00.45.47:834][933]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Boss/cardboard-texture_1194-6784_ncl1_1.cardboard-texture_1194-6784_ncl1_1
+[2023.09.17-00.45.47:834][933]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Boss/cardboard-texture_1194-6784_ncl1_2.cardboard-texture_1194-6784_ncl1_2
+[2023.09.17-00.45.47:834][933]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Boss/CBDC99E7-EFE2-4229-917E-D9850FCBEEA5.CBDC99E7-EFE2-4229-917E-D9850FCBEEA5
+[2023.09.17-00.45.47:834][933]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Boss/CBDC99E7-EFE2-4229-917E-D9850FCBEEA5_Mat.CBDC99E7-EFE2-4229-917E-D9850FCBEEA5_Mat
+[2023.09.17-00.45.47:834][933]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Boss/E64696BC-47EC-4028-9739-73497B02F5DE.E64696BC-47EC-4028-9739-73497B02F5DE
+[2023.09.17-00.45.47:834][933]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Boss/E64696BC-47EC-4028-9739-73497B02F5DE_Mat.E64696BC-47EC-4028-9739-73497B02F5DE_Mat
+[2023.09.17-00.45.50:054][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.09.17-00.45.50:055][ 61]LogStall: Shutdown...
+[2023.09.17-00.45.50:058][ 61]LogStall: Shutdown complete.
+[2023.09.17-00.45.50:121][ 61]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-00.45.50:121][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-00.45.50:253][ 61]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-00.45.50:253][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-00.45.50:292][ 61]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.09.17-00.45.50:292][ 61]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-00.45.50:292][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-00.45.50:358][ 61]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.09.17-00.45.50:358][ 61]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-00.45.50:358][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-00.45.50:398][ 61]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.09.17-00.45.50:398][ 61]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-00.45.50:398][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-00.45.50:459][ 61]LogSlate: Window 'Bridge' being destroyed
+[2023.09.17-00.45.50:462][ 61]LogSlate: Window 'Anulax - Unreal Editor' being destroyed
+[2023.09.17-00.45.50:551][ 62]Cmd: QUIT_EDITOR
+[2023.09.17-00.45.50:551][ 62]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.09.17-00.45.50:557][ 62]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.09.17-00.45.50:557][ 62]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.09.17-00.45.50:557][ 62]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.09.17-00.45.50:558][ 62]LogWorld: UWorld::CleanupWorld for testMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-00.45.50:558][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-00.45.50:567][ 62]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.09.17-00.45.51:420][ 62]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.09.17-00.45.51:420][ 62]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.09.17-00.45.51:420][ 62]LogAudio: Display: Audio Device unregistered from world 'testMap'.
+[2023.09.17-00.45.51:420][ 62]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.09.17-00.45.51:420][ 62]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.09.17-00.45.51:422][ 62]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.09.17-00.45.51:451][ 62]LogAudio: Display: Audio Device Manager Shutdown
+[2023.09.17-00.45.51:455][ 62]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.09.17-00.45.51:455][ 62]LogExit: Preparing to exit.
+[2023.09.17-00.45.51:480][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.09.17-00.45.51:519][ 62]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.17-00.45.51:519][ 62]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.17-00.45.51:520][ 62]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.17-00.45.51:520][ 62]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.17-00.45.51:521][ 62]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.17-00.45.51:521][ 62]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.17-00.45.51:521][ 62]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.17-00.45.51:521][ 62]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.17-00.45.51:521][ 62]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.17-00.45.51:521][ 62]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.17-00.45.51:521][ 62]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.17-00.45.51:521][ 62]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.17-00.45.51:521][ 62]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.17-00.45.51:521][ 62]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.17-00.45.51:521][ 62]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.17-00.45.51:521][ 62]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.17-00.45.51:521][ 62]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.17-00.45.51:521][ 62]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.17-00.45.51:521][ 62]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.17-00.45.51:521][ 62]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.17-00.45.52:678][ 62]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-00.45.52:684][ 62]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-00.45.52:690][ 62]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-00.45.52:692][ 62]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-00.45.52:695][ 62]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-00.45.52:699][ 62]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-00.45.52:702][ 62]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-00.45.52:704][ 62]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-00.45.52:914][ 62]LogExit: Editor shut down
+[2023.09.17-00.45.52:916][ 62]LogExit: Transaction tracking system shut down
+[2023.09.17-00.45.52:957][ 62]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.09.17-00.45.53:187][ 62]LogExit: Object subsystem successfully closed.
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display: ================================================
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display: Total job queries 559, among them cache hits 390 (69.77%)
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display: Tracking 169 distinct input hashes that result in 104 distinct outputs (61.54%)
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display: RAM used: 3,77 MiB of 819,20 MiB budget. Usage: 0.46%
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display: Shaders Compiled: 124
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display: Jobs assigned 124, completed 124 (100%)
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display: Average time worker was idle: 6.50 s
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.59 s
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display: Job execution time: average 0.36 s, max 0.58 s
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display: Job life time (pending + execution): average 0.45 s, max 0.91
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display: Shader code size: average 38,52 KiB, min 29,984 KiB, max 61,496 KiB
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.10 s
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display: Jobs were issued in 124 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display: Average processing rate: 11.17 jobs/sec
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display: Total thread time: 32,805 s
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display: Total thread preprocess time: 3,3 s
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display: Percentage time preprocessing: 10.06%
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display: Effective parallelization: 2.96 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   24 times, average 0.31 sec, max 0.38 sec, min 0.23 sec)
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 0.31 sec, max 0.32 sec, min 0.30 sec)
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   24 times, average 0.31 sec, max 0.42 sec, min 0.21 sec)
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    4 times, average 0.30 sec, max 0.33 sec, min 0.29 sec)
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    4 times, average 0.30 sec, max 0.32 sec, min 0.28 sec)
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.86% of total time (compiled   24 times, average 0.31 sec, max 0.38 sec, min 0.23 sec)
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.53% of total time (compiled   24 times, average 0.31 sec, max 0.42 sec, min 0.21 sec)
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.52% of total time (compiled   14 times, average 0.29 sec, max 0.38 sec, min 0.22 sec)
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.95% of total time (compiled   14 times, average 0.12 sec, max 0.16 sec, min 0.08 sec)
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 3.81% of total time (compiled    4 times, average 0.31 sec, max 0.32 sec, min 0.30 sec)
+[2023.09.17-00.45.53:193][ 62]LogShaderCompilers: Display: ================================================
+[2023.09.17-00.45.53:232][ 62]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.09.17-00.45.53:309][ 62]LogVirtualization: UE::Virtualization was shutdown
+[2023.09.17-00.45.53:339][ 62]LogModuleManager: Shutting down and abandoning module MaterialEditor (1060)
+[2023.09.17-00.45.53:339][ 62]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (1058)
+[2023.09.17-00.45.53:340][ 62]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1056)
+[2023.09.17-00.45.53:340][ 62]LogModuleManager: Shutting down and abandoning module Voice (1054)
+[2023.09.17-00.45.53:340][ 62]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1052)
+[2023.09.17-00.45.53:340][ 62]LogModuleManager: Shutting down and abandoning module WebBrowser (1050)
+[2023.09.17-00.45.53:418][ 62]LogModuleManager: Shutting down and abandoning module AddContentDialog (1048)
+[2023.09.17-00.45.53:419][ 62]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1047)
+[2023.09.17-00.45.53:419][ 62]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1044)
+[2023.09.17-00.45.53:419][ 62]LogModuleManager: Shutting down and abandoning module SceneOutliner (1042)
+[2023.09.17-00.45.53:419][ 62]LogModuleManager: Shutting down and abandoning module StatusBar (1040)
+[2023.09.17-00.45.53:419][ 62]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1038)
+[2023.09.17-00.45.53:419][ 62]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1036)
+[2023.09.17-00.45.53:419][ 62]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1034)
+[2023.09.17-00.45.53:419][ 62]LogModuleManager: Shutting down and abandoning module StatsViewer (1032)
+[2023.09.17-00.45.53:419][ 62]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1030)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module AutomationWorker (1028)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module PlanarCut (1026)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module FractureEngine (1024)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module CharacterAI (1022)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module SmartSnapping (1020)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (1018)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (1016)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (1014)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (1012)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module TextureAlignMode (1010)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module BspMode (1008)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module GeometryMode (1006)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (1004)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1002)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1000)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module WebMMedia (998)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (996)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (994)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (992)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (990)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module SequenceRecorder (989)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (986)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (984)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (982)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (980)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (978)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (976)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (974)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module WaveTableEditor (972)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (970)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module RigVMEditor (968)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module GooglePADEditor (966)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (964)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (962)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module IKRigEditor (960)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module ControlRigEditor (958)
+[2023.09.17-00.45.53:420][ 62]LogModuleManager: Shutting down and abandoning module SessionServices (956)
+[2023.09.17-00.45.53:422][ 62]LogModuleManager: Shutting down and abandoning module MeshPaint (954)
+[2023.09.17-00.45.53:422][ 62]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (952)
+[2023.09.17-00.45.53:422][ 62]LogModuleManager: Shutting down and abandoning module PlacementMode (951)
+[2023.09.17-00.45.53:422][ 62]LogModuleManager: Shutting down and abandoning module FoliageEdit (948)
+[2023.09.17-00.45.53:422][ 62]LogModuleManager: Shutting down and abandoning module LandscapeEditor (946)
+[2023.09.17-00.45.53:422][ 62]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (944)
+[2023.09.17-00.45.53:422][ 62]LogModuleManager: Shutting down and abandoning module ActorPickerMode (942)
+[2023.09.17-00.45.53:422][ 62]LogModuleManager: Shutting down and abandoning module ViewportSnapping (940)
+[2023.09.17-00.45.53:422][ 62]LogModuleManager: Shutting down and abandoning module EditorWidgets (938)
+[2023.09.17-00.45.53:422][ 62]LogModuleManager: Shutting down and abandoning module ViewportInteraction (936)
+[2023.09.17-00.45.53:422][ 62]LogModuleManager: Shutting down and abandoning module ClothPainter (934)
+[2023.09.17-00.45.53:422][ 62]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (933)
+[2023.09.17-00.45.53:422][ 62]LogModuleManager: Shutting down and abandoning module WidgetRegistration (930)
+[2023.09.17-00.45.53:422][ 62]LogModuleManager: Shutting down and abandoning module LogVisualizer (928)
+[2023.09.17-00.45.53:422][ 62]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (926)
+[2023.09.17-00.45.53:422][ 62]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (924)
+[2023.09.17-00.45.53:422][ 62]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (923)
+[2023.09.17-00.45.53:422][ 62]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (921)
+[2023.09.17-00.45.53:443][ 62]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (918)
+[2023.09.17-00.45.53:443][ 62]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (916)
+[2023.09.17-00.45.53:443][ 62]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (914)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (912)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (910)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (908)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module AnimationSettings (906)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (904)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module CSVtoSVG (902)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (900)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module EditorConfig (898)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module EditorFramework (896)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (894)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module TraceInsights (892)
+[2023.09.17-00.45.53:444][ 62]MemoryProfiler: Shutdown
+[2023.09.17-00.45.53:444][ 62]NetworkingProfiler: Shutdown
+[2023.09.17-00.45.53:444][ 62]LoadingProfiler: Shutdown
+[2023.09.17-00.45.53:444][ 62]TimingProfiler: Shutdown
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module TraceServices (891)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module TraceAnalysis (890)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (886)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (885)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module InputBindingEditor (882)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module MergeActors (880)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (878)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module LocalizationService (877)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module HardwareTargeting (874)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (872)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module UndoHistory (870)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module XmlParser (868)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module Blutility (866)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (864)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (863)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (860)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (859)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module SettingsEditor (856)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module ProjectLauncher (854)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module SessionFrontend (852)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module ProfilerClient (850)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module DeviceManager (848)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module AutomationController (846)
+[2023.09.17-00.45.53:444][ 62]LogModuleManager: Shutting down and abandoning module AutomationWindow (844)
+[2023.09.17-00.45.53:445][ 62]LogModuleManager: Shutting down and abandoning module Layers (842)
+[2023.09.17-00.45.53:445][ 62]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (840)
+[2023.09.17-00.45.53:445][ 62]LogModuleManager: Shutting down and abandoning module DetailCustomizations (838)
+[2023.09.17-00.45.53:445][ 62]LogModuleManager: Shutting down and abandoning module PackagesDialog (836)
+[2023.09.17-00.45.53:445][ 62]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (834)
+[2023.09.17-00.45.53:445][ 62]LogModuleManager: Shutting down and abandoning module Persona (832)
+[2023.09.17-00.45.53:445][ 62]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (831)
+[2023.09.17-00.45.53:445][ 62]LogModuleManager: Shutting down and abandoning module Kismet (828)
+[2023.09.17-00.45.53:455][ 62]LogModuleManager: Shutting down and abandoning module KismetWidgets (827)
+[2023.09.17-00.45.53:455][ 62]LogModuleManager: Shutting down and abandoning module GraphEditor (824)
+[2023.09.17-00.45.53:455][ 62]LogModuleManager: Shutting down and abandoning module StructViewer (822)
+[2023.09.17-00.45.53:455][ 62]LogModuleManager: Shutting down and abandoning module ClassViewer (820)
+[2023.09.17-00.45.53:455][ 62]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (818)
+[2023.09.17-00.45.53:455][ 62]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (816)
+[2023.09.17-00.45.53:455][ 62]LogModuleManager: Shutting down and abandoning module SourceControlWindows (814)
+[2023.09.17-00.45.53:455][ 62]LogModuleManager: Shutting down and abandoning module OutputLog (812)
+[2023.09.17-00.45.53:456][ 62]LogModuleManager: Shutting down and abandoning module Documentation (810)
+[2023.09.17-00.45.53:456][ 62]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (808)
+[2023.09.17-00.45.53:456][ 62]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (806)
+[2023.09.17-00.45.53:456][ 62]LogModuleManager: Shutting down and abandoning module MovieScene (804)
+[2023.09.17-00.45.53:456][ 62]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (802)
+[2023.09.17-00.45.53:456][ 62]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (800)
+[2023.09.17-00.45.53:456][ 62]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (798)
+[2023.09.17-00.45.53:456][ 62]LogModuleManager: Shutting down and abandoning module AudioMixer (797)
+[2023.09.17-00.45.53:456][ 62]LogModuleManager: Shutting down and abandoning module AudioMixerCore (796)
+[2023.09.17-00.45.53:456][ 62]LogModuleManager: Shutting down and abandoning module LauncherPlatform (792)
+[2023.09.17-00.45.53:456][ 62]LogModuleManager: Shutting down and abandoning module AnalyticsET (790)
+[2023.09.17-00.45.53:456][ 62]LogModuleManager: Shutting down and abandoning module PortalServices (788)
+[2023.09.17-00.45.53:456][ 62]LogModuleManager: Shutting down and abandoning module PortalRpc (786)
+[2023.09.17-00.45.53:456][ 62]LogModuleManager: Shutting down and abandoning module MessagingRpc (784)
+[2023.09.17-00.45.53:456][ 62]LogModuleManager: Shutting down and abandoning module AIModule (782)
+[2023.09.17-00.45.53:456][ 62]LogModuleManager: Shutting down and abandoning module GameplayDebugger (781)
+[2023.09.17-00.45.53:456][ 62]LogModuleManager: Shutting down and abandoning module AITestSuite (779)
+[2023.09.17-00.45.53:456][ 62]LogModuleManager: Shutting down and abandoning module NavigationSystem (777)
+[2023.09.17-00.45.53:456][ 62]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (774)
+[2023.09.17-00.45.53:456][ 62]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (772)
+[2023.09.17-00.45.53:456][ 62]LogModuleManager: Shutting down and abandoning module TypedElementFramework (770)
+[2023.09.17-00.45.53:456][ 62]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (768)
+[2023.09.17-00.45.53:456][ 62]LogModuleManager: Shutting down and abandoning module ProfilerService (766)
+[2023.09.17-00.45.53:482][ 62]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (764)
+[2023.09.17-00.45.53:482][ 62]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (762)
+[2023.09.17-00.45.53:482][ 62]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (760)
+[2023.09.17-00.45.53:482][ 62]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (758)
+[2023.09.17-00.45.53:482][ 62]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (756)
+[2023.09.17-00.45.53:482][ 62]LogModuleManager: Shutting down and abandoning module TakesCore (754)
+[2023.09.17-00.45.53:482][ 62]LogModuleManager: Shutting down and abandoning module MegascansPlugin (752)
+[2023.09.17-00.45.53:482][ 62]LogModuleManager: Shutting down and abandoning module Bridge (750)
+[2023.09.17-00.45.53:482][ 62]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.3/Engine/Plugins/Bridge/ThirdParty/megascans/index.html?token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFsZWphbmRyb29zc2V0QGdtYWlsLmNvbSIsInNjb3BlIjpbImRlZmF1bHQ6dXNlciIsIm1lZ2FzY2Fuczp1c2VyIl0sImVwaWNBY2NvdW50SWQiOiI5ZmQ1ODg4ZTcwMzg0YWVkYWQ4Y2UzMmY1ZDkxNTdiNCIsImlzVW5yZWFsRVVMQUFjY2VwdGVkIjp0cnVlLCJpc0VwaWNBY2NvdW50Ijp0cnVlLCJxdWl4ZWxBY2NvdW50SWQiOiJjYjBiZGY0NS0zMjNhLTQ3NzYtOTg3Ni04ZWJmMDUwNmUxZTQiLCJyZWFsbSI6Im1lZ2FzY2FucyIsImV1bGFzQWNjZXB0ZWQiOlsiZXBpY19jb250ZW50IiwidWUiLCJtaGMiXSwiaWF0IjoxNjk0ODk1MjE0LCJleHAiOjE2OTQ5MjQwMTQsImlzcyI6InF1aXhlbC1zc28tcHJvZCIsImp0aSI6IjRhZGIyNzc2LTg5MjctNDJmNS1iOTcxLWQ4ZTZiYTlhOGFjZSJ9.JCmmcGSazyspxnD4oK11Cgmi70NLuKZJTMGYdjb6XdtzxXhIpxoby_uRFJ8PPlsaII4aLrmqiAuNKpk5UYxZcbo5QhEnGwKOhhil1FTMaXmYYEu6SVMBcVNZWBl1LMPBcsJ8YN6D5YH89ZArbPQ2VrPWWOSuNzrfacQZ_eZLXslCXYFmc9PBl3mjaKz35y7CBX2avhEvFfiqqr1T7iMcp3C62-O6iNKifp0rjbXR6fRN9HWqjMk3YTGVxZec5OlOpB_LnNHeuBuaXUALHH55DJBusexbJCQ6OwpTta7HlmItdwIhkfCpVmiTjffZefMoTAeioIbBBUJIdZxSCygn3A&refreshToken=Yjc3ZmJhZWYtNjNhOC00ZDYyLWE1ZGQtMzE3YmI4MDQ2NDM4#/.
+[2023.09.17-00.45.53:482][ 62]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (748)
+[2023.09.17-00.45.53:482][ 62]LogModuleManager: Shutting down and abandoning module LightMixer (746)
+[2023.09.17-00.45.53:482][ 62]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (744)
+[2023.09.17-00.45.53:482][ 62]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (742)
+[2023.09.17-00.45.53:482][ 62]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (740)
+[2023.09.17-00.45.53:482][ 62]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (738)
+[2023.09.17-00.45.53:482][ 62]LogModuleManager: Shutting down and abandoning module CollectionManager (737)
+[2023.09.17-00.45.53:482][ 62]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (734)
+[2023.09.17-00.45.53:482][ 62]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (732)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (730)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (728)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (726)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (724)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (722)
+[2023.09.17-00.45.53:483][ 62]LogOpenImageDenoise: OIDN shutting down
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (720)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (718)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (716)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (714)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (712)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module MeshLODToolset (710)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (708)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module LocalizableMessage (706)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (704)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (702)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (701)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (699)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (696)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (694)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (692)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (690)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module DataflowNodes (688)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (686)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module DataflowEditor (684)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (682)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (680)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module ChaosNiagara (678)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (676)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module FractureEditor (674)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (672)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module AutomationUtils (670)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module BackChannel (668)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (666)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (664)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module Paper2DEditor (662)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module VariantManager (660)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (659)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (656)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (654)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module SequencerScripting (652)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module TemplateSequence (650)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (648)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (646)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module UVEditorTools (644)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module UVEditor (642)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (640)
+[2023.09.17-00.45.53:483][ 62]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (638)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (636)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module PluginBrowser (634)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (632)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (630)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (628)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module EditorDebugTools (626)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module CurveEditorTools (624)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (622)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module CryptoKeys (620)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module ChangelistReview (618)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (616)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (614)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (612)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module UObjectPlugin (610)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (608)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (606)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module PluginUtils (604)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (602)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module DumpGPUServices (600)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module GitSourceControl (598)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (596)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (594)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (592)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (590)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module InterchangeEditor (588)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (586)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (584)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (582)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module InterchangeExport (580)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module InterchangeMessages (578)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module GLTFCore (576)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (574)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (572)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module InterchangeTests (570)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (568)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module MediaPlate (566)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module MediaCompositing (564)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module ImgMedia (562)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module SynthesisEditor (560)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module ResonanceAudio (558)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (556)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (554)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (552)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module InputDebugging (550)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (548)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module ModelingOperators (546)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (544)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module ModelingComponents (542)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module GeometryFramework (541)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (538)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module MeshModelingTools (536)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module DynamicMesh (534)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (532)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module GooglePAD (530)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (528)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (526)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (524)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (522)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module AudioCapture (520)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (519)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module AssetTags (516)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (514)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module AppleImageUtils (512)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module AndroidPermission (510)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (508)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (506)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module AlembicImporter (504)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module AlembicLibrary (503)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module GeometryCache (502)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (501)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module ControlRigSpline (494)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (492)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (490)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (488)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module TakeSequencer (486)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module TakeMovieScene (484)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (482)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (480)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module TraceUtilities (478)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module InputEditor (476)
+[2023.09.17-00.45.53:484][ 62]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (474)
+[2023.09.17-00.45.53:485][ 62]LogModuleManager: Shutting down and abandoning module BlueprintGraph (473)
+[2023.09.17-00.45.53:485][ 62]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (470)
+[2023.09.17-00.45.53:485][ 62]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (468)
+[2023.09.17-00.45.53:485][ 62]LogModuleManager: Shutting down and abandoning module StructUtils (466)
+[2023.09.17-00.45.53:485][ 62]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (464)
+[2023.09.17-00.45.53:485][ 62]LogModuleManager: Shutting down and abandoning module PBIK (462)
+[2023.09.17-00.45.53:485][ 62]LogModuleManager: Shutting down and abandoning module FullBodyIK (460)
+[2023.09.17-00.45.53:485][ 62]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (458)
+[2023.09.17-00.45.53:485][ 62]LogModuleManager: Shutting down and abandoning module TakeRecorder (457)
+[2023.09.17-00.45.53:485][ 62]LogModuleManager: Shutting down and abandoning module ChaosCaching (454)
+[2023.09.17-00.45.53:485][ 62]LogModuleManager: Shutting down and abandoning module Paper2D (452)
+[2023.09.17-00.45.53:485][ 62]LogModuleManager: Shutting down and abandoning module ActorSequence (450)
+[2023.09.17-00.45.53:485][ 62]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (448)
+[2023.09.17-00.45.53:485][ 62]LogModuleManager: Shutting down and abandoning module FacialAnimation (446)
+[2023.09.17-00.45.53:485][ 62]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (444)
+[2023.09.17-00.45.53:485][ 62]LogModuleManager: Shutting down and abandoning module DataValidation (442)
+[2023.09.17-00.45.53:485][ 62]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (440)
+[2023.09.17-00.45.53:485][ 62]LogModuleManager: Shutting down and abandoning module LevelEditor (439)
+[2023.09.17-00.45.53:489][ 62]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (438)
+[2023.09.17-00.45.53:489][ 62]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (436)
+[2023.09.17-00.45.53:489][ 62]LogModuleManager: Shutting down and abandoning module MainFrame (434)
+[2023.09.17-00.45.53:489][ 62]LogModuleManager: Shutting down and abandoning module HotReload (433)
+[2023.09.17-00.45.53:489][ 62]LogModuleManager: Shutting down and abandoning module TreeMap (429)
+[2023.09.17-00.45.53:489][ 62]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (426)
+[2023.09.17-00.45.53:489][ 62]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (424)
+[2023.09.17-00.45.53:489][ 62]LogModuleManager: Shutting down and abandoning module AnimationSharing (422)
+[2023.09.17-00.45.53:489][ 62]LogModuleManager: Shutting down and abandoning module InterchangePipelines (420)
+[2023.09.17-00.45.53:489][ 62]LogModuleManager: Shutting down and abandoning module InterchangeImport (418)
+[2023.09.17-00.45.53:489][ 62]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (416)
+[2023.09.17-00.45.53:489][ 62]LogModuleManager: Shutting down and abandoning module InterchangeNodes (414)
+[2023.09.17-00.45.53:489][ 62]LogModuleManager: Shutting down and abandoning module GameplayCameras (412)
+[2023.09.17-00.45.53:489][ 62]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (410)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module Synthesis (408)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module SoundFields (406)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module SignificanceManager (404)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (402)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module RigVM (400)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (396)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (394)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module MetasoundEditor (392)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module AudioWidgets (391)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (390)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (386)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module MetasoundEngine (384)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module WaveTable (383)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (381)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (378)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (376)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (374)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (372)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (370)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (368)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (366)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (365)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (362)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module CableComponent (360)
+[2023.09.17-00.45.53:490][ 62]LogModuleManager: Shutting down and abandoning module UdpMessaging (358)
+[2023.09.17-00.45.53:591][ 62]LogModuleManager: Shutting down and abandoning module TcpMessaging (356)
+[2023.09.17-00.45.53:692][ 62]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (354)
+[2023.09.17-00.45.53:692][ 62]LogModuleManager: Shutting down and abandoning module IKRig (352)
+[2023.09.17-00.45.53:692][ 62]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (350)
+[2023.09.17-00.45.53:692][ 62]LogModuleManager: Shutting down and abandoning module ControlRig (348)
+[2023.09.17-00.45.53:692][ 62]LogModuleManager: Shutting down and abandoning module Constraints (347)
+[2023.09.17-00.45.53:692][ 62]LogModuleManager: Shutting down and abandoning module AnimationData (344)
+[2023.09.17-00.45.53:692][ 62]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (342)
+[2023.09.17-00.45.53:692][ 62]LogModuleManager: Shutting down and abandoning module Niagara (340)
+[2023.09.17-00.45.53:692][ 62]LogModuleManager: Shutting down and abandoning module SignalProcessing (339)
+[2023.09.17-00.45.53:692][ 62]LogModuleManager: Shutting down and abandoning module NiagaraEditor (337)
+[2023.09.17-00.45.53:692][ 62]LogModuleManager: Shutting down and abandoning module LevelSequence (336)
+[2023.09.17-00.45.53:692][ 62]LogModuleManager: Shutting down and abandoning module ContentBrowser (334)
+[2023.09.17-00.45.53:692][ 62]LogModuleManager: Shutting down and abandoning module ToolMenus (333)
+[2023.09.17-00.45.53:692][ 62]LogModuleManager: Shutting down and abandoning module ContentBrowserData (331)
+[2023.09.17-00.45.53:692][ 62]LogModuleManager: Shutting down and abandoning module NiagaraCore (326)
+[2023.09.17-00.45.53:692][ 62]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (324)
+[2023.09.17-00.45.53:692][ 62]LogModuleManager: Shutting down and abandoning module EnhancedInput (322)
+[2023.09.17-00.45.53:692][ 62]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (320)
+[2023.09.17-00.45.53:722][ 62]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (318)
+[2023.09.17-00.45.53:722][ 62]LogModuleManager: Shutting down and abandoning module AndroidFileServer (316)
+[2023.09.17-00.45.53:722][ 62]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (314)
+[2023.09.17-00.45.53:722][ 62]LogModuleManager: Shutting down and abandoning module PacketHandler (312)
+[2023.09.17-00.45.53:722][ 62]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (310)
+[2023.09.17-00.45.53:723][ 62]LogModuleManager: Shutting down and abandoning module AnimGraph (308)
+[2023.09.17-00.45.53:723][ 62]LogModuleManager: Shutting down and abandoning module TimeManagement (306)
+[2023.09.17-00.45.53:723][ 62]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2023.09.17-00.45.53:723][ 62]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2023.09.17-00.45.53:723][ 62]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2023.09.17-00.45.53:723][ 62]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2023.09.17-00.45.53:723][ 62]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2023.09.17-00.45.53:723][ 62]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2023.09.17-00.45.53:723][ 62]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2023.09.17-00.45.53:723][ 62]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2023.09.17-00.45.53:723][ 62]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2023.09.17-00.45.53:723][ 62]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2023.09.17-00.45.53:723][ 62]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2023.09.17-00.45.53:723][ 62]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2023.09.17-00.45.53:723][ 62]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2023.09.17-00.45.53:723][ 62]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (278)
+[2023.09.17-00.45.53:723][ 62]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2023.09.17-00.45.53:723][ 62]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2023.09.17-00.45.53:723][ 62]LogModuleManager: Shutting down and abandoning module EditorStyle (270)
+[2023.09.17-00.45.53:723][ 62]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2023.09.17-00.45.53:723][ 62]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2023.09.17-00.45.53:723][ 62]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2023.09.17-00.45.53:724][ 62]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (262)
+[2023.09.17-00.45.53:724][ 62]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2023.09.17-00.45.53:724][ 62]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2023.09.17-00.45.53:724][ 62]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2023.09.17-00.45.53:724][ 62]LogModuleManager: Shutting down and abandoning module Messaging (254)
+[2023.09.17-00.45.53:724][ 62]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2023.09.17-00.45.53:724][ 62]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2023.09.17-00.45.53:724][ 62]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2023.09.17-00.45.53:730][ 62]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2023.09.17-00.45.53:730][ 62]LogModuleManager: Shutting down and abandoning module Core (244)
+[2023.09.17-00.45.53:730][ 62]LogModuleManager: Shutting down and abandoning module AssetDefinition (242)
+[2023.09.17-00.45.53:730][ 62]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2023.09.17-00.45.53:730][ 62]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2023.09.17-00.45.53:730][ 62]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2023.09.17-00.45.53:730][ 62]LogModuleManager: Shutting down and abandoning module KismetCompiler (234)
+[2023.09.17-00.45.53:730][ 62]LogModuleManager: Shutting down and abandoning module MeshBuilder (232)
+[2023.09.17-00.45.53:730][ 62]LogModuleManager: Shutting down and abandoning module NaniteBuilder (230)
+[2023.09.17-00.45.53:730][ 62]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2023.09.17-00.45.53:730][ 62]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2023.09.17-00.45.53:730][ 62]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (226)
+[2023.09.17-00.45.53:730][ 62]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (225)
+[2023.09.17-00.45.53:730][ 62]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2023.09.17-00.45.53:730][ 62]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2023.09.17-00.45.53:731][ 62]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2023.09.17-00.45.53:731][ 62]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2023.09.17-00.45.53:731][ 62]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2023.09.17-00.45.53:731][ 62]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2023.09.17-00.45.53:731][ 62]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (208)
+[2023.09.17-00.45.53:742][ 62]LogModuleManager: Shutting down and abandoning module TelemetryUtils (205)
+[2023.09.17-00.45.53:742][ 62]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2023.09.17-00.45.53:742][ 62]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (200)
+[2023.09.17-00.45.53:742][ 62]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (187)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (185)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (181)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (179)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (175)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (173)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (165)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module TextureFormat (163)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module ImageWrapper (162)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (160)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (158)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (156)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (154)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (152)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (150)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module TurnkeySupport (147)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2023.09.17-00.45.53:758][ 62]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2023.09.17-00.45.53:760][ 62]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (138)
+[2023.09.17-00.45.53:760][ 62]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (137)
+[2023.09.17-00.45.53:760][ 62]LogModuleManager: Shutting down and abandoning module Chaos (134)
+[2023.09.17-00.45.53:760][ 62]LogModuleManager: Shutting down and abandoning module GeometryCore (133)
+[2023.09.17-00.45.53:760][ 62]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2023.09.17-00.45.53:760][ 62]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2023.09.17-00.45.53:760][ 62]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2023.09.17-00.45.53:760][ 62]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2023.09.17-00.45.53:760][ 62]LogModuleManager: Shutting down and abandoning module ChaosCloth (122)
+[2023.09.17-00.45.53:760][ 62]LogModuleManager: Shutting down and abandoning module VariantManagerContent (120)
+[2023.09.17-00.45.53:760][ 62]LogModuleManager: Shutting down and abandoning module DatasmithContent (118)
+[2023.09.17-00.45.53:760][ 62]LogModuleManager: Shutting down and abandoning module GLTFExporter (116)
+[2023.09.17-00.45.53:760][ 62]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (114)
+[2023.09.17-00.45.53:760][ 62]RenderDocPlugin: plugin has been unloaded.
+[2023.09.17-00.45.53:760][ 62]LogModuleManager: Shutting down and abandoning module PixWinPlugin (112)
+[2023.09.17-00.45.53:760][ 62]LogModuleManager: Shutting down and abandoning module WmfMedia (110)
+[2023.09.17-00.45.53:763][ 62]LogModuleManager: Shutting down and abandoning module Media (109)
+[2023.09.17-00.45.53:766][ 62]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (106)
+[2023.09.17-00.45.53:766][ 62]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (104)
+[2023.09.17-00.45.53:766][ 62]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (102)
+[2023.09.17-00.45.53:766][ 62]LogModuleManager: Shutting down and abandoning module ChunkDownloader (100)
+[2023.09.17-00.45.53:766][ 62]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (98)
+[2023.09.17-00.45.53:766][ 62]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (96)
+[2023.09.17-00.45.53:766][ 62]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (94)
+[2023.09.17-00.45.53:766][ 62]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (92)
+[2023.09.17-00.45.53:767][ 62]LogModuleManager: Shutting down and abandoning module XMPP (87)
+[2023.09.17-00.45.53:767][ 62]LogModuleManager: Shutting down and abandoning module WebSockets (86)
+[2023.09.17-00.45.53:782][ 62]LogModuleManager: Shutting down and abandoning module HTTP (83)
+[2023.09.17-00.45.53:782][ 62]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2023.09.17-00.45.53:782][ 62]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE0A2F766-46E9-475A-B74E-C39CC69EAA7C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=192d896c462a03eb37d2ac9e19a2a3d7%7C9fd5888e70384aedad8ce32f5d9157b4%7C56ad3267-d1d0-4b3a-bc53-86cc52d8ccc4&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.09.17-00.45.53:785][ 62]LogModuleManager: Shutting down and abandoning module SSL (82)
+[2023.09.17-00.45.53:788][ 62]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (78)
+[2023.09.17-00.45.53:788][ 62]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (76)
+[2023.09.17-00.45.53:788][ 62]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (74)
+[2023.09.17-00.45.53:788][ 62]LogModuleManager: Shutting down and abandoning module ACLPlugin (72)
+[2023.09.17-00.45.53:788][ 62]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (70)
+[2023.09.17-00.45.53:788][ 62]LogModuleManager: Shutting down and abandoning module NiagaraShader (68)
+[2023.09.17-00.45.53:788][ 62]LogModuleManager: Shutting down and abandoning module AISupportModule (66)
+[2023.09.17-00.45.53:788][ 62]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2023.09.17-00.45.53:788][ 62]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (62)
+[2023.09.17-00.45.53:788][ 62]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (60)
+[2023.09.17-00.45.53:788][ 62]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (58)
+[2023.09.17-00.45.53:788][ 62]LogModuleManager: Shutting down and abandoning module PlatformCrypto (56)
+[2023.09.17-00.45.53:788][ 62]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (54)
+[2023.09.17-00.45.53:788][ 62]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (52)
+[2023.09.17-00.45.53:788][ 62]LogModuleManager: Shutting down and abandoning module SourceControl (51)
+[2023.09.17-00.45.53:788][ 62]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2023.09.17-00.45.53:788][ 62]LogXGEController: Cleaning working directory: C:/Users/aleja/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.09.17-00.45.53:788][ 62]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2023.09.17-00.45.53:789][ 62]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2023.09.17-00.45.53:789][ 62]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2023.09.17-00.45.53:789][ 62]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2023.09.17-00.45.53:789][ 62]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2023.09.17-00.45.53:789][ 62]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2023.09.17-00.45.53:789][ 62]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2023.09.17-00.45.53:789][ 62]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2023.09.17-00.45.53:789][ 62]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2023.09.17-00.45.53:789][ 62]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.09.17-00.45.53:789][ 62]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.09.17-00.45.53:789][ 62]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.09.17-00.45.53:791][ 62]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.09.17-00.45.53:791][ 62]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.09.17-00.45.53:791][ 62]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.09.17-00.45.53:791][ 62]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.09.17-00.45.53:791][ 62]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.09.17-00.45.53:791][ 62]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.09.17-00.45.53:791][ 62]LogPakFile: Destroying PakPlatformFile
+[2023.09.17-00.45.53:791][ 62]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.09.17-00.45.53:791][ 62]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.09.17-00.45.53:791][ 62]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.09.17-00.45.53:791][ 62]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.09.17-00.45.53:791][ 62]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.09.17-00.45.54:706][ 62]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.09.17-00.45.54:753][ 62]LogExit: Exiting.
+[2023.09.17-00.45.54:764][ 62]Log file closed, 09/17/23 02:45:54
