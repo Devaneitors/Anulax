@@ -1,3 +1,1 @@
-[0917/111207.235:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
-[0917/111207.236:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
-[0917/111406.359:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0917/115703.680:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
