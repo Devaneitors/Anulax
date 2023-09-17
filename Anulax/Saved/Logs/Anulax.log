@@ -1678,3 +1678,1360 @@ Make sure 'Boss_BP_C' has been compiled for  Set ActualRight
 [2023.09.17-11.15.16:896][608]LogPlayLevel: Display: Destroying online subsystem :Context_13
 [2023.09.17-11.15.27:956][263]LogSlate: Window 'Message Log' being destroyed
 [2023.09.17-11.15.27:961][263]LogSlate: Window 'Message Log' being destroyed
+[2023.09.17-11.16.17:861][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.09.17-11.16.17:972][554]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.16.17:976][554]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Room_4.Room_4
+[2023.09.17-11.16.17:976][554]Cmd: MAP LOAD FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.09.17-11.16.17:976][554]LightingResults: New page: Lighting Build
+[2023.09.17-11.16.17:977][554]LoadErrors: New page: Loading map: Room_4.umap
+[2023.09.17-11.16.18:032][554]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.16.18:032][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.16.18:033][554]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.09.17-11.16.18:033][554]MapCheck: New page: Map Check
+[2023.09.17-11.16.18:033][554]LightingResults: New page: Lighting Build
+[2023.09.17-11.16.18:047][554]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.17-11.16.18:052][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.09.17-11.16.18:055][554]LogWorld: UWorld::CleanupWorld for Room_4, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.16.18:055][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.16.18:068][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.09.17-11.16.18:083][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.09.17-11.16.18:087][554]LogAudio: Display: Audio Device (ID: 1) registered with world 'Room_4'.
+[2023.09.17-11.16.18:087][554]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.16.18:087][554]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-11.16.18:087][554]LogAIModule: Creating AISystem for world Room_4
+[2023.09.17-11.16.18:104][554]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.17-11.16.18:121][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.09.17-11.16.18:126][554]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.17-11.16.18:127][554]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,113ms to complete.
+[2023.09.17-11.16.18:177][555]LogShaderCompilers: Display: ================================================
+[2023.09.17-11.16.18:177][555]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.17-11.16.18:177][555]LogShaderCompilers: Display: Total job queries 50, among them cache hits 30 (60.00%)
+[2023.09.17-11.16.18:177][555]LogShaderCompilers: Display: Tracking 20 distinct input hashes that result in 15 distinct outputs (75.00%)
+[2023.09.17-11.16.18:177][555]LogShaderCompilers: Display: RAM used: 457,17 KiB of 819,20 MiB budget. Usage: 0.05%
+[2023.09.17-11.16.18:177][555]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.17-11.16.18:177][555]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.09.17-11.16.18:177][555]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2023.09.17-11.16.18:177][555]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.09.17-11.16.18:177][555]LogShaderCompilers: Display: ================================================
+[2023.09.17-11.16.19:034][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-11.16.19:061][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Room_4" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.17-11.16.19:098][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.09.17-11.16.19:107][599]LogSavePackage: Moving output files for package: /Game/Maps/Room_4
+[2023.09.17-11.16.19:108][599]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Room_441D9851D4E649D461E6D7CAE0593203D.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_4.umap'
+[2023.09.17-11.16.19:114][599]LogFileHelpers: Saving map 'Room_4' took 0.054
+[2023.09.17-11.16.19:119][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 2.92 sec)
+[2023.09.17-11.16.19:121][599]AssetCheck: New page: Asset Save: Room_4
+[2023.09.17-11.16.19:121][599]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Room_4.Room_4
+[2023.09.17-11.16.25:861][988]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C
+[2023.09.17-11.16.25:861][988]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C
+[2023.09.17-11.16.25:869][988]LogActorFactory: Actor Factory spawned Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP as actor: Boss_BP_C /Game/Maps/Room_4.Room_4:PersistentLevel.Boss_BP_C_0
+[2023.09.17-11.16.25:876][988]LogActorFactory: Actor Factory spawned Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP as actor: Boss_BP_C /Game/Maps/Room_4.Room_4:PersistentLevel.Boss_BP_C_0
+[2023.09.17-11.16.25:891][988]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.09.17-11.16.27:058][ 35]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C
+[2023.09.17-11.16.27:058][ 35]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C
+[2023.09.17-11.16.27:068][ 35]LogActorFactory: Actor Factory spawned Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP as actor: Boss_BP_C /Game/Maps/Room_4.Room_4:PersistentLevel.Boss_BP_C_1
+[2023.09.17-11.16.27:076][ 35]LogActorFactory: Actor Factory spawned Blueprint /Game/EnemiesIA/Boss/Boss_BP.Boss_BP as actor: Boss_BP_C /Game/Maps/Room_4.Room_4:PersistentLevel.Boss_BP_C_1
+[2023.09.17-11.16.50:439][400]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TargetPoint
+[2023.09.17-11.16.50:439][400]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TargetPoint
+[2023.09.17-11.16.50:441][400]LogActorFactory: Actor Factory spawned Class /Script/Engine.TargetPoint as actor: TargetPoint /Game/Maps/Room_4.Room_4:PersistentLevel.TargetPoint_0
+[2023.09.17-11.16.50:441][400]LogActorFactory: Actor Factory spawned Class /Script/Engine.TargetPoint as actor: TargetPoint /Game/Maps/Room_4.Room_4:PersistentLevel.TargetPoint_0
+[2023.09.17-11.17.12:224][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-11.17.12:254][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Room_4" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.17-11.17.12:305][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.09.17-11.17.12:321][635]LogSavePackage: Moving output files for package: /Game/Maps/Room_4
+[2023.09.17-11.17.12:322][635]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Room_476F28124490FBE70C95677B3D17059F1.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_4.umap'
+[2023.09.17-11.17.12:328][635]LogFileHelpers: Saving map 'Room_4' took 0.074
+[2023.09.17-11.17.12:342][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 3.04 sec)
+[2023.09.17-11.17.12:344][635]AssetCheck: New page: Asset Save: Room_4
+[2023.09.17-11.17.12:344][635]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Room_4.Room_4
+[2023.09.17-11.17.22:085][195]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2023.09.17-11.17.22:085][195]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2023.09.17-11.17.22:085][195]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Maps/Room_4.Room_4:PersistentLevel.NavMeshBoundsVolume_0
+[2023.09.17-11.17.22:087][195]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Maps/Room_4.Room_4:PersistentLevel.NavMeshBoundsVolume_0
+[2023.09.17-11.17.23:558][282]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2023.09.17-11.17.23:558][282]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2023.09.17-11.17.23:559][282]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Maps/Room_4.Room_4:PersistentLevel.NavMeshBoundsVolume_1
+[2023.09.17-11.17.23:559][282]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Maps/Room_4.Room_4:PersistentLevel.NavMeshBoundsVolume_1
+[2023.09.17-11.17.28:401][565]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-11.17.28:429][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Room_4" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.17-11.17.28:472][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.09.17-11.17.28:488][565]LogSavePackage: Moving output files for package: /Game/Maps/Room_4
+[2023.09.17-11.17.28:488][565]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Room_42E349E0F4ED80BABB797A1A36AD3D148.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_4.umap'
+[2023.09.17-11.17.28:495][565]LogFileHelpers: Saving map 'Room_4' took 0.066
+[2023.09.17-11.17.28:508][565]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 3.15 sec)
+[2023.09.17-11.17.28:510][565]AssetCheck: New page: Asset Save: Room_4
+[2023.09.17-11.17.28:510][565]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Room_4.Room_4
+[2023.09.17-11.17.32:152][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-11.17.32:179][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Room_4" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.17-11.17.32:215][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.09.17-11.17.32:228][783]LogSavePackage: Moving output files for package: /Game/Maps/Room_4
+[2023.09.17-11.17.32:229][783]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Room_4D887CF334B9133E6227C00966B4B8DF2.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_4.umap'
+[2023.09.17-11.17.32:235][783]LogFileHelpers: Saving map 'Room_4' took 0.057
+[2023.09.17-11.17.32:240][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 3.24 sec)
+[2023.09.17-11.17.32:241][783]AssetCheck: New page: Asset Save: Room_4
+[2023.09.17-11.17.32:241][783]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Room_4.Room_4
+[2023.09.17-11.17.39:735][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.09.17-11.17.39:776][231]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.17.39:776][231]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2023.09.17-11.17.39:776][231]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.17-11.17.39:776][231]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.09.17-11.17.39:819][231]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.09.17-11.17.39:819][231]LogWorldPartition: Display: WorldPartition initialize took 41 ms (total: 146 ms)
+[2023.09.17-11.17.39:843][231]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2023.09.17-11.17.39:843][231]Cmd: MAP LOAD FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.09.17-11.17.39:843][231]LightingResults: New page: Lighting Build
+[2023.09.17-11.17.39:843][231]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2023.09.17-11.17.39:869][231]LogWorld: UWorld::CleanupWorld for Room_4, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.17.39:869][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.17.39:870][231]MapCheck: New page: Map Check
+[2023.09.17-11.17.39:870][231]LightingResults: New page: Lighting Build
+[2023.09.17-11.17.39:883][231]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.17-11.17.39:887][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.09.17-11.17.39:889][231]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.17.39:889][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.17.39:890][231]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.09.17-11.17.39:907][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.09.17-11.17.39:920][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.09.17-11.17.39:928][231]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.09.17-11.17.39:928][231]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.17.39:928][231]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-11.17.39:929][231]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.09.17-11.17.39:929][231]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2023.09.17-11.17.39:929][231]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.17-11.17.39:929][231]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.09.17-11.17.39:972][231]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.09.17-11.17.39:972][231]LogWorldPartition: Display: WorldPartition initialize took 42 ms (total: 189 ms)
+[2023.09.17-11.17.40:028][231]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.17-11.17.40:047][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.09.17-11.17.40:053][231]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.17-11.17.40:054][231]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,31ms to complete.
+[2023.09.17-11.18.28:061][ 30]Cmd: EDIT COPY
+[2023.09.17-11.18.31:990][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.09.17-11.18.32:035][264]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.18.32:040][264]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Room_4.Room_4
+[2023.09.17-11.18.32:040][264]Cmd: MAP LOAD FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.09.17-11.18.32:040][264]LightingResults: New page: Lighting Build
+[2023.09.17-11.18.32:040][264]LoadErrors: New page: Loading map: Room_4.umap
+[2023.09.17-11.18.32:111][264]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.18.32:111][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.18.32:112][264]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.09.17-11.18.32:112][264]MapCheck: New page: Map Check
+[2023.09.17-11.18.32:112][264]LightingResults: New page: Lighting Build
+[2023.09.17-11.18.32:127][264]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.17-11.18.32:132][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.09.17-11.18.32:134][264]LogWorld: UWorld::CleanupWorld for Room_4, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.18.32:134][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.18.32:149][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.09.17-11.18.32:163][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.09.17-11.18.32:169][264]LogAudio: Display: Audio Device (ID: 1) registered with world 'Room_4'.
+[2023.09.17-11.18.32:169][264]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.18.32:170][264]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-11.18.32:170][264]LogAIModule: Creating AISystem for world Room_4
+[2023.09.17-11.18.32:192][264]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.17-11.18.32:208][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.09.17-11.18.32:214][264]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.17-11.18.32:214][264]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,115ms to complete.
+[2023.09.17-11.18.36:078][489]Cmd: EDIT PASTE
+[2023.09.17-11.18.36:141][489]LogClass: Warning: Short type name "RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1657974495" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:149][489]LogClass: Warning: Short type name "RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1657974495" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:149][489]LogProperty: Warning: WeakObjectProperty /Script/Engine.Timeline:PropertySetObject: unresolved reference to '"/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C'RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1657974495'",DirectionPropertyName="Timeline__Direction_C52C7A6D48C06696300CE28E6CB38A98")'
+[2023.09.17-11.18.36:149][489]Warning: Unable to find function Timeline__UpdateFunc in object RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1657974495 for delegate (found class: None)Unable to find function Timeline__FinishedFunc in object RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1657974495 for delegate (found class: None)
+[2023.09.17-11.18.36:168][489]LogClass: Warning: Short type name "MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365521950" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:175][489]LogClass: Warning: Short type name "MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365521950" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:175][489]LogProperty: Warning: WeakObjectProperty /Script/Engine.Timeline:PropertySetObject: unresolved reference to '"/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C'MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365521950'",DirectionPropertyName="Timeline__Direction_F37B86BE4590ECD3509F9285BCA4D49E")'
+[2023.09.17-11.18.36:175][489]Warning: Unable to find function Timeline__UpdateFunc in object MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365521950 for delegate (found class: None)Unable to find function Timeline__FinishedFunc in object MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365521950 for delegate (found class: None)
+[2023.09.17-11.18.36:194][489]LogClass: Warning: Short type name "MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1219830947" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:201][489]LogClass: Warning: Short type name "MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1219830947" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:201][489]LogProperty: Warning: WeakObjectProperty /Script/Engine.Timeline:PropertySetObject: unresolved reference to '"/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C'MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1219830947'",DirectionPropertyName="Timeline__Direction_F37B86BE4590ECD3509F9285BCA4D49E")'
+[2023.09.17-11.18.36:201][489]Warning: Unable to find function Timeline__UpdateFunc in object MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1219830947 for delegate (found class: None)Unable to find function Timeline__FinishedFunc in object MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1219830947 for delegate (found class: None)
+[2023.09.17-11.18.36:222][489]LogClass: Warning: Short type name "MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1341309491" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:230][489]LogClass: Warning: Short type name "MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1341309491" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:230][489]LogProperty: Warning: WeakObjectProperty /Script/Engine.Timeline:PropertySetObject: unresolved reference to '"/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C'MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1341309491'",DirectionPropertyName="Timeline__Direction_F37B86BE4590ECD3509F9285BCA4D49E")'
+[2023.09.17-11.18.36:230][489]Warning: Unable to find function Timeline__UpdateFunc in object MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1341309491 for delegate (found class: None)Unable to find function Timeline__FinishedFunc in object MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1341309491 for delegate (found class: None)
+[2023.09.17-11.18.36:249][489]LogClass: Warning: Short type name "RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1663532499" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:256][489]LogClass: Warning: Short type name "RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1663532499" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:256][489]LogProperty: Warning: WeakObjectProperty /Script/Engine.Timeline:PropertySetObject: unresolved reference to '"/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C'RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1663532499'",DirectionPropertyName="Timeline__Direction_C52C7A6D48C06696300CE28E6CB38A98")'
+[2023.09.17-11.18.36:256][489]Warning: Unable to find function Timeline__UpdateFunc in object RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1663532499 for delegate (found class: None)Unable to find function Timeline__FinishedFunc in object RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1663532499 for delegate (found class: None)
+[2023.09.17-11.18.36:274][489]LogClass: Warning: Short type name "MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1337793489" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:281][489]LogClass: Warning: Short type name "MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1337793489" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:281][489]LogProperty: Warning: WeakObjectProperty /Script/Engine.Timeline:PropertySetObject: unresolved reference to '"/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C'MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1337793489'",DirectionPropertyName="Timeline__Direction_F37B86BE4590ECD3509F9285BCA4D49E")'
+[2023.09.17-11.18.36:281][489]Warning: Unable to find function Timeline__UpdateFunc in object MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1337793489 for delegate (found class: None)Unable to find function Timeline__FinishedFunc in object MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1337793489 for delegate (found class: None)
+[2023.09.17-11.18.36:300][489]LogClass: Warning: Short type name "MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1364329948" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:307][489]LogClass: Warning: Short type name "MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1364329948" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:307][489]LogProperty: Warning: WeakObjectProperty /Script/Engine.Timeline:PropertySetObject: unresolved reference to '"/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C'MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1364329948'",DirectionPropertyName="Timeline__Direction_F37B86BE4590ECD3509F9285BCA4D49E")'
+[2023.09.17-11.18.36:307][489]Warning: Unable to find function Timeline__UpdateFunc in object MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1364329948 for delegate (found class: None)Unable to find function Timeline__FinishedFunc in object MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1364329948 for delegate (found class: None)
+[2023.09.17-11.18.36:326][489]LogClass: Warning: Short type name "RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658342496" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:333][489]LogClass: Warning: Short type name "RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658342496" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:333][489]LogProperty: Warning: WeakObjectProperty /Script/Engine.Timeline:PropertySetObject: unresolved reference to '"/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C'RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658342496'",DirectionPropertyName="Timeline__Direction_C52C7A6D48C06696300CE28E6CB38A98")'
+[2023.09.17-11.18.36:333][489]Warning: Unable to find function Timeline__UpdateFunc in object RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658342496 for delegate (found class: None)Unable to find function Timeline__FinishedFunc in object RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658342496 for delegate (found class: None)
+[2023.09.17-11.18.36:350][489]LogClass: Warning: Short type name "MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1335841488" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:357][489]LogClass: Warning: Short type name "MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1335841488" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:357][489]LogProperty: Warning: WeakObjectProperty /Script/Engine.Timeline:PropertySetObject: unresolved reference to '"/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C'MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1335841488'",DirectionPropertyName="Timeline__Direction_F37B86BE4590ECD3509F9285BCA4D49E")'
+[2023.09.17-11.18.36:357][489]Warning: Unable to find function Timeline__UpdateFunc in object MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1335841488 for delegate (found class: None)Unable to find function Timeline__FinishedFunc in object MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1335841488 for delegate (found class: None)
+[2023.09.17-11.18.36:376][489]LogClass: Warning: Short type name "RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1654804494" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:383][489]LogClass: Warning: Short type name "RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1654804494" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:383][489]LogProperty: Warning: WeakObjectProperty /Script/Engine.Timeline:PropertySetObject: unresolved reference to '"/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C'RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1654804494'",DirectionPropertyName="Timeline__Direction_C52C7A6D48C06696300CE28E6CB38A98")'
+[2023.09.17-11.18.36:383][489]Warning: Unable to find function Timeline__UpdateFunc in object RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1654804494 for delegate (found class: None)Unable to find function Timeline__FinishedFunc in object RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1654804494 for delegate (found class: None)
+[2023.09.17-11.18.36:401][489]LogClass: Warning: Short type name "RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658818497" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:408][489]LogClass: Warning: Short type name "RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658818497" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:408][489]LogProperty: Warning: WeakObjectProperty /Script/Engine.Timeline:PropertySetObject: unresolved reference to '"/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C'RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658818497'",DirectionPropertyName="Timeline__Direction_C52C7A6D48C06696300CE28E6CB38A98")'
+[2023.09.17-11.18.36:408][489]Warning: Unable to find function Timeline__UpdateFunc in object RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658818497 for delegate (found class: None)Unable to find function Timeline__FinishedFunc in object RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658818497 for delegate (found class: None)
+[2023.09.17-11.18.36:426][489]LogClass: Warning: Short type name "MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:433][489]LogClass: Warning: Short type name "MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:433][489]LogProperty: Warning: WeakObjectProperty /Script/Engine.Timeline:PropertySetObject: unresolved reference to '"/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C'MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492'",DirectionPropertyName="Timeline__Direction_F37B86BE4590ECD3509F9285BCA4D49E")'
+[2023.09.17-11.18.36:433][489]Warning: Unable to find function Timeline__UpdateFunc in object MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492 for delegate (found class: None)Unable to find function Timeline__FinishedFunc in object MeleeAI_BP_C_UAID_A036BCBD0C59C6A901_1342425492 for delegate (found class: None)
+[2023.09.17-11.18.36:451][489]LogClass: Warning: Short type name "RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1660226498" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:458][489]LogClass: Warning: Short type name "RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1660226498" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:459][489]LogProperty: Warning: WeakObjectProperty /Script/Engine.Timeline:PropertySetObject: unresolved reference to '"/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C'RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1660226498'",DirectionPropertyName="Timeline__Direction_C52C7A6D48C06696300CE28E6CB38A98")'
+[2023.09.17-11.18.36:459][489]Warning: Unable to find function Timeline__UpdateFunc in object RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1660226498 for delegate (found class: None)Unable to find function Timeline__FinishedFunc in object RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1660226498 for delegate (found class: None)
+[2023.09.17-11.18.36:477][489]LogClass: Warning: Short type name "MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365770951" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:484][489]LogClass: Warning: Short type name "MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365770951" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:484][489]LogProperty: Warning: WeakObjectProperty /Script/Engine.Timeline:PropertySetObject: unresolved reference to '"/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C'MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365770951'",DirectionPropertyName="Timeline__Direction_F37B86BE4590ECD3509F9285BCA4D49E")'
+[2023.09.17-11.18.36:484][489]Warning: Unable to find function Timeline__UpdateFunc in object MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365770951 for delegate (found class: None)Unable to find function Timeline__FinishedFunc in object MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365770951 for delegate (found class: None)
+[2023.09.17-11.18.36:502][489]LogClass: Warning: Short type name "MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:510][489]LogClass: Warning: Short type name "MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:510][489]LogProperty: Warning: WeakObjectProperty /Script/Engine.Timeline:PropertySetObject: unresolved reference to '"/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C'MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949'",DirectionPropertyName="Timeline__Direction_F37B86BE4590ECD3509F9285BCA4D49E")'
+[2023.09.17-11.18.36:510][489]Warning: Unable to find function Timeline__UpdateFunc in object MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949 for delegate (found class: None)Unable to find function Timeline__FinishedFunc in object MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365090949 for delegate (found class: None)
+[2023.09.17-11.18.36:528][489]LogClass: Warning: Short type name "MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365965952" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:535][489]LogClass: Warning: Short type name "MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365965952" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.09.17-11.18.36:535][489]LogProperty: Warning: WeakObjectProperty /Script/Engine.Timeline:PropertySetObject: unresolved reference to '"/Game/EnemiesIA/MeleeAI_BP.MeleeAI_BP_C'MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365965952'",DirectionPropertyName="Timeline__Direction_F37B86BE4590ECD3509F9285BCA4D49E")'
+[2023.09.17-11.18.36:535][489]Warning: Unable to find function Timeline__UpdateFunc in object MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365965952 for delegate (found class: None)Unable to find function Timeline__FinishedFunc in object MeleeAI_BP_C_UAID_A036BCBD0C59C3A901_1365965952 for delegate (found class: None)
+[2023.09.17-11.18.44:778][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-11.18.44:804][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Room_4" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.17-11.18.44:858][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.09.17-11.18.44:903][905]LogSavePackage: Moving output files for package: /Game/Maps/Room_4
+[2023.09.17-11.18.44:903][905]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Room_4D14585CE408B8320A9963BA43B51EE01.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_4.umap'
+[2023.09.17-11.18.44:910][905]LogFileHelpers: Saving map 'Room_4' took 0.107
+[2023.09.17-11.18.44:920][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 3.38 sec)
+[2023.09.17-11.18.44:922][905]AssetCheck: New page: Asset Save: Room_4
+[2023.09.17-11.18.44:922][905]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Room_4.Room_4
+[2023.09.17-11.18.50:191][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.09.17-11.18.50:234][219]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.18.50:234][219]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2023.09.17-11.18.50:234][219]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.17-11.18.50:234][219]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.09.17-11.18.50:272][219]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.09.17-11.18.50:272][219]LogWorldPartition: Display: WorldPartition initialize took 38 ms (total: 227 ms)
+[2023.09.17-11.18.50:296][219]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2023.09.17-11.18.50:296][219]Cmd: MAP LOAD FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.09.17-11.18.50:296][219]LightingResults: New page: Lighting Build
+[2023.09.17-11.18.50:297][219]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2023.09.17-11.18.50:325][219]LogWorld: UWorld::CleanupWorld for Room_4, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.18.50:326][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.18.50:326][219]MapCheck: New page: Map Check
+[2023.09.17-11.18.50:326][219]LightingResults: New page: Lighting Build
+[2023.09.17-11.18.50:341][219]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.17-11.18.50:346][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.09.17-11.18.50:349][219]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.18.50:350][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.18.50:350][219]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.09.17-11.18.50:368][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.09.17-11.18.50:384][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.09.17-11.18.50:393][219]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.09.17-11.18.50:393][219]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.18.50:393][219]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-11.18.50:393][219]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.09.17-11.18.50:394][219]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2023.09.17-11.18.50:394][219]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.17-11.18.50:394][219]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.09.17-11.18.50:436][219]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.09.17-11.18.50:436][219]LogWorldPartition: Display: WorldPartition initialize took 42 ms (total: 270 ms)
+[2023.09.17-11.18.50:491][219]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.17-11.18.50:509][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.09.17-11.18.50:514][219]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.17-11.18.50:514][219]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,254ms to complete.
+[2023.09.17-11.19.43:774][354]Cmd: EDIT COPY
+[2023.09.17-11.19.47:284][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.09.17-11.19.47:338][563]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.19.47:364][563]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Room_4.Room_4
+[2023.09.17-11.19.47:364][563]Cmd: MAP LOAD FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.09.17-11.19.47:364][563]LightingResults: New page: Lighting Build
+[2023.09.17-11.19.47:364][563]LoadErrors: New page: Loading map: Room_4.umap
+[2023.09.17-11.19.47:393][563]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.19.47:393][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.19.47:394][563]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.09.17-11.19.47:394][563]MapCheck: New page: Map Check
+[2023.09.17-11.19.47:394][563]LightingResults: New page: Lighting Build
+[2023.09.17-11.19.47:409][563]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.17-11.19.47:414][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.09.17-11.19.47:417][563]LogWorld: UWorld::CleanupWorld for Room_4, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.19.47:417][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.19.47:431][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.09.17-11.19.47:446][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.09.17-11.19.47:459][563]LogAudio: Display: Audio Device (ID: 1) registered with world 'Room_4'.
+[2023.09.17-11.19.47:459][563]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.19.47:459][563]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-11.19.47:459][563]LogAIModule: Creating AISystem for world Room_4
+[2023.09.17-11.19.47:522][563]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.17-11.19.47:541][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.09.17-11.19.47:550][563]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.17-11.19.47:550][563]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,114ms to complete.
+[2023.09.17-11.19.48:921][639]Cmd: EDIT PASTE
+[2023.09.17-11.19.48:926][639]LogProperty: Warning: ObjectProperty /Game/EnemiesIA/Boss/RangerTeleporter.RangerTeleporter_C:Ranger: unresolved reference to '"/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C'RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1663532499'"'
+[2023.09.17-11.19.48:927][639]LogProperty: Warning: ObjectProperty /Game/EnemiesIA/Boss/RangerTeleporter.RangerTeleporter_C:Ranger: unresolved reference to '"/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C'RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658342496'"'
+[2023.09.17-11.19.48:928][639]LogProperty: Warning: ObjectProperty /Game/EnemiesIA/Boss/RangerTeleporter.RangerTeleporter_C:Ranger: unresolved reference to '"/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C'RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1654804494'"'
+[2023.09.17-11.19.48:928][639]LogProperty: Warning: ObjectProperty /Game/EnemiesIA/Boss/RangerTeleporter.RangerTeleporter_C:Ranger: unresolved reference to '"/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C'RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1657974495'"'
+[2023.09.17-11.19.48:929][639]LogProperty: Warning: ObjectProperty /Game/EnemiesIA/Boss/RangerTeleporter.RangerTeleporter_C:Ranger: unresolved reference to '"/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C'RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1660226498'"'
+[2023.09.17-11.19.48:930][639]LogProperty: Warning: ObjectProperty /Game/EnemiesIA/Boss/RangerTeleporter.RangerTeleporter_C:Ranger: unresolved reference to '"/Game/EnemiesIA/RangerAI_BP.RangerAI_BP_C'RangerAI_BP_C_UAID_A036BCBD0C59C6A901_1658818497'"'
+[2023.09.17-11.20.11:228][941]LogEditorViewport: Clicking Background
+[2023.09.17-11.20.42:899][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-11.20.42:928][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Room_4" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.17-11.20.42:972][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.09.17-11.20.43:015][766]LogSavePackage: Moving output files for package: /Game/Maps/Room_4
+[2023.09.17-11.20.43:015][766]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Room_41B9E28EF4869F63DE7450BA87840C3BD.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_4.umap'
+[2023.09.17-11.20.43:022][766]LogFileHelpers: Saving map 'Room_4' took 0.095
+[2023.09.17-11.20.43:028][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 3.51 sec)
+[2023.09.17-11.20.43:029][766]AssetCheck: New page: Asset Save: Room_4
+[2023.09.17-11.20.43:029][766]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Room_4.Room_4
+[2023.09.17-11.20.57:921][641]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.09.17-11.20.57:922][641]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.09.17-11.21.11:930][474]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.09.17-11.21.11:930][474]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.09.17-11.21.17:346][795]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.09.17-11.21.17:346][795]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.09.17-11.21.24:374][213]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.09.17-11.21.24:374][213]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.09.17-11.21.28:140][435]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.09.17-11.21.28:140][435]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.09.17-11.21.31:893][656]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.09.17-11.21.31:893][656]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.09.17-11.21.35:036][842]LogEditorViewport: Clicking Background
+[2023.09.17-11.21.40:040][141]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.17-11.21.40:049][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.17-11.21.40:049][141]PIE: New page: PIE session: Room_4 (17 sept. 2023 15:21:40)
+[2023.09.17-11.21.40:050][141]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Room_4
+[2023.09.17-11.21.40:062][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011963s)
+[2023.09.17-11.21.40:062][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Room_4.Room_4 to /Game/Maps/UEDPIE_0_Room_4.Room_4 (0.012002s)
+[2023.09.17-11.21.40:075][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.09.17-11.21.40:082][141]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.21.40:082][141]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-11.21.40:083][141]LogAIModule: Creating AISystem for world Room_4
+[2023.09.17-11.21.40:083][141]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2023.09.17-11.21.40:083][141]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.09.17-11.21.40:083][141]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.17-11.21.40:083][141]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.17-11.21.40:083][141]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.17-11.21.40:083][141]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.17-11.21.40:083][141]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.17-11.21.40:083][141]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.17-11.21.40:083][141]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.17-11.21.40:083][141]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.17-11.21.40:084][141]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.17-11.21.40:084][141]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.17-11.21.40:084][141]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.17-11.21.40:085][141]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.17-11.21.40:126][141]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.09.17-11.21.40:126][141]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.17-11.21.40:126][141]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.17-11.21.40:126][141]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.17-11.21.40:128][141]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.09.17-11.21.40:128][141]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.09.17-11.21.40:129][141]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.09.17-11.21.40:129][141]LogInit: FAudioDevice initialized with ID 7.
+[2023.09.17-11.21.40:129][141]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.09.17-11.21.40:129][141]LogAudio: Display: Audio Device (ID: 7) registered with world 'Room_4'.
+[2023.09.17-11.21.40:129][141]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.09.17-11.21.40:132][141]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.17-11.21.40:139][141]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Room_4.Room_4 up for play (max tick rate 60) at 2023.09.17-13.21.40
+[2023.09.17-11.21.40:144][141]LogWorld: Bringing up level for play took: 0.011583
+[2023.09.17-11.21.40:146][141]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.09.17-11.21.40:154][141]PIE: Server logged in
+[2023.09.17-11.21.40:154][141]PIE: Play in editor total start time 0,107 seconds.
+[2023.09.17-11.21.40:157][141]LogBlueprintUserMessages: [BTTask_BossAttack_C_0] entrando en ataque
+[2023.09.17-11.21.42:563][278]LogBlueprintUserMessages: [BTTask_BossAttack_C_0] entrando en ataque
+[2023.09.17-11.21.45:081][429]LogBlueprintUserMessages: [BTTask_BossAttack_C_0] entrando en ataque
+[2023.09.17-11.21.46:181][495]LogBlueprintUserMessages: [Boss_BP_C_1] 19
+[2023.09.17-11.21.47:164][554]LogBlueprintUserMessages: [Boss_BP_C_1] 18
+[2023.09.17-11.21.47:598][580]LogBlueprintUserMessages: [BTTask_BossAttack_C_0] entrando en ataque
+[2023.09.17-11.21.48:398][628]LogBlueprintUserMessages: [Boss_BP_C_1] 17
+[2023.09.17-11.21.49:348][685]LogBlueprintUserMessages: [Boss_BP_C_1] 16
+[2023.09.17-11.21.50:115][731]LogBlueprintUserMessages: [BTTask_BossAttack_C_0] entrando en ataque
+[2023.09.17-11.21.50:299][742]LogScript: Warning: Attempted to access Bullet_BP_C_12 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_BP_C_12 is not valid (pending kill or garbage)
+	Boss_BP_C /Game/Maps/UEDPIE_0_Room_4.Room_4:PersistentLevel.Boss_BP_C_1
+	Function /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C:ExecuteUbergraph_Boss_BP:05EC
+[2023.09.17-11.21.50:299][742]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_BP_C_12 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_BP_C_12 is not valid (pending kill or garbage)". Node:  Set Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.50:299][742]LogScript: Warning: Accessed None
+	Boss_BP_C /Game/Maps/UEDPIE_0_Room_4.Room_4:PersistentLevel.Boss_BP_C_1
+	Function /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C:ExecuteUbergraph_Boss_BP:0601
+[2023.09.17-11.21.50:299][742]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.50:331][744]LogBlueprintUserMessages: [Boss_BP_C_1] 15
+[2023.09.17-11.21.51:614][821]LogBlueprintUserMessages: [Boss_BP_C_1] 14
+[2023.09.17-11.21.52:632][882]LogBlueprintUserMessages: [BTTask_BossAttack_C_0] entrando en ataque
+[2023.09.17-11.21.52:633][882]LogScript: Warning: Attempted to access Bullet_BP_C_15 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_BP_C_15 is not valid (pending kill or garbage)
+	Boss_BP_C /Game/Maps/UEDPIE_0_Room_4.Room_4:PersistentLevel.Boss_BP_C_1
+	Function /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C:ExecuteUbergraph_Boss_BP:146E
+[2023.09.17-11.21.52:633][882]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_BP_C_15 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_BP_C_15 is not valid (pending kill or garbage)". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.52:633][882]LogScript: Warning: Accessed None
+	Boss_BP_C /Game/Maps/UEDPIE_0_Room_4.Room_4:PersistentLevel.Boss_BP_C_1
+	Function /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C:ExecuteUbergraph_Boss_BP:1483
+[2023.09.17-11.21.52:633][882]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.52:633][882]LogScript: Warning: Attempted to assign to None
+	Boss_BP_C /Game/Maps/UEDPIE_0_Room_4.Room_4:PersistentLevel.Boss_BP_C_1
+	Function /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C:ExecuteUbergraph_Boss_BP:1498
+[2023.09.17-11.21.52:633][882]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.52:815][893]LogScript: Warning: Attempted to access Bullet_BP_C_15 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_BP_C_15 is not valid (pending kill or garbage)
+	Boss_BP_C /Game/Maps/UEDPIE_0_Room_4.Room_4:PersistentLevel.Boss_BP_C_1
+	Function /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C:ExecuteUbergraph_Boss_BP:05EC
+[2023.09.17-11.21.52:815][893]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_BP_C_15 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_BP_C_15 is not valid (pending kill or garbage)". Node:  Set Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.52:815][893]LogScript: Warning: Accessed None
+	Boss_BP_C /Game/Maps/UEDPIE_0_Room_4.Room_4:PersistentLevel.Boss_BP_C_1
+	Function /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C:ExecuteUbergraph_Boss_BP:0601
+[2023.09.17-11.21.52:815][893]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.52:815][893]LogScript: Warning: Attempted to access Bullet_BP_C_16 via property CallFunc_FinishSpawningActor_ReturnValue_1, but Bullet_BP_C_16 is not valid (pending kill or garbage)
+	Boss_BP_C /Game/Maps/UEDPIE_0_Room_4.Room_4:PersistentLevel.Boss_BP_C_1
+	Function /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C:ExecuteUbergraph_Boss_BP:067E
+[2023.09.17-11.21.52:815][893]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_BP_C_16 via property CallFunc_FinishSpawningActor_ReturnValue_1, but Bullet_BP_C_16 is not valid (pending kill or garbage)". Node:  Set Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.52:815][893]LogScript: Warning: Accessed None
+	Boss_BP_C /Game/Maps/UEDPIE_0_Room_4.Room_4:PersistentLevel.Boss_BP_C_1
+	Function /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C:ExecuteUbergraph_Boss_BP:0693
+[2023.09.17-11.21.52:815][893]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.52:815][893]LogScript: Warning: Attempted to assign to None
+	Boss_BP_C /Game/Maps/UEDPIE_0_Room_4.Room_4:PersistentLevel.Boss_BP_C_1
+	Function /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C:ExecuteUbergraph_Boss_BP:06A8
+[2023.09.17-11.21.52:815][893]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.53:016][905]LogScript: Warning: Attempted to access Bullet_BP_C_17 via property CallFunc_FinishSpawningActor_ReturnValue_2, but Bullet_BP_C_17 is not valid (pending kill or garbage)
+	Boss_BP_C /Game/Maps/UEDPIE_0_Room_4.Room_4:PersistentLevel.Boss_BP_C_1
+	Function /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C:ExecuteUbergraph_Boss_BP:0930
+[2023.09.17-11.21.53:016][905]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_BP_C_17 via property CallFunc_FinishSpawningActor_ReturnValue_2, but Bullet_BP_C_17 is not valid (pending kill or garbage)". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.53:016][905]LogScript: Warning: Accessed None
+	Boss_BP_C /Game/Maps/UEDPIE_0_Room_4.Room_4:PersistentLevel.Boss_BP_C_1
+	Function /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C:ExecuteUbergraph_Boss_BP:0945
+[2023.09.17-11.21.53:016][905]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.53:016][905]LogScript: Warning: Attempted to assign to None
+	Boss_BP_C /Game/Maps/UEDPIE_0_Room_4.Room_4:PersistentLevel.Boss_BP_C_1
+	Function /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C:ExecuteUbergraph_Boss_BP:095A
+[2023.09.17-11.21.53:016][905]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.53:016][905]LogScript: Warning: Attempted to access Bullet_BP_C_16 via property CallFunc_FinishSpawningActor_ReturnValue_1, but Bullet_BP_C_16 is not valid (pending kill or garbage)
+	Boss_BP_C /Game/Maps/UEDPIE_0_Room_4.Room_4:PersistentLevel.Boss_BP_C_1
+	Function /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C:ExecuteUbergraph_Boss_BP:0965
+[2023.09.17-11.21.53:016][905]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_BP_C_16 via property CallFunc_FinishSpawningActor_ReturnValue_1, but Bullet_BP_C_16 is not valid (pending kill or garbage)". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.53:016][905]LogScript: Warning: Accessed None
+	Boss_BP_C /Game/Maps/UEDPIE_0_Room_4.Room_4:PersistentLevel.Boss_BP_C_1
+	Function /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C:ExecuteUbergraph_Boss_BP:097A
+[2023.09.17-11.21.53:016][905]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.55:149][ 33]LogBlueprintUserMessages: [BTTask_BossAttack_C_0] entrando en ataque
+[2023.09.17-11.21.55:150][ 33]LogScript: Warning: Attempted to access Bullet_BP_C_18 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_BP_C_18 is not valid (pending kill or garbage)
+	Boss_BP_C /Game/Maps/UEDPIE_0_Room_4.Room_4:PersistentLevel.Boss_BP_C_1
+	Function /Game/EnemiesIA/Boss/Boss_BP.Boss_BP_C:ExecuteUbergraph_Boss_BP:146E
+[2023.09.17-11.21.55:150][ 33]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_BP_C_18 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_BP_C_18 is not valid (pending kill or garbage)". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.55:150][ 33]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.55:150][ 33]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.55:333][ 44]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_BP_C_18 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_BP_C_18 is not valid (pending kill or garbage)". Node:  Set Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.55:333][ 44]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.55:333][ 44]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_BP_C_19 via property CallFunc_FinishSpawningActor_ReturnValue_1, but Bullet_BP_C_19 is not valid (pending kill or garbage)". Node:  Set Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.55:333][ 44]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.55:333][ 44]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.55:532][ 56]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_BP_C_20 via property CallFunc_FinishSpawningActor_ReturnValue_2, but Bullet_BP_C_20 is not valid (pending kill or garbage)". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.55:532][ 56]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.55:532][ 56]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.55:532][ 56]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_BP_C_19 via property CallFunc_FinishSpawningActor_ReturnValue_1, but Bullet_BP_C_19 is not valid (pending kill or garbage)". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.55:532][ 56]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.57:665][184]LogBlueprintUserMessages: [BTTask_BossAttack_C_0] entrando en ataque
+[2023.09.17-11.21.57:666][184]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_BP_C_21 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_BP_C_21 is not valid (pending kill or garbage)". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.57:666][184]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.57:666][184]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.57:849][195]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_BP_C_21 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_BP_C_21 is not valid (pending kill or garbage)". Node:  Set Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.57:849][195]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.57:849][195]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_BP_C_22 via property CallFunc_FinishSpawningActor_ReturnValue_1, but Bullet_BP_C_22 is not valid (pending kill or garbage)". Node:  Set Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.57:849][195]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.57:849][195]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.58:049][207]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_BP_C_23 via property CallFunc_FinishSpawningActor_ReturnValue_2, but Bullet_BP_C_23 is not valid (pending kill or garbage)". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.58:049][207]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.58:049][207]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.58:049][207]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_BP_C_22 via property CallFunc_FinishSpawningActor_ReturnValue_1, but Bullet_BP_C_22 is not valid (pending kill or garbage)". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.58:049][207]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Boss BP Blueprint:  Boss_BP
+[2023.09.17-11.21.58:666][244]LogNet: Browse: /Game/Maps/MainMenu
+[2023.09.17-11.21.58:667][244]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2023.09.17-11.21.58:667][244]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Room_4
+[2023.09.17-11.21.58:668][244]LogWorld: UWorld::CleanupWorld for Room_4, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.21.58:669][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.21.58:688][244]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.17-11.21.58:695][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.09.17-11.21.58:702][244]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenu'.
+[2023.09.17-11.21.58:702][244]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.21.58:702][244]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-11.21.58:702][244]LogAIModule: Creating AISystem for world MainMenu
+[2023.09.17-11.21.58:702][244]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2023.09.17-11.21.58:702][244]LogLoad: Game class is 'MainMenu_GameMode_C'
+[2023.09.17-11.21.58:703][244]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2023.09.17-13.21.58
+[2023.09.17-11.21.58:703][244]LogWorld: Bringing up level for play took: 0.000748
+[2023.09.17-11.21.58:704][244]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.09.17-11.21.58:706][244]LogLoad: Took 0.039528 seconds to LoadMap(/Game/Maps/MainMenu)
+[2023.09.17-11.22.00:680][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.17-11.22.00:680][360]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2023.09.17-11.22.00:680][360]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.22.00:680][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.22.00:683][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.17-11.22.00:686][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.22.00:699][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.17-11.22.00:700][360]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.09.17-11.22.00:700][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.09.17-11.22.00:701][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.09.17-11.22.00:709][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.09.17-11.22.00:808][361]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.09.17-11.22.13:259][920]LogAutomationController: Ignoring very large delta of 2.63 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.09.17-11.22.18:493][235]LogSlate: Window 'Message Log' being destroyed
+[2023.09.17-11.22.18:499][235]LogSlate: Window 'Message Log' being destroyed
+[2023.09.17-11.22.21:147][386]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.17-11.22.21:154][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.17-11.22.21:154][386]PIE: New page: PIE session: Room_4 (17 sept. 2023 15:22:21)
+[2023.09.17-11.22.21:155][386]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Room_4
+[2023.09.17-11.22.21:172][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017297s)
+[2023.09.17-11.22.21:172][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Room_4.Room_4 to /Game/Maps/UEDPIE_0_Room_4.Room_4 (0.017339s)
+[2023.09.17-11.22.21:185][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.09.17-11.22.21:188][386]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.22.21:188][386]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-11.22.21:189][386]LogAIModule: Creating AISystem for world Room_4
+[2023.09.17-11.22.21:189][386]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2023.09.17-11.22.21:189][386]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.09.17-11.22.21:189][386]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.17-11.22.21:189][386]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.17-11.22.21:189][386]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.17-11.22.21:189][386]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.17-11.22.21:189][386]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.17-11.22.21:189][386]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.17-11.22.21:189][386]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.17-11.22.21:189][386]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.17-11.22.21:190][386]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.17-11.22.21:190][386]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.17-11.22.21:190][386]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.17-11.22.21:191][386]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.17-11.22.21:232][386]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.09.17-11.22.21:232][386]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.17-11.22.21:232][386]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.17-11.22.21:232][386]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.17-11.22.21:233][386]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.09.17-11.22.21:233][386]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.09.17-11.22.21:235][386]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.09.17-11.22.21:235][386]LogInit: FAudioDevice initialized with ID 8.
+[2023.09.17-11.22.21:235][386]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.09.17-11.22.21:235][386]LogAudio: Display: Audio Device (ID: 8) registered with world 'Room_4'.
+[2023.09.17-11.22.21:235][386]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.09.17-11.22.21:237][386]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.17-11.22.21:244][386]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Room_4.Room_4 up for play (max tick rate 60) at 2023.09.17-13.22.21
+[2023.09.17-11.22.21:249][386]LogWorld: Bringing up level for play took: 0.011488
+[2023.09.17-11.22.21:251][386]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.09.17-11.22.21:258][386]PIE: Server logged in
+[2023.09.17-11.22.21:259][386]PIE: Play in editor total start time 0,105 seconds.
+[2023.09.17-11.22.21:261][386]LogBlueprintUserMessages: [BTTask_BossAttack_C_0] entrando en ataque
+[2023.09.17-11.22.23:670][523]LogBlueprintUserMessages: [BTTask_BossAttack_C_0] entrando en ataque
+[2023.09.17-11.22.26:187][674]LogBlueprintUserMessages: [BTTask_BossAttack_C_0] entrando en ataque
+[2023.09.17-11.22.26:987][722]LogNet: Browse: /Game/Maps/MainMenu
+[2023.09.17-11.22.26:987][722]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2023.09.17-11.22.26:987][722]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Room_4
+[2023.09.17-11.22.26:988][722]LogWorld: UWorld::CleanupWorld for Room_4, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.22.26:989][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.22.27:005][722]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.17-11.22.27:011][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.09.17-11.22.27:016][722]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainMenu'.
+[2023.09.17-11.22.27:016][722]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.22.27:016][722]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-11.22.27:016][722]LogAIModule: Creating AISystem for world MainMenu
+[2023.09.17-11.22.27:016][722]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2023.09.17-11.22.27:016][722]LogLoad: Game class is 'MainMenu_GameMode_C'
+[2023.09.17-11.22.27:017][722]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2023.09.17-13.22.27
+[2023.09.17-11.22.27:017][722]LogWorld: Bringing up level for play took: 0.000421
+[2023.09.17-11.22.27:017][722]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.09.17-11.22.27:018][722]LogLoad: Took 0.031202 seconds to LoadMap(/Game/Maps/MainMenu)
+[2023.09.17-11.22.28:700][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.17-11.22.28:700][821]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2023.09.17-11.22.28:700][821]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.22.28:700][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.22.28:702][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.17-11.22.28:707][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.22.28:719][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.17-11.22.28:719][821]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.09.17-11.22.28:719][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.09.17-11.22.28:721][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.09.17-11.22.28:728][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.09.17-11.22.28:770][823]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.09.17-11.22.30:045][899]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.17-11.22.30:053][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.17-11.22.30:053][899]PIE: New page: PIE session: Room_4 (17 sept. 2023 15:22:30)
+[2023.09.17-11.22.30:053][899]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Room_4
+[2023.09.17-11.22.30:065][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011889s)
+[2023.09.17-11.22.30:065][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Room_4.Room_4 to /Game/Maps/UEDPIE_0_Room_4.Room_4 (0.011920s)
+[2023.09.17-11.22.30:079][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.09.17-11.22.30:081][899]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.22.30:081][899]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-11.22.30:081][899]LogAIModule: Creating AISystem for world Room_4
+[2023.09.17-11.22.30:081][899]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2023.09.17-11.22.30:081][899]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.09.17-11.22.30:082][899]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.17-11.22.30:082][899]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.17-11.22.30:082][899]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.17-11.22.30:082][899]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.17-11.22.30:082][899]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.17-11.22.30:082][899]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.17-11.22.30:082][899]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.17-11.22.30:082][899]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.17-11.22.30:082][899]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.17-11.22.30:082][899]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.17-11.22.30:082][899]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.17-11.22.30:084][899]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.17-11.22.30:123][899]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.09.17-11.22.30:124][899]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.17-11.22.30:124][899]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.17-11.22.30:124][899]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.17-11.22.30:124][899]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.09.17-11.22.30:124][899]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.09.17-11.22.30:126][899]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.09.17-11.22.30:126][899]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.09.17-11.22.30:126][899]LogInit: FAudioDevice initialized with ID 9.
+[2023.09.17-11.22.30:126][899]LogAudio: Display: Audio Device (ID: 9) registered with world 'Room_4'.
+[2023.09.17-11.22.30:126][899]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.09.17-11.22.30:128][899]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.17-11.22.30:135][899]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Room_4.Room_4 up for play (max tick rate 60) at 2023.09.17-13.22.30
+[2023.09.17-11.22.30:140][899]LogWorld: Bringing up level for play took: 0.011520
+[2023.09.17-11.22.30:142][899]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.09.17-11.22.30:150][899]PIE: Server logged in
+[2023.09.17-11.22.30:151][899]PIE: Play in editor total start time 0,098 seconds.
+[2023.09.17-11.22.30:153][899]LogBlueprintUserMessages: [BTTask_BossAttack_C_0] entrando en ataque
+[2023.09.17-11.22.32:566][ 36]LogBlueprintUserMessages: [BTTask_BossAttack_C_0] entrando en ataque
+[2023.09.17-11.22.35:083][187]LogBlueprintUserMessages: [BTTask_BossAttack_C_0] entrando en ataque
+[2023.09.17-11.22.37:599][338]LogBlueprintUserMessages: [BTTask_BossAttack_C_0] entrando en ataque
+[2023.09.17-11.22.40:115][489]LogBlueprintUserMessages: [BTTask_BossAttack_C_0] entrando en ataque
+[2023.09.17-11.22.41:732][586]LogBlueprintUserMessages: [Boss_BP_C_1] 19
+[2023.09.17-11.22.42:633][640]LogBlueprintUserMessages: [BTTask_BossAttack_C_0] entrando en ataque
+[2023.09.17-11.22.43:615][699]LogBlueprintUserMessages: [Boss_BP_C_1] 18
+[2023.09.17-11.22.45:149][791]LogBlueprintUserMessages: [BTTask_BossAttack_C_0] entrando en ataque
+[2023.09.17-11.22.45:582][817]LogBlueprintUserMessages: [Boss_BP_C_1] 17
+[2023.09.17-11.22.46:598][878]LogBlueprintUserMessages: [Boss_BP_C_1] 16
+[2023.09.17-11.22.47:432][928]LogBlueprintUserMessages: [Boss_BP_C_1] 15
+[2023.09.17-11.22.47:666][942]LogBlueprintUserMessages: [BTTask_BossAttack_C_0] entrando en ataque
+[2023.09.17-11.22.48:498][992]LogBlueprintUserMessages: [Boss_BP_C_1] 14
+[2023.09.17-11.22.49:315][ 41]LogBlueprintUserMessages: [Boss_BP_C_1] 13
+[2023.09.17-11.22.50:183][ 93]LogBlueprintUserMessages: [BTTask_BossAttack_C_0] entrando en ataque
+[2023.09.17-11.22.51:031][144]LogBlueprintUserMessages: [Boss_BP_C_1] 12
+[2023.09.17-11.22.51:831][192]LogBlueprintUserMessages: [Boss_BP_C_1] 11
+[2023.09.17-11.22.52:699][244]LogBlueprintUserMessages: [BTTask_BossAttack_C_0] entrando en ataque
+[2023.09.17-11.22.53:631][300]LogBlueprintUserMessages: [Boss_BP_C_1] 10
+[2023.09.17-11.22.54:431][348]LogBlueprintUserMessages: [Boss_BP_C_1] 9
+[2023.09.17-11.22.57:348][523]LogBlueprintUserMessages: [Boss_BP_C_1] 8
+[2023.09.17-11.23.00:234][696]LogBlueprintUserMessages: [BTTask_BossAttack_C_1] entrando en ataque
+[2023.09.17-11.23.00:235][696]LogBlueprintUserMessages: [Boss_BP_C_1] atacando
+[2023.09.17-11.23.01:252][757]LogBlueprintUserMessages: [BTTask_BossAttack_C_1] entrando en ataque
+[2023.09.17-11.23.01:252][757]LogBlueprintUserMessages: [Boss_BP_C_1] atacando
+[2023.09.17-11.23.01:484][771]LogBlueprintUserMessages: [Boss_BP_C_1] 7
+[2023.09.17-11.23.01:735][786]LogBlueprintUserMessages: [Boss_BP_C_1] hit
+[2023.09.17-11.23.03:575][896]LogBlueprintUserMessages: [Boss_BP_C_1] 6
+[2023.09.17-11.23.05:292][999]LogBlueprintUserMessages: [Boss_BP_C_1] 5
+[2023.09.17-11.23.07:059][105]LogBlueprintUserMessages: [Boss_BP_C_1] 4
+[2023.09.17-11.23.08:408][186]LogBlueprintUserMessages: [Boss_BP_C_1] 3
+[2023.09.17-11.23.09:808][270]LogBlueprintUserMessages: [Boss_BP_C_1] 2
+[2023.09.17-11.23.11:108][348]LogBlueprintUserMessages: [Boss_BP_C_1] 1
+[2023.09.17-11.23.24:376][144]LogScript: Warning: Accessed None trying to read property PlayerWidget
+	BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Room_4.Room_4:PersistentLevel.BP_ThirdPersonCharacter_C_6
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0206
+[2023.09.17-11.23.24:376][144]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerWidget". Node:  Life Manager Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2023.09.17-11.23.40:229][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.17-11.23.40:229][ 93]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Room_4
+[2023.09.17-11.23.40:230][ 93]LogWorld: UWorld::CleanupWorld for Room_4, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.23.40:231][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.23.40:234][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.17-11.23.40:240][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.23.40:252][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.17-11.23.40:253][ 93]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.09.17-11.23.40:254][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.09.17-11.23.40:255][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.09.17-11.23.40:273][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.09.17-11.23.40:357][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.09.17-11.23.45:910][418]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.09.17-11.23.45:910][418]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.23.45:910][418]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-11.23.48:309][545]LogSlate: Window 'Message Log' being destroyed
+[2023.09.17-11.23.48:315][545]LogSlate: Window 'Message Log' being destroyed
+[2023.09.17-11.23.55:171][955]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.23.55:171][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.24.00:151][228]LogViewport: Scene viewport resized to 461x203, mode Windowed.
+[2023.09.17-11.24.03:983][448]Cmd: DELETE
+[2023.09.17-11.24.03:983][448]Cmd: ACTOR DELETE
+[2023.09.17-11.24.03:988][448]LogEditorActor: Deleted Actor: BP_ThirdPersonCharacter_C
+[2023.09.17-11.24.04:029][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.09.17-11.24.04:032][448]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2023.09.17-11.24.27:609][828]LogEditorViewport: Clicking Background
+[2023.09.17-11.24.32:454][114]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-11.24.32:486][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Room_4" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.17-11.24.32:529][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.09.17-11.24.32:569][114]LogSavePackage: Moving output files for package: /Game/Maps/Room_4
+[2023.09.17-11.24.32:570][114]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Room_414E3FEB84A818635B1C91E96E319F235.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_4.umap'
+[2023.09.17-11.24.32:578][114]LogFileHelpers: Saving map 'Room_4' took 0.092
+[2023.09.17-11.24.32:583][114]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 3.63 sec)
+[2023.09.17-11.24.32:584][114]AssetCheck: New page: Asset Save: Room_4
+[2023.09.17-11.24.32:584][114]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Room_4.Room_4
+[2023.09.17-11.24.47:568][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.09.17-11.24.47:816][ 12]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.24.47:837][ 12]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Room_2.Room_2
+[2023.09.17-11.24.47:837][ 12]Cmd: MAP LOAD FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.09.17-11.24.47:837][ 12]LightingResults: New page: Lighting Build
+[2023.09.17-11.24.47:838][ 12]LoadErrors: New page: Loading map: Room_2.umap
+[2023.09.17-11.24.47:869][ 12]LogWorld: UWorld::CleanupWorld for Room_4, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.24.47:869][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.24.47:870][ 12]MapCheck: New page: Map Check
+[2023.09.17-11.24.47:870][ 12]LightingResults: New page: Lighting Build
+[2023.09.17-11.24.47:884][ 12]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.17-11.24.47:890][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.09.17-11.24.47:896][ 12]LogWorld: UWorld::CleanupWorld for Room_2, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.24.47:896][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.24.47:913][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.09.17-11.24.47:928][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.09.17-11.24.47:941][ 12]LogAudio: Display: Audio Device (ID: 1) registered with world 'Room_2'.
+[2023.09.17-11.24.47:941][ 12]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.24.47:941][ 12]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-11.24.47:942][ 12]LogAIModule: Creating AISystem for world Room_2
+[2023.09.17-11.24.47:980][ 12]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.17-11.24.48:000][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.09.17-11.24.48:012][ 12]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.17-11.24.48:012][ 12]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,196ms to complete.
+[2023.09.17-11.24.52:606][270]LogEditorViewport: Clicking Background
+[2023.09.17-11.24.58:975][646]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.25.01:519][789]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/EnemiesIA/RangerAI_BP.RangerAI_BP
+[2023.09.17-11.25.01:519][789]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.25.01:519][789]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-11.25.02:857][852]LogViewport: Scene viewport resized to 1161x447, mode Windowed.
+[2023.09.17-11.25.11:985][376]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-11.25.12:014][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/RangerAI_BP" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/RangerAI_BP.uasset" SILENT=true
+[2023.09.17-11.25.12:035][376]LogSavePackage: Moving output files for package: /Game/EnemiesIA/RangerAI_BP
+[2023.09.17-11.25.12:036][376]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/RangerAI_BP9859B1B64FA104D15499BBBD6133C668.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/RangerAI_BP.uasset'
+[2023.09.17-11.25.12:042][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 3.69 sec)
+[2023.09.17-11.25.12:044][376]AssetCheck: New page: Asset Save: RangerAI_BP
+[2023.09.17-11.25.12:044][376]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/RangerAI_BP.RangerAI_BP
+[2023.09.17-11.25.14:613][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-11.25.14:646][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemiesIA/RangerAI_BP" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/RangerAI_BP.uasset" SILENT=true
+[2023.09.17-11.25.14:668][529]LogSavePackage: Moving output files for package: /Game/EnemiesIA/RangerAI_BP
+[2023.09.17-11.25.14:668][529]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/RangerAI_BP103D35F24BEDACA682B6E2ACAEA8F473.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/EnemiesIA/RangerAI_BP.uasset'
+[2023.09.17-11.25.14:674][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 3.75 sec)
+[2023.09.17-11.25.14:676][529]AssetCheck: New page: Asset Save: RangerAI_BP
+[2023.09.17-11.25.14:676][529]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnemiesIA/RangerAI_BP.RangerAI_BP
+[2023.09.17-11.25.19:105][792]LogEditorViewport: Clicking Background
+[2023.09.17-11.25.31:592][528]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-11.25.31:628][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Room_2" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.17-11.25.31:669][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.09.17-11.25.31:703][528]LogSavePackage: Moving output files for package: /Game/Maps/Room_2
+[2023.09.17-11.25.31:704][528]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Room_2B91DB6FE4D1D707A48F591BC0CA7802A.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_2.umap'
+[2023.09.17-11.25.31:710][528]LogFileHelpers: Saving map 'Room_2' took 0.083
+[2023.09.17-11.25.31:726][528]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 3.89 sec)
+[2023.09.17-11.25.31:727][528]AssetCheck: New page: Asset Save: Room_2
+[2023.09.17-11.25.31:727][528]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Room_2.Room_2
+[2023.09.17-11.25.37:565][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.09.17-11.25.37:601][873]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.25.37:604][873]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Room.Room
+[2023.09.17-11.25.37:605][873]Cmd: MAP LOAD FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.09.17-11.25.37:605][873]LightingResults: New page: Lighting Build
+[2023.09.17-11.25.37:605][873]LoadErrors: New page: Loading map: Room.umap
+[2023.09.17-11.25.37:660][873]LogWorld: UWorld::CleanupWorld for Room_2, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.25.37:660][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.25.37:661][873]MapCheck: New page: Map Check
+[2023.09.17-11.25.37:661][873]LightingResults: New page: Lighting Build
+[2023.09.17-11.25.37:673][873]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.17-11.25.37:677][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.09.17-11.25.37:679][873]LogWorld: UWorld::CleanupWorld for Room, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.25.37:679][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.25.37:694][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.09.17-11.25.37:707][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.09.17-11.25.37:711][873]LogAudio: Display: Audio Device (ID: 1) registered with world 'Room'.
+[2023.09.17-11.25.37:711][873]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.25.37:712][873]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-11.25.37:712][873]LogAIModule: Creating AISystem for world Room
+[2023.09.17-11.25.37:727][873]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.17-11.25.37:743][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.09.17-11.25.37:748][873]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.17-11.25.37:748][873]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,106ms to complete.
+[2023.09.17-11.25.39:164][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.09.17-11.25.39:302][951]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.25.39:317][951]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Room_1.Room_1
+[2023.09.17-11.25.39:317][951]Cmd: MAP LOAD FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.09.17-11.25.39:317][951]LightingResults: New page: Lighting Build
+[2023.09.17-11.25.39:317][951]LoadErrors: New page: Loading map: Room_1.umap
+[2023.09.17-11.25.39:358][951]LogWorld: UWorld::CleanupWorld for Room, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.25.39:358][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.25.39:358][951]MapCheck: New page: Map Check
+[2023.09.17-11.25.39:358][951]LightingResults: New page: Lighting Build
+[2023.09.17-11.25.39:375][951]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.17-11.25.39:379][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.09.17-11.25.39:402][951]LogWorld: UWorld::CleanupWorld for Room_1, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.25.39:402][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.25.39:427][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.09.17-11.25.39:446][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.09.17-11.25.39:465][951]LogAudio: Display: Audio Device (ID: 1) registered with world 'Room_1'.
+[2023.09.17-11.25.39:465][951]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.25.39:465][951]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-11.25.39:466][951]LogAIModule: Creating AISystem for world Room_1
+[2023.09.17-11.25.39:503][951]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.17-11.25.39:527][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.09.17-11.25.39:535][951]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.17-11.25.39:536][951]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,194ms to complete.
+[2023.09.17-11.25.45:146][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.09.17-11.25.45:215][268]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.25.45:235][268]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Room_3.Room_3
+[2023.09.17-11.25.45:236][268]Cmd: MAP LOAD FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.09.17-11.25.45:236][268]LightingResults: New page: Lighting Build
+[2023.09.17-11.25.45:236][268]LoadErrors: New page: Loading map: Room_3.umap
+[2023.09.17-11.25.45:265][268]LogWorld: UWorld::CleanupWorld for Room_1, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.25.45:266][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.25.45:266][268]MapCheck: New page: Map Check
+[2023.09.17-11.25.45:266][268]LightingResults: New page: Lighting Build
+[2023.09.17-11.25.45:281][268]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.17-11.25.45:284][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.09.17-11.25.45:287][268]LogWorld: UWorld::CleanupWorld for Room_3, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.25.45:288][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.25.45:303][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.09.17-11.25.45:318][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.09.17-11.25.45:328][268]LogAudio: Display: Audio Device (ID: 1) registered with world 'Room_3'.
+[2023.09.17-11.25.45:328][268]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.25.45:328][268]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-11.25.45:328][268]LogAIModule: Creating AISystem for world Room_3
+[2023.09.17-11.25.45:369][268]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.17-11.25.45:386][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.09.17-11.25.45:395][268]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.17-11.25.45:395][268]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,117ms to complete.
+[2023.09.17-11.25.48:397][432]LogEditorViewport: Clicking Background
+[2023.09.17-11.25.49:872][520]LogEditorViewport: Clicking Background
+[2023.09.17-11.25.51:073][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.09.17-11.25.51:128][591]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.25.51:154][591]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Room_4.Room_4
+[2023.09.17-11.25.51:154][591]Cmd: MAP LOAD FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.09.17-11.25.51:154][591]LightingResults: New page: Lighting Build
+[2023.09.17-11.25.51:154][591]LoadErrors: New page: Loading map: Room_4.umap
+[2023.09.17-11.25.51:180][591]LogWorld: UWorld::CleanupWorld for Room_3, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.25.51:180][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.25.51:180][591]MapCheck: New page: Map Check
+[2023.09.17-11.25.51:180][591]LightingResults: New page: Lighting Build
+[2023.09.17-11.25.51:193][591]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.17-11.25.51:197][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.09.17-11.25.51:199][591]LogWorld: UWorld::CleanupWorld for Room_4, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.25.51:199][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.25.51:216][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.09.17-11.25.51:231][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.09.17-11.25.51:243][591]LogAudio: Display: Audio Device (ID: 1) registered with world 'Room_4'.
+[2023.09.17-11.25.51:243][591]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.25.51:244][591]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-11.25.51:244][591]LogAIModule: Creating AISystem for world Room_4
+[2023.09.17-11.25.51:300][591]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.17-11.25.51:320][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.09.17-11.25.51:327][591]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.17-11.25.51:327][591]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,11ms to complete.
+[2023.09.17-11.25.53:799][733]LogEditorViewport: Clicking Background
+[2023.09.17-11.25.54:101][751]LogEditorViewport: Clicking Background
+[2023.09.17-11.25.54:505][775]LogEditorViewport: Clicking Background
+[2023.09.17-11.25.56:263][876]LogEditorViewport: Clicking Background
+[2023.09.17-11.25.58:134][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.09.17-11.25.58:184][987]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.25.58:192][987]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Room_1.Room_1
+[2023.09.17-11.25.58:193][987]Cmd: MAP LOAD FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.09.17-11.25.58:193][987]LightingResults: New page: Lighting Build
+[2023.09.17-11.25.58:193][987]LoadErrors: New page: Loading map: Room_1.umap
+[2023.09.17-11.25.58:227][987]LogWorld: UWorld::CleanupWorld for Room_4, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.25.58:227][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.25.58:228][987]MapCheck: New page: Map Check
+[2023.09.17-11.25.58:228][987]LightingResults: New page: Lighting Build
+[2023.09.17-11.25.58:241][987]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.17-11.25.58:246][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.09.17-11.25.58:248][987]LogWorld: UWorld::CleanupWorld for Room_1, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.25.58:248][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.25.58:264][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.09.17-11.25.58:278][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.09.17-11.25.58:291][987]LogAudio: Display: Audio Device (ID: 1) registered with world 'Room_1'.
+[2023.09.17-11.25.58:291][987]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.25.58:291][987]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-11.25.58:292][987]LogAIModule: Creating AISystem for world Room_1
+[2023.09.17-11.25.58:315][987]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.17-11.25.58:333][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.09.17-11.25.58:338][987]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.17-11.25.58:339][987]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,122ms to complete.
+[2023.09.17-11.26.08:143][537]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.09.17-11.26.08:143][537]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.09.17-11.26.08:145][537]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/Room_1.Room_1:PersistentLevel.StaticMeshActor_29
+[2023.09.17-11.26.08:145][537]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/Room_1.Room_1:PersistentLevel.StaticMeshActor_29
+[2023.09.17-11.26.50:229][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-11.26.50:261][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Room_1" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.17-11.26.50:302][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.09.17-11.26.50:338][956]LogSavePackage: Moving output files for package: /Game/Maps/Room_1
+[2023.09.17-11.26.50:338][956]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Room_17225D6EE473172252AF4A390DC67EDE7.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_1.umap'
+[2023.09.17-11.26.50:345][956]LogFileHelpers: Saving map 'Room_1' took 0.086
+[2023.09.17-11.26.50:359][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 4.02 sec)
+[2023.09.17-11.26.50:362][956]AssetCheck: New page: Asset Save: Room_1
+[2023.09.17-11.26.50:362][956]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Room_1.Room_1
+[2023.09.17-11.26.51:518][ 25]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.17-11.26.51:525][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.17-11.26.51:525][ 25]PIE: New page: PIE session: Room_1 (17 sept. 2023 15:26:51)
+[2023.09.17-11.26.51:525][ 25]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Room_1
+[2023.09.17-11.26.51:534][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008698s)
+[2023.09.17-11.26.51:534][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Room_1.Room_1 to /Game/Maps/UEDPIE_0_Room_1.Room_1 (0.008731s)
+[2023.09.17-11.26.51:546][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.09.17-11.26.51:547][ 25]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.26.51:547][ 25]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-11.26.51:547][ 25]LogAIModule: Creating AISystem for world Room_1
+[2023.09.17-11.26.51:548][ 25]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2023.09.17-11.26.51:548][ 25]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.09.17-11.26.51:548][ 25]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.17-11.26.51:548][ 25]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.17-11.26.51:548][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.17-11.26.51:548][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.17-11.26.51:548][ 25]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.17-11.26.51:548][ 25]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.17-11.26.51:548][ 25]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.17-11.26.51:548][ 25]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.17-11.26.51:548][ 25]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.17-11.26.51:548][ 25]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.17-11.26.51:548][ 25]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.17-11.26.51:550][ 25]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.17-11.26.51:591][ 25]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.09.17-11.26.51:592][ 25]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.17-11.26.51:592][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.17-11.26.51:592][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.17-11.26.51:592][ 25]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.09.17-11.26.51:592][ 25]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.09.17-11.26.51:594][ 25]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.09.17-11.26.51:594][ 25]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.09.17-11.26.51:594][ 25]LogInit: FAudioDevice initialized with ID 10.
+[2023.09.17-11.26.51:594][ 25]LogAudio: Display: Audio Device (ID: 10) registered with world 'Room_1'.
+[2023.09.17-11.26.51:594][ 25]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.09.17-11.26.51:597][ 25]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.17-11.26.51:601][ 25]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Room_1.Room_1 up for play (max tick rate 60) at 2023.09.17-13.26.51
+[2023.09.17-11.26.51:602][ 25]LogWorld: Bringing up level for play took: 0.005039
+[2023.09.17-11.26.51:605][ 25]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.09.17-11.26.51:608][ 25]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2023.09.17-11.26.51:608][ 25]PIE: Server logged in
+[2023.09.17-11.26.51:609][ 25]PIE: Play in editor total start time 0,085 seconds.
+[2023.09.17-11.26.59:910][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.17-11.26.59:910][514]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Room_1
+[2023.09.17-11.26.59:910][514]LogWorld: UWorld::CleanupWorld for Room_1, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.26.59:911][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.26.59:914][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.17-11.26.59:920][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.26.59:933][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.17-11.26.59:933][514]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.09.17-11.26.59:933][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.09.17-11.26.59:935][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.09.17-11.26.59:945][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.09.17-11.27.00:019][515]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.09.17-11.27.01:281][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-11.27.01:312][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Room_1" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.17-11.27.01:351][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.09.17-11.27.01:383][589]LogSavePackage: Moving output files for package: /Game/Maps/Room_1
+[2023.09.17-11.27.01:384][589]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Room_1F0B876C24A254C31446949B730B7255B.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_1.umap'
+[2023.09.17-11.27.01:391][589]LogFileHelpers: Saving map 'Room_1' took 0.080
+[2023.09.17-11.27.01:396][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 4.13 sec)
+[2023.09.17-11.27.01:398][589]AssetCheck: New page: Asset Save: Room_1
+[2023.09.17-11.27.01:398][589]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Room_1.Room_1
+[2023.09.17-11.27.28:481][202]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.17-11.27.28:600][204]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.27.29:101][233]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Room_1.Room_1:PersistentLevel.Room_1
+[2023.09.17-11.27.29:101][233]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.27.29:101][233]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-11.27.43:456][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-11.27.43:477][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Room_1" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.17-11.27.43:527][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.09.17-11.27.43:559][ 78]LogSavePackage: Moving output files for package: /Game/Maps/Room_1
+[2023.09.17-11.27.43:559][ 78]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Room_16FD6CA2140109C46CB4F3E9926C4BDAA.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_1.umap'
+[2023.09.17-11.27.43:567][ 78]LogFileHelpers: Saving map 'Room_1' took 0.090
+[2023.09.17-11.27.43:573][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 4.25 sec)
+[2023.09.17-11.27.43:575][ 78]AssetCheck: New page: Asset Save: Room_1
+[2023.09.17-11.27.43:575][ 78]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Room_1.Room_1
+[2023.09.17-11.27.44:811][152]BlueprintLog: New page: Compile Room_1
+[2023.09.17-11.27.44:838][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.09.17-11.27.45:572][195]LogSlate: Window 'Room' being destroyed
+[2023.09.17-11.27.45:582][195]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-11.27.45:582][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-11.27.49:707][434]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.09.17-11.27.49:707][434]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-11.27.49:707][434]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-11.28.07:872][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-11.28.08:252][459]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.09.17-11.28.08:253][459]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/BP_ThirdPersonCharacterE22F79984547C7D86AEB2A9C96FA636B.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.09.17-11.28.08:259][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 386 ms (total: 4.64 sec)
+[2023.09.17-11.28.08:260][459]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.09.17-11.28.08:260][459]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.09.17-11.28.11:902][660]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-11.28.12:376][660]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.09.17-11.28.12:377][660]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/BP_ThirdPersonCharacter6F0438CF48457DDF21CA06A0D2747175.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.09.17-11.28.12:384][660]LogFileHelpers: InternalPromptForCheckoutAndSave took 483 ms (total: 5.12 sec)
+[2023.09.17-11.28.12:386][660]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.09.17-11.28.12:386][660]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.09.17-11.28.12:559][671]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.09.17-11.28.12:630][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
