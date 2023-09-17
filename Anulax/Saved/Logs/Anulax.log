@@ -3043,3 +3043,194 @@ UnknownFunction []
 [2023.09.17-10.09.44:259][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 2.96 sec)
 [2023.09.17-10.09.44:260][ 40]AssetCheck: New page: Asset Save: Room_3
 [2023.09.17-10.09.44:260][ 40]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Room_3.Room_3
+[2023.09.17-10.10.05:493][288]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.17-10.10.05:504][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.17-10.10.05:504][288]PIE: New page: PIE session: Room_3 (17 sept. 2023 14:10:05)
+[2023.09.17-10.10.05:504][288]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Room_3
+[2023.09.17-10.10.05:513][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009479s)
+[2023.09.17-10.10.05:513][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Room_3.Room_3 to /Game/Maps/UEDPIE_0_Room_3.Room_3 (0.009515s)
+[2023.09.17-10.10.05:526][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.09.17-10.10.05:527][288]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-10.10.05:527][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-10.10.05:528][288]LogAIModule: Creating AISystem for world Room_3
+[2023.09.17-10.10.05:528][288]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2023.09.17-10.10.05:528][288]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.09.17-10.10.05:528][288]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.17-10.10.05:528][288]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.17-10.10.05:528][288]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.17-10.10.05:528][288]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.17-10.10.05:528][288]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.17-10.10.05:528][288]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.17-10.10.05:528][288]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.17-10.10.05:528][288]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.17-10.10.05:529][288]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.17-10.10.05:529][288]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.17-10.10.05:529][288]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.17-10.10.05:531][288]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.17-10.10.05:571][288]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.09.17-10.10.05:571][288]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.17-10.10.05:571][288]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.17-10.10.05:571][288]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.17-10.10.05:572][288]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.09.17-10.10.05:572][288]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.09.17-10.10.05:574][288]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.09.17-10.10.05:574][288]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.09.17-10.10.05:574][288]LogInit: FAudioDevice initialized with ID 15.
+[2023.09.17-10.10.05:574][288]LogAudio: Display: Audio Device (ID: 15) registered with world 'Room_3'.
+[2023.09.17-10.10.05:574][288]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.09.17-10.10.05:576][288]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.17-10.10.05:581][288]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Room_3.Room_3 up for play (max tick rate 0) at 2023.09.17-12.10.05
+[2023.09.17-10.10.05:583][288]LogWorld: Bringing up level for play took: 0.006829
+[2023.09.17-10.10.05:586][288]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.09.17-10.10.05:591][288]PIE: Server logged in
+[2023.09.17-10.10.05:592][288]PIE: Play in editor total start time 0,09 seconds.
+[2023.09.17-10.10.06:404][330]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=119.188 Y=-209.344 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.06:655][345]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9.739 Y=-192.632 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.07:927][423]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=119.188 Y=-209.344 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.08:176][439]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9.739 Y=-192.632 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.09:455][520]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=119.188 Y=-209.344 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.09:655][532]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-36.799 Y=1064.134 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.09:672][533]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-40.146 Y=1065.177 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.09:673][533]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-39.628 Y=1064.181 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.09:704][535]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9.739 Y=-192.632 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.10:980][614]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=119.188 Y=-209.344 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.11:178][626]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-36.799 Y=1064.134 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.11:195][627]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-40.146 Y=1065.177 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.11:196][627]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-39.628 Y=1064.181 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.11:228][629]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9.739 Y=-192.632 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.12:496][709]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=119.188 Y=-209.344 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.12:701][722]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-36.799 Y=1064.134 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.12:717][723]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-39.628 Y=1064.181 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.12:717][723]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-40.146 Y=1065.177 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.12:748][725]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9.739 Y=-192.632 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.14:023][804]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=119.188 Y=-209.344 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.14:265][819]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9.739 Y=-192.632 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.15:550][900]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=119.188 Y=-209.344 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.15:786][915]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9.739 Y=-192.632 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.16:295][947]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-40.146 Y=1065.177 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.16:296][947]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-39.628 Y=1064.181 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.16:314][948]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-36.799 Y=1064.134 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.17:073][996]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=119.188 Y=-209.344 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.17:315][ 11]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9.739 Y=-192.632 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.17:822][ 42]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-39.628 Y=1064.181 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.17:823][ 42]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-40.146 Y=1065.177 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.17:840][ 43]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-36.799 Y=1064.134 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.18:601][ 90]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=119.188 Y=-209.344 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.18:847][105]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9.739 Y=-192.632 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.19:339][137]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-39.628 Y=1064.181 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.19:339][137]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-40.146 Y=1065.177 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.19:371][139]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-36.799 Y=1064.134 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.19:507][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.17-10.10.19:507][145]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Room_3
+[2023.09.17-10.10.19:508][145]LogWorld: UWorld::CleanupWorld for Room_3, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-10.10.19:509][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-10.10.19:512][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.17-10.10.19:517][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-10.10.19:529][145]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.17-10.10.19:530][145]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.09.17-10.10.19:530][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.09.17-10.10.19:532][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.09.17-10.10.19:537][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.17-10.10.19:542][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.09.17-10.10.19:627][146]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.09.17-10.10.21:262][244]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.17-10.10.21:270][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.17-10.10.21:270][244]PIE: New page: PIE session: Room_3 (17 sept. 2023 14:10:21)
+[2023.09.17-10.10.21:271][244]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Room_3
+[2023.09.17-10.10.21:280][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009999s)
+[2023.09.17-10.10.21:280][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Room_3.Room_3 to /Game/Maps/UEDPIE_0_Room_3.Room_3 (0.010037s)
+[2023.09.17-10.10.21:295][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.09.17-10.10.21:299][244]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.17-10.10.21:299][244]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.17-10.10.21:300][244]LogAIModule: Creating AISystem for world Room_3
+[2023.09.17-10.10.21:300][244]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2023.09.17-10.10.21:300][244]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.09.17-10.10.21:300][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.17-10.10.21:300][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.17-10.10.21:300][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.17-10.10.21:300][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.17-10.10.21:300][244]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.17-10.10.21:300][244]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.17-10.10.21:300][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.17-10.10.21:300][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.17-10.10.21:301][244]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.17-10.10.21:301][244]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.17-10.10.21:301][244]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.17-10.10.21:303][244]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.17-10.10.21:342][244]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.09.17-10.10.21:342][244]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.17-10.10.21:342][244]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.17-10.10.21:342][244]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.17-10.10.21:343][244]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.09.17-10.10.21:343][244]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.09.17-10.10.21:345][244]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.09.17-10.10.21:345][244]LogInit: FAudioDevice initialized with ID 16.
+[2023.09.17-10.10.21:345][244]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.09.17-10.10.21:345][244]LogAudio: Display: Audio Device (ID: 16) registered with world 'Room_3'.
+[2023.09.17-10.10.21:345][244]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.09.17-10.10.21:348][244]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.17-10.10.21:352][244]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Room_3.Room_3 up for play (max tick rate 0) at 2023.09.17-12.10.21
+[2023.09.17-10.10.21:355][244]LogWorld: Bringing up level for play took: 0.006881
+[2023.09.17-10.10.21:358][244]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.09.17-10.10.21:363][244]PIE: Server logged in
+[2023.09.17-10.10.21:364][244]PIE: Play in editor total start time 0,094 seconds.
+[2023.09.17-10.10.22:169][287]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=119.220 Y=-209.009 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.22:385][300]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=11.962 Y=-160.729 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.23:688][381]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=119.220 Y=-209.009 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.23:908][395]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=11.962 Y=-160.729 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.25:219][478]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=119.220 Y=-209.009 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.25:430][491]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=11.962 Y=-160.729 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.25:495][495]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-36.986 Y=1066.000 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.25:495][495]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-32.097 Y=1064.217 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.25:511][496]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-31.490 Y=1064.090 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.26:740][573]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=119.220 Y=-209.009 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.26:952][586]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=11.962 Y=-160.729 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.27:017][590]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-32.097 Y=1064.217 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.27:018][590]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-36.986 Y=1066.000 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.27:035][591]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-31.490 Y=1064.090 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.28:257][667]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=119.220 Y=-209.009 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.28:480][681]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=11.962 Y=-160.729 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.28:543][685]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-32.097 Y=1064.217 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.28:543][685]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-36.986 Y=1066.000 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.28:561][686]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-31.490 Y=1064.090 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.29:785][763]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=119.220 Y=-209.009 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.30:014][777]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=11.962 Y=-160.729 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.31:302][856]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=119.220 Y=-209.009 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.31:542][871]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=11.962 Y=-160.729 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.32:701][946]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-228.815 Y=1064.071 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.32:702][946]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-228.849 Y=1064.005 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.32:718][947]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-230.908 Y=1064.003 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.32:824][954]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=119.220 Y=-209.009 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.33:072][970]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=11.962 Y=-160.729 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.34:229][ 44]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-228.849 Y=1064.005 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.34:230][ 44]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-228.815 Y=1064.071 Z=100.150] for [Bullet_BP_C]
+[2023.09.17-10.10.34:268][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.17-10.10.34:268][ 44]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Room_3
+[2023.09.17-10.10.34:268][ 44]LogWorld: UWorld::CleanupWorld for Room_3, bSessionEnded=true, bCleanupResources=true
+[2023.09.17-10.10.34:269][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-10.10.34:272][ 44]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.17-10.10.34:277][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.17-10.10.34:290][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.17-10.10.34:291][ 44]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.09.17-10.10.34:291][ 44]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.09.17-10.10.34:292][ 44]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.09.17-10.10.34:302][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.09.17-10.10.34:385][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.09.17-10.10.35:327][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-10.10.35:360][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Room_3" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.17-10.10.35:400][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.09.17-10.10.35:429][101]LogSavePackage: Moving output files for package: /Game/Maps/Room_3
+[2023.09.17-10.10.35:430][101]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Room_3914BAF8A4AC0D53365C381B0EB2470A8.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_3.umap'
+[2023.09.17-10.10.35:436][101]LogFileHelpers: Saving map 'Room_3' took 0.076
+[2023.09.17-10.10.35:441][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 3.08 sec)
+[2023.09.17-10.10.35:443][101]AssetCheck: New page: Asset Save: Room_3
+[2023.09.17-10.10.35:443][101]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Room_3.Room_3
+[2023.09.17-10.10.43:325][602]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-10.10.43:358][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Room_3" FILE="../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.17-10.10.43:398][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.09.17-10.10.43:424][602]LogSavePackage: Moving output files for package: /Game/Maps/Room_3
+[2023.09.17-10.10.43:425][602]LogSavePackage: Moving '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Saved/Room_3F1C221DB47B06A1B500D4B92271A95B1.tmp' to '../../../../../../Users/aleja/Documents/GitHub/Anulax/Anulax/Content/Maps/Room_3.umap'
+[2023.09.17-10.10.43:431][602]LogFileHelpers: Saving map 'Room_3' took 0.073
+[2023.09.17-10.10.43:438][602]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 3.19 sec)
+[2023.09.17-10.10.43:439][602]AssetCheck: New page: Asset Save: Room_3
+[2023.09.17-10.10.43:439][602]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Room_3.Room_3
